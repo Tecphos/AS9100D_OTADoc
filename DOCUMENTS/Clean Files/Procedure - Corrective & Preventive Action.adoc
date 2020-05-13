@@ -1,0 +1,375 @@
+=== Procedure: [Corrective Preventive Action Proc. Title] +
+
+*Rev. [Rev Number]* +
+
+*[Full Client Name Reg Caps]*
+
+---
+
+[arabic]
+. *[.underline]#SUMMARY#*
+[arabic]
+.. In an effort to ensure continual improvement, [Short Client Name]
+    engages in corrective and preventive action to discover, investigate,
+    and correct nonconformances related to [Short Client Name] products, its
+    processes, and the company’s quality system.
+.. For internal issues, the company refers to this as the [CAR Form
+    Name] ([CAR Form Abbreviation]) system.
+.. For issues which are found to be the fault of suppliers, the Supplier
+    Corrective Action Request (SCAR) system is used; this is defined in the
+    procedure *_[Purchasing Proc. Title]._*
+. *[.underline]#REVISION AND APPROVAL#*
++
+[cols=",,,",options="header",]
+|===
+|*Rev.* |*Date* |*Nature of Changes* |*Approved By*
+|[Rev Number] |[Date of Issue] |Original issue. |[Procedure Approver
+Name]
+
+| | | |
+
+| | | |
+|===
+
+[arabic, start=3]
+. *[.underline]#PROCEDURE#*
+[arabic]
+.. The [CAR Form Name] system shall be used to address all of the
+    following:
+    * Customer complaints
+    * Employee reports of problems with equipment, procedures, processes, buildings, infrastructure
+    * Employee suggestions for improvement
+    * Resolving trends associated with product nonconformities
+    * Process nonconformities
+    * Audit findings (internal or external)
+    * Management review action items
+    * Any other reported problem or suggestion, no matter the source
++
+[arabic]
+.. All employees are empowered to submit a corrective or preventive action
+    request when they discover an existing or potential nonconformity
+    against ISO 9001 requirements, company procedures, customer
+    requirements, or statutory/regulatory requirements.
+.. In addition, customer complaints, returns, and/or reports of
+    nonconformances shall be handled through corrective action procedures.
+
+.. In addition, employees may submit suggestions for improvement to the
+    company through the [CAR Form Name] system.
+
+.. Individual [.underline]#product# issues (scrap parts, nonconforming
+    parts, etc.) should be first written up per the procedure *_[Control of
+    NCP Proc. Title]_*. When trends are noticed within nonconforming
+    products, then a *_[CAR Form Name]_* may be issued to investigate the
+    cause of the trend.
+
+.. This system provides for the reporting and resolution of both
+    [.underline]#corrective# action requests (existing problems) and
+    [.underline]#preventive# action requests (potential problems.)
+
+.. The *_[CAR Form Name]_* system is comprised of two forms:
+
+* The *_[CAR Form Name]_* – this is used by employees to request
+    corrective or preventive action, or to submit suggestions for
+    improvement.
+
+* The *_[CAR Form Name] Log_* – this is used to track [CAR Form
+    Abbreviation]s and to provide trend data on the [CAR Form Abbreviation]
+    system for later management review.
++
+.. To request corrective or preventive action, or to submit a suggestion
+    for improvement, the employee obtains the [CAR Form Abbreviation] form;
+    this may be filled out by hand, or by filling in the electronic form in
+    MS Excel ®.
+
+.. The employee requesting action fills out the top portion, completing the
+    following:
+
+* *_[CAR Form Abbreviation]_ number:* leave blank (this will be filled in
+    later)
+
+* *Type of action requested:* select corrective when reporting existing
+    problems, “preventive” when reporting potential problems, or
+    “opportunity for improvement / suggestion” when the report is a pure
+    improvement action, unrelated to any particular problem.
+
+* *Source:* indicate where the report originates from. In most cases, this
+    will be from employees, but if an employee is filling the [CAR Form
+    Abbreviation] on behalf of someone else, indicate the original source
+    (i.e., customer, supplier, external auditor, etc.)
+
+* *Process*: indicate the process for which the issue being reported is
+    mostly likely covered by. The employee may guess here, as the [CAR
+    System Manager Title] may revise this later, as needed.
+
+* *Priority*: indicate a priority based on the following criteria:
+
+** *LOW*: Respond as availability allows; may extend deadline with
+      permission of [CAR System Manager Title].
+
+  ** *MEDIUM*: Respond as soon as feasible; deadline established, but may be
+      interrupted by higher priority activities.
+
+  ** *HIGH*: Respond by established deadline, which may interrupt other staff
+      working low or medium priority activities.
+
+  * *URGENT / CRITICAL*: Respond immediately with sustained effort using all
+      available resources until resolved. Company at legal or other compliance
+      risk.
+
+* *The Issue:* describe the problem being reported or the suggestion
+    offered; be as detailed as possible. Internal audit findings must comply
+    with the requirements put forth in the procedure *_[Internal Auditing
+    Proc. Title]._*
++
+.. The employee will then send the [CAR Form Abbreviation] form to the [CAR
+    System Manager Title].
+
+.. The [CAR System Manager Title] will then begin an entry for the [CAR
+    Form Abbreviation] form in the [CAR Form Name] Log by entering the
+    information in the next available line in the log. The information
+    entered should match that indicated on the [CAR Form Abbreviation] form
+    (i.e., the process, priority, etc.) Under “Brief Description, only a
+    short sentence describing the issue need be entered, not the entire text
+    of the issue; this is only to help remember the nature of the [CAR Form
+    Name] later.
+
+.. The [CAR System Manager Title] will assign the [CAR Form Abbreviation]
+    to one or more employees who are best able to research and resolve the
+    issue, and enter this in both the log and the [CAR Form Abbreviation]
+    form under “Assigned To.” This person is hereinafter referred to as the
+    “Assignee.”
+
+.. The [CAR System Manager Title] will assign a response date for the [CAR
+    Form Abbreviation]; this can be whatever time frame the [CAR System
+    Manager Title] thinks is suitable for the issue being investigated. The
+    consideration of this time frame will take into consideration the level
+    of effort expected, costs, risks, etc.; for example, some actions may
+    take months to correct and resolve, while others may take days or less.
+    If necessary, the [CAR System Manager Title] will determine this time
+    frame with the help of the assignee.
+
+.. The [CAR System Manager Title] will then send the [CAR Form
+    Abbreviation] to the assignee.
+
+.. The log will highlight when [CAR Form Abbreviation]s are overdue, based
+    on the assigned date. In the event of an overdue [CAR Form
+    Abbreviation], the [CAR System Manager Title] will either negotiate a
+    revised date with the Assignee, or escalate the [CAR Form Abbreviation]
+    to the Assignee’s manager for attention.
+
+.. The Assignee shall conduct a root cause analysis to determine the
+    cause(s) of the problem. This exercise should be thoughtful and
+    detailed, so as to ensure the actual root causes are identified. Failure
+    to properly conduct root cause analysis may result in the wrong cause
+    being acted upon, and thus the problem not being permanently resolved.
+    Sections 4 and 5 below provide guidance on root cause analysis and
+    related human factors considerations.
+
+.. Root cause analysis is mandatory for corrective or preventive actions;
+    it is not required for opportunities for improvement or suggestions
+    since these may not be attached to any known problem; in such cases root
+    cause analysis is optional.
+
+.. The Assignee will then develop an action plan to address the root cause
+    and eliminate it. By eliminating the root cause, the problem should
+    never occur or recur.
+
+.. For some preventive and corrective action issues, management may elect
+    to perform a risk assessment as part of the action plan determination;
+    see *_[Risk Management Proc. Title]._*
+
+.. The Assignee will then implement the plan, updating the text of the [CAR
+    Form Abbreviation] as the plan progresses. During this time the plan may
+    change, or expand, etc., so the text must be updated to reflect the
+    actions assigned and taken.
+
+.. Once the action is complete, and the Assignee feels the issue is
+    resolved, he/she will sign the [CAR Form Abbreviation] and indicate a
+    completion date. They shall then return the [CAR Form Abbreviation] to
+    the [CAR System Manager Title].
+
+.. The [CAR System Manager Title] will update the log entry for the [CAR
+    Form Abbreviation], indicating the action complete date.
+
+.. The [CAR System Manager Title] will perform independent verification of
+    the actions taken to ensure the actions are effective in resolving the
+    root cause(s). This verification should examine evidence and take into
+    consideration the following:
+    * Has the action plan removed the root cause(s)?
+    * Does the action appear to eliminate the original issue reported?
+    * Were any related documents updated, as needed?
+    * Was training conducted, if required?
+    * Does the action require an update to the internal audit schedule?
+    * Were all interested parties properly notified of the actions taken?
++
+.. The [CAR System Manager Title] will record the results of the
+    verification activity in the log.
+
+.. If the issue is satisfactorily addressed, the [CAR System Manager Title]
+    may close the [CAR Form Abbreviation] by indicating this in the final
+    column on the log. The [CAR Form Abbreviation] form is then filed.
+
+.. If the [CAR System Manager Title] determines the issue is not properly
+    addressed, the [CAR Form Name] may be re-assigned for further action, or
+    a new [CAR Form Abbreviation] filed. This is indicated in the log.
+
+.. The [CAR Form Name] Log generates trend reports for both corrective and
+    preventive actions over time; these are reported during management
+    review.
+
+[arabic, start=4]
+. *[.underline]#ROOT CAUSE ANALYSIS (GUIDANCE)#*
+[arabic]
+.. Proper resolution of a problem is achieved by eliminating the root cause
+    of the problem; when the cause is eliminated, the problem cannot recur.
+
+.. This means the first step is to identify the root cause, by conducting
+    “root cause analysis.”
+
+.. The root cause is the source of the problem; it is what caused the
+    problem to occur in the first place. Typically, a problem will have a
+    single root cause, but multiple root causes are often possible as well.
+    In such cases, all root causes must be eliminated.
+
+.. One method for identifying root causes is called the “5 Why” approach.
+    This is conducting by asking “Why did this occur?” developing an answer,
+    and then asking “why?” again relevant to the answer. You continue this
+    until you determine the root cause, and can no longer ask “why?” any
+    further.
+
+.. While this is called the “5 Why” method, and implies you must ask “why?”
+    five times, sometimes you may reach the root cause sooner, and in other
+    cases you must ask “why?” more than five times. You conduct this
+    exercise to the level of detail driven by the complexity of the issue.
+
+.. For example, if the problem is that a product came out wrong from a
+    machine, the “five whys” might be:
++
+*WHY # 1:*
++
+Q: “Why did this happen?”
++
+A: Employee error – employee did not follow instructions.
++
+*WHY # 2:*
++
+Q: Why did the employee not follow instructions?
++
+A: The employee did not know there were instructions required for the
+job.
++
+*WHY # 3:*
++
+Q: Why didn’t the employee know about the instructions?
++
+A: There were no instructions distributed to the employee’s work area.
++
+*WHY # 4:*
++
+Q: Why weren’t the instructions distributed to the employee?
++
+A: The employee’s work area was not listed on the document distribution
+list.
++
+*WHY # 5:*
++
+Q: Why wasn’t the work area included on the list?
++
+A: The area was new and was not added to the list when it was
+implemented.
++
+Given the scenario above, the proper action plan would be to correct the
+distribution list. If the Assignee had stopped at “Why # 1”, the
+employee would have been wrongfully blamed.
++
+.. Typically, if you arrive to a root cause of “operator error,” it
+    indicates you must pursue additional analysis. Operator error is rarely
+    the actual root cause. See additional guidance on human error and human
+    factors in section 5 below.
+
+.. Once the root cause is identified, you may then define a plan which
+    resolves the root cause, either correcting and preventing the recurrence
+    (for a corrective actions) or preventing the occurrence (for preventive
+    actions) of the issue.
+
+.. All action plans must seek to eradicate the root cause(s) permanently.
+
+[arabic, start=5]
+. *[.underline]#HUMAN ERROR AND HUMAN FACTORS (GUIDANCE)#*
+[arabic]
+.. As indicated above, the actual root cause of most issues is not operator
+    error. If a root cause points to operator error, it should be further
+    investigated to find out what caused the operator error.
+
+.. Human error is typically viewed as unintentional, or accidental. When an
+    error is intentional, that becomes subject to company disciplinary
+    action, which is outside of the scope of the quality management system.
+
+.. Human error is a reality, however, and can occur. Rather than simply
+    assigning the fault to an operator, however, human error can have a
+    number of possible root causes, which are usually determined through a
+    study of potential “human factors.”
+
+.. [Short Client Name] defines human factors as “activities and information
+    about human abilities, limitations and other characteristics, to be
+    applied to tools, machines, processes, and work environments, in order
+    to ensure product safety and quality, as well as to ensure safe
+    manufacturability.”
+
+.. Limitation: for the quality management system, human factors are
+    considered to the extent necessary to support the QMS processes and the
+    company’s products and services; occupational health and safety are
+    managed primarily through the company’s health and safety activities,
+    per legal and regulatory requirements, and of which many are not within
+    the scope of the QMS itself. There is no expectation that the QMS will
+    be used to manage the entirety of the company’s occupational health and
+    safety requirements.
+
+.. In the context of [Short Client Name]’s operations, human factors to
+    consider when analyzing corrective action root causes may include:
+
+* *PEOPLE*
+
+** *Physical considerations*: Can operations be physically performed
+    adequately giving consideration to the size, sex, age, strength and
+    sensory limitations of the operators?
+
+** *Psychological considerations*: can operations be performed adequately
+    giving consideration to potential impacts on health and/or stress?
+
+** *Physiological considerations:* can operations be performed adequately
+    giving consideration to workload requirements, schedules, available
+    resources, in-house knowledge, fatigue, training and supervision?
+
+** *Psychosocial*: can processes and activities be designed in a way that
+    reduces interpersonal conflicts which can lead to quality errors,
+    distractions or other problems? Do the processes support work done to be
+    done by teams, if applicable?
+
+* *ENVIRONMENTAL*
+
+** *Physical environmental considerations:* weather, location
+    (inside/outside work), workspace limitations (physical access, enclosed
+    spaces, etc.), shifts, lighting, sound levels, safety.
+
+** *Organizational environmental considerations:* personnel, supervision,
+    work schedule pressure, company size.)
+
+* *ACTIONS*
+  ** Operations and processes should be developed to consider:
+    *** Steps to perform
+    *** Sequence of activities
+    *** Knowledge requirements
+    *** Skill requirements
+    *** Certification requirements
+    *** Inspection requirements
+    *** People involved (individuals vs. teams, etc.)
+* *RESOURCES*
+  ** Job planning should consider the availability or need for:
+    *** Tooling/fixtures
+    *** Training
+    *** Materials
+    *** Test or measurement equipment
+    *** Other people
+    *** Outsourced processes
+    *** Supporting documentation (manuals, procedures, specifications, etc.)

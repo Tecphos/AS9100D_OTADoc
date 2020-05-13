@@ -1,0 +1,204 @@
+=== Procedure: [Control of NCP Proc. Title] +
+
+*Rev. [Rev Number]* +
+
+*[Full Client Name Reg Caps]*
+
+---
+
+[arabic]
+. *[.underline]#SUMMARY#*
+[arabic]
+.. This procedure defines the requirements for identifying, processing
+    and dispositioning nonconforming product (“NCP”).
+
+.. The following definitions are important for a clear understanding of
+    this procedure: [clarify or modify if needed]
+[arabic]
+... *“Nonconforming product”* is any product, at any point along its
+    life cycle, which is found to [.underline]#not# conform to requirements.
+    These requirements may be customer requirements, design requirements,
+    statutory/regulatory requirements, or any other requirement deemed by
+    [Short Client Name]. “Nonconforming Product” is referred to herein as
+    “NCP”.
+
+... *“Rework”.* Parts may be “reworked” when additional machining or
+    processing is conducted without affecting the design of the part.
+    Typically this means simply doing more of the already-approved processes
+    or activities listed on the traveler (additional machining, etc.)
+
+... *“Repair”.* Any work done on NCP which affects the original design
+    is considered “repair” and is subject to the special controls defined in
+    section 3.3 below. Such work includes but is not limited to the adding
+    welds to correct a problem, adding or removing material beyond design
+    specifications, adding plating or metal finishing not originally
+    included in the design specs, or adding any other materials (epoxy,
+    patches, etc.) not provided for in the original design.
+
+.. While nonconforming product is typically found during an inspection
+    or test, it can be discovered at any time, by any person or
+    organization, including the customer, regulatory authorities, etc.
+
+. *[.underline]#REVISION AND APPROVAL#*
++
+[cols=",,,",options="header",]
+|===
+|*Rev.* |*Date* |*Nature of Changes* |*Approved By*
+|[Rev Number] |[Date of Issue] |Original issue. |[Procedure Approver Name]
+| | | |
+| | | |
+|===
++
+{empty}[This procedure is divided into two sections, one for companies
+which utilize an Material Review Board (MRB), and one for companies that
+do not. Delete whichever section does not apply, and modify the
+remaining section accordingly.]
+
+[arabic, start=3]
+. *[.underline]#CONTROLLING NCP [ use if MRB is utilized.]#*
+[arabic]
+.. *Discovery and Reporting of NCP*
+[arabic]
+... When NCP is discovered, the operator must report this immediately to
+    the [who?]
+
+... The [who?] will review the problem to confirm the nonconformity. If
+    the nonconformity is confirmed, the product will be identified clearly
+    to distinguish it from acceptable product, or product awaiting
+    inspection or test. [enter method here: tagging, segregating, MRB cage,
+    etc.?].
+
+... The [who?] will determine if the nature of the nonconformity
+    necessitates full MRB review. A full MRB review is required if the
+    [who?] thinks that any of the following dispositions may be required:
+
+    * Accept as is, with customer waiver
+    * Accept as is, with regulatory approval
+    * Repair – see 3.3 below.
++
+[arabic]
+... Typically, a full MRB is not required if the [who?] determines the
+    part only needs rework, or if it can be scrapped without impacting the
+    quantity required for an order, if applicable.
+
+... If full MRB is [.underline]#not# deemed necessary, the [who?] may
+    direct a disposition of rework or scrap.
+
+... The operator may scrap nonconforming parts that are not serialized
+    during production, [.underline]#provided that the operator makes a note
+    of this action on the traveler.#
+[arabic]
+.. *Disposition Authority*
+[arabic]
+... Disposition authority is granted to the following personnel:
+    * Title
+    * Title
+    * Title
++
+[arabic]
+... The selection of these staff members has been made by top management,
+    and is based on their role in the company, previous experience, and
+    knowledge of [Short Client Name]’s processes and products.
+[arabic]
+.. *MRB Review*
+[arabic]
+... When a part is submitted for Material Review Board (MRB) review, this
+    must be indicated on the *_Nonconforming Part Disposition_* form, and
+    the parts staged in an MRB quarantine area.
+
+... The nature of the nonconformity, along with all necessary product
+    information, including serial numbers, shall be recorded on the
+    *_Nonconforming Part Disposition_* form. The description of must be a
+    detailed explanation as to why a part or parts are being rejected; the
+    form must include nominal/tolerance and actual measurements.
+
+... The MRB consists of [list members by title].
+
+... The MRB shall research the issue and determine a possible
+    disposition:
+    * Accept as is
+    * Repair (see special rules for repair below)
+    * Rework
+    * Scrap (see rules for processing scrap below)
+    * Return to Vendor
+[arabic]
+... If “accept as is” will require the acceptance of the part which
+    deviates from a customer’s design, the customer approval must be
+    obtained and documented on the *_Nonconforming Disposition Form_*. In
+    addition, in some case regulatory authority approval may also be
+    required to be obtained and recorded.
+
+... The processing of NCP must take into consideration any actions
+    necessary to contain the effect of the nonconformity on other processes
+    or products.
+
+[arabic, start=4]
+. *[.underline]#CONTROLLING NCP [ use if MRB is [.underline]#NOT# utilized.]#*
+[arabic]
+.. *Discovery and Reporting of NCP*
+[arabic]
+... When NCP is discovered, the operator must report this immediately to
+    the [who?] [NOTE: in some companies, operators are allowed to scrap
+    parts without any other approval, provided they note it on the traveler.
+    If so, add that language here.]
+
+... The [who?] shall confirm if a nonconformity exists, and if so
+    document it on the *_[what form?]_*
+
+... The NCP shall then be identified clearly to distinguish it from
+    acceptable product, or product awaiting inspection or test. [enter
+    method here: tagging, segregating, MRB cage, etc.?].
+
+... The NCP shall then be dispositioned. Disposition authority is
+    granted to the following personnel:
+
+    * Title
+    * Title
+    * Title
++
+[arabic]
+... The selection of these staff members has been made by top management,
+    and is based on their role in the company, previous experience, and
+    knowledge of [Short Client Name]’s processes and products.
+
+... Possible dispositions are:
+    * Accept as is
+    * Repair (see special rules for repair below)
+    * Rework
+    * Scrap
+    * Return to Vendor
+[arabic]
+... All repair or reworked product must be re-inspected, with the results
+    recorded on *_[what form?]_*
+
+... If “accept as is” will require the acceptance of the part which
+    deviates from a customer’s design, the customer’s approval must be
+    obtained and documented on the *_[what form?]_* form. In addition, when
+    applicable, regulatory authority approval(s) may also be required to be
+    obtained and recorded.
+
+... The disposition, dispositioning authority and any subsequent work and
+    re-inspection are to be recorded on the *_[what form?]_*
+
+... The processing of NCP must take into consideration any actions
+    necessary to contain the effect of the nonconformity on other processes
+    or products.
+
+[arabic, start=5]
+. *[.underline]#SPECIAL RULES FOR REPAIRS ( delete this section if not applicable)#*
+[arabic]
+.. “Repair” is defined in section 1 above.
+
+.. Any repair affecting a customer designed part must be approved by the
+    customer in advance.
+
+.. Repairs without customer approval are [.underline]#disallowed# in all
+    circumstances!
+
+.. All approvals must be documented and the records maintained with the
+    part records.
+
+. *[.underline]#NONCONFORMANCE DATA ANALYSIS & TRENDING#*
+[arabic]
+.. The [who?] will present product quality trend data regularly to top
+    management as part of periodic Management Review Meetings.

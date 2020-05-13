@@ -1,0 +1,110 @@
+=== Procedure: [Equipment Validation Proc. Title] +
+
+*Rev. [Rev Number]* +
+
+*[Full Client Name Reg Caps]*
+
+---
+
+[arabic]
+. *[.underline]#SUMMARY#*
+[arabic]
+.. The purpose of this procedure is to define how the company validates
+    critical equipment tools and software programs prior to use.
+
+.. The [who?] is responsible for implementation and management of this
+    procedure.
+
+. *[.underline]#REVISION AND APPROVAL#*
++
+[cols="1,1,3,1",options="header",]
+|===
+|*Rev.* |*Date* |*Nature of Changes* |*Approved By*
+|[Rev Number] |[Date of Issue] |Original issue. |[Procedure Approver Name]
+| | | |
+| | | |
+|===
+
+[arabic, start=3]
+. *[.underline]#APPLICATION AND EXEMPTIONS#*
+[arabic]
+
+.. *Application*
+[arabic]
+
+... This procedure applies to all departments and facilities which
+    develop and design production equipment, test equipment, tooling and CNC
+    software programs.[ MODIFY THIS TO MATCH SCOPE OF COMPANY’S PRODUCTS AND
+    SERVICES]
+
+.. *Exemptions*
+[arabic]
+... Equipment solely used for supporting the facilities is exempt from
+    this procedure; this includes compressors, vehicles, air handling
+    systems, lighting, etc.
+
+... All production equipment, tooling and software in use for at least
+    six months prior to the release of the first version of this procedure
+    in [Date of Issue] is to be considered validated by way of previous use
+    and history, and therefore is exempted from this procedure, unless
+    otherwise marked as nonconforming (see rules below). However, if any
+    significant change is made to legacy equipment, tooling or software,
+    this may trigger a new validation requirement if the change could affect
+    product quality.
+
+... CNC software programs used solely for the machining of tooling or
+    anything other than product are exempted from validation.
+
+. *[.underline]#VALIDATION PROCEDURES#*
+[arabic]
+.. *Equipment and Tooling*
+[arabic]
+... In order to validate production equipment and tooling, the items
+    shall be built or installed and put through at least one trial
+    operation; this usually means producing a part using the item or
+    software, and then sending the resulting part to [QC or QA Preferred
+    Term] for an inspection of the dimensions created or impacted by the
+    hardware or software in question; this is typically through a first
+    piece inspection, but could also be a full First Article. In some cases,
+    multiple parts may be manufactured and inspected to ensure validation,
+    or multiple production runs may be required at various settings or over
+    a range of criteria.
+
+... If the results of [QC or QA Preferred Term] inspection show the item
+    is not acceptable, the information shall be provided to the appropriate
+    area manager and adjustments to the device made. Another round of
+    production and [QC or QA Preferred Term] inspection is then conducted.
+
+... Where appropriate, it may become necessary to work with a device’s
+    manufacturer to assist in making the appropriate adjustment or repairs
+    to get the equipment validated.
+
+... Equipment failing validation may not be used [enter any exceptions
+    here], and must be marked visibly with appropriate signage indicating
+    “DO NOT USE” or “AWAITING VALIDATION” or similar language.
+
+... Equipment and tooling may be considered to have been validated
+    unless otherwise marked.
+
+.. *CNC Manufacturing Software*
+[arabic]
+... For CNC programs used in the manufacture of flight or development
+    hardware, a first piece inspection will be made of either one or more
+    parts produced under the CNC program. If the results are within the
+    tolerances indicated on the print, the CNC program is considered
+    validated and may be used for production runs.
+
+... If the inspection results show the part fails, the CNC program will
+    be modified, and additional parts run and inspected, until the CNC
+    program produces parts that are within tolerance.
+
+. *[.underline]#MAINTENANCE AND ONGOING VERIFICATION#*
+[arabic]
+.. Ongoing assessments of the validity of validated equipment, tooling
+    and programs are done during internal auditing (see procedure
+    *_[Internal Auditing Proc. Title]_*), as well as ongoing inspection of
+    parts during normal production.
+
+.. Preventive maintenance programs are in place for critical equipment,
+    to ensure proper functioning of such equipment, per the procedure
+    *_[Preventive Maintenance Proc. Title]._*

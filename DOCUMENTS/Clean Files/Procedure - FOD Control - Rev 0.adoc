@@ -1,0 +1,288 @@
+=== Procedure: [FOD Control Proc. Title] +
+
+*Rev. [Rev. Number]* +
+
+*[Full Client Name Reg Caps]*
+
+---
+
+_Use this procedure only for AS9100 clients (B or C) Adjust this for the
+complexity of the manufacturing operations and size of company as
+needed, and clarify between aircraft and spacecraft._
+
+[arabic]
+. *[.underline]#SUMMARY#*
+[arabic]
+.. This procedure defines the steps necessary for preventing, detecting
+    and removing FOD.
+
+.. The [who?] is responsible for implementation and management of this
+    procedure.
+
+. *[.underline]#REVISION AND APPROVAL#*
++
+[cols="1,1,3,1",options="header",]
+|===
+|*Rev.* |*Date* |*Nature of Changes* |*Approved By*
+|[Rev Number] |[Date of Issue] |Original issue. |[Procedure Approver Name]
+| | | |
+| | | |
+|===
+
+[arabic, start=3]
+. *[.underline]#DEFINITIONS#*
+
+* *FOD* can refer to any of the following (examples of each are given in
+    the text of the procedure below):
+
+** *“Foreign Object Detection”* – the intentional and systematic methods
+    used to discover foreign objects in product before processing, delivery
+    or use.
+
+** *“Foreign Object Debris”* – objects which do not belong in completed
+    product, and which may cause damage to product or related systems if not
+    removed; in short, such debris is “anything that does not belong in the
+    product.”
+
+** *“Foreign Object Damage”* – the damage caused by debris which is not
+    discovered and removed before the product is delivered or installed.
+
+* *FOG – “Foreign Object Generator*” – any method, device, equipment,
+    process or activity which could create foreign object debris.
+
+* *FOD Walk* – a systematic, planned method for inspecting large areas for
+    present or potential foreign object debris. Typically this is conducted
+    by utilizing a number of trained employees slowly walking across a large
+    area, visually searching for FOD or FOD risks.
+
+* *FOD Inspection* – formal inspections which seek out potential or
+    existing foreign object debris or damage. FOD Inspections are typically
+    conducted on individual parts.
+
+* *FOD Audits* – systematic assessments of processes, buildings,
+    activities, methods, procedures or personnel to discover present or
+    potential FOD, or to discover weaknesses which could lead to the
+    introduction of FOD. “FOD Walks” are sometimes treated as a subtype of
+    FOD Audit.
+
+* *FOD Control Zone* – an area within the company’s facilities that is
+    determined to be of high risk for the introduction of FOD to product.
+    This is typically near the manufacturing of product.
+
+[arabic, start=4]
+. *[.underline]#FOD OVERVIEW#*
+[arabic]
+.. The aerospace industry typically refers to “foreign object damage” or
+    “foreign object debris” (including foreign objects themselves) as FOD.
+    [Short Client Name] has adopted this abbreviation.
+
+.. The presence of FOD in [Short Client Name] parts can lead to
+    catastrophic part failure after installation or use by the customer.
+    Because our customers include aerospace companies, such catastrophic
+    failure could lead to the loss of life or damage to multi-million dollar
+    aircraft. Therefore, [Short Client Name] parts must be free of foreign
+    objects (FOD) prior to shipping.
+
+.. For the purposes scope of manufacturing of [Short Client Name],
+    Foreign Object Debris includes, but is not limited to:
+
+* Burrs (whether loose or attached)
+* Chips
+* Dirt
+* Oils (including fingerprints)
+* Packing materials (peanuts, foam, cardboard, etc.)
+* Peeling (paint, oxidation, other unfixed coatings)
+* Tools, supplies left inside product
+* Loose hardware
+* Sand, grit, blasting or finishing media
+* Unwanted tape, adhesive or gasket material
+* Excess composite material
+* Paperwork (inside parts)
+
+[arabic, start=5]
+. *[.underline]#FOD DESIGN CONSIDERATIONS#*
+[arabic]
+.. FOD prevention should begin the reduction of damage potential and
+    elimination of FOD hazards with the design process. Design
+    considerations include tooling, fixtures and ground support systems as
+    well as flight hardware.
+
+.. During the development and design of flight hardware, the following
+    may be considered:
+[arabic]
+... Identify and eliminate foreign object entrapment areas.
+
+... Identify and seal areas through which foreign objects can migrate.
+
+... Use screens over exposed openings when appropriate (e.g., intakes,
+    exhausts, etc.).
+
+... Install special access for inspection and clean-out of foreign
+    objects that could potentially cause damage. i.e. cleaning filters in
+    ground systems.
+
+... Use blind fasteners in critical areas that are not prone to leaving
+    debris during installation.
+
+... Use compatible metals and seals to prevent accelerated deterioration
+    and subsequent failure of seal materials.
+
+... Use conformal coatings as a positive seal against entry of minute
+    foreign objects including dust and water vapor.
+
+... Design to minimize traps where water or fluids can collect and
+    freeze or cause other damage.
+
+.. Design revisions due to FOD corrective actions should be incorporated
+    and lessons learned should be applied to all design activities.
+
+.. Design reviews, verification and validation shall take into
+    consideration FOD and FOD risks.
+
+. *[.underline]#PRE-MANUFACTURING FOD PREVENTION#*
+[arabic]
+.. During development of production processes, including production
+    documentation related to parts, [Short Client Name] will take into
+    consideration the manufacturing steps intended for the given part, and
+    plan these in a way that reduces the creation or introduction of FOD.
+
+.. Pre-manufacturing planning [ it this is a process, use that name
+    instead] shall plan and sequence manufacturing and production tasks to
+    preclude foreign object damage and entrapment of debris or
+    contamination. Work instructions should contain necessary processes and
+    procedures for controlling and removal of contamination and debris
+    during fabrication and assembly operations. As applicable, the following
+    should be included in work instructions:
+[arabic]
+... Upon completion of final machining operation, clean or flush the
+    machined component to assure that it is free of debris, and immediately
+    cap or seal exposed openings to prevent foreign object entry.
+
+... Verify required protective devices (e.g. dust covers, temporary
+    seals, cushioning, etc.) are present and properly installed. Items with
+    protective devices missing are to be inspected for FOD, cleaned if
+    necessary, and protective devices installed.
+
+... After fluid and pneumatic system lines and tubing are cut and
+    deburred, assure thorough cleaning and cap ends of lines.
+
+... Inspect for and remove extraneous material as part of the assembly
+    step, conduct a foreign object inspection and remove debris.
+
+... Inspect production tooling (e.g. jigs, fixtures, handling equipment,
+    etc.) to assure it is clean, undamaged and free of foreign material
+    prior to installation and build-up of components or assemblies. Exercise
+    this same care for workstands, ladders, special test equipment, etc.,
+    which must be placed on, in, or around production hardware to accomplish
+    specific tasks.
+
+... Protect products by using FOD barriers, foam pads, covers, etc. For
+    example, cover composite assemblies during production activities that
+    could cause damage and place pads between a tool and the assembly.
+    Always protect sensitive areas and potential FOD entrapments (e.g.
+    engine, open fuel line, harnesses, etc.).
+
+... Inspect components and equipment for damage prior to installation.
+    Always ensure part integrity before installation.
+
+... Travelers will be developed with critical FOD Inspection steps.
+
+. *[.underline]#MANUFACTURING / PRODUCTION FOD PREVENTION#*
+[arabic]
+.. During all manufacturing steps, all operators shall be alert for FOD
+    and take appropriate steps to prevent its introduction.
+
+.. Operators shall follow all instructions as developed by
+    pre-manufacturing planning detailed above.
+
+.. If FOD is discovered, this must be removed by the operator prior to
+    release to the next operation, wherever possible. The only exception is
+    when the next operation is specifically designed for FOD removal.
+
+.. Operators shall sign off inspection steps on the traveler where
+    indicated. This signature shall mean that ALL parts (100%) have been
+    inspected and determined to be free of FOD.
+
+.. FOD Control Zones may be identified (typically through signage,
+    barriers or other physical marking and segregation, or as defined in
+    procedures or work instructions. In such cases, increased FOD awareness
+    is required. The additional controls for the specific FOD Control Zone
+    shall be defined on the signage or procedure, etc. Such enhanced FOD
+    controls may include, as applicable:
+[arabic]
+... When physical entry is required into flight hardware (aircraft,
+    spacecraft interiors, mating surfaces, more here), personnel should
+    remove all loose objects, badges, jewelry, etc., from clothing.
+    Pocketless coveralls should be worn to preclude foreign objects dropping
+    from pockets onto a FOD critical area.
+
+... Hardware accountability methods established for control of hardware
+    (nuts, bolts, screws, cotter pins, rivets, etc.), including as
+    applicable:
+
+* Kitting hardware by task
+* Utilizing clearly marked FOD containers should be placed in key
+    locations within the work area and entry and exit points.
+* Implementation of a “Clean-As-You-Go” program
+* Use of tote trays with covered spring-loaded containers
+[arabic]
+... Tool accountability methods established for control and retrieval of
+    handtools and other devices necessary to enter into a FOD control zone,
+    but which must be removed before the end of a production method, final
+    delivery or use. Such methods may include, as applicable:
+
+* Use of shadow boards, shadowboxing, bar coding, special canvas layouts
+    with tool pockets, tool counters, or consolidated tool kits which
+    visually identify tool placement and aid in identifying when a tool is
+    in use or missing.
+
+* Tools/equipment should be tethered or suitably restrained to the user
+    in areas where a dropped article could result in damage to flight
+    hardware, injury to personnel, or where difficulty in retrieval would
+    result if the tool were dropped. Tethering must also take into
+    consideration worker safety, and not endanger the health of operators
+    through entanglement.
+
+* All loose tools should be contained in a tool box, tote tray, soft
+    tool bag or other suitable spill-proof container and not placed in a
+    manner that would cause damage to flight hardware or injury to
+    personnel.
+
+* Tool inventory logs, sometimes called “sponge logs”, may be used to
+    record (“check out”) all tools brought into a FOD Control Zone, so that
+    once work is done, the tools may be checked back in, meaning they are
+    accounted for and not left in the FOD Control Zone. Operators are
+    responsible for ensuring that all such tools logged as entering a FOD
+    Control Zone are logged as having been removed.
+
+[arabic, start=8]
+. *[.underline]#[QC OR QA PREFERRED TERM] INSPECTION METHODS FOR FOD#*
+[arabic]
+.. All [QC or QA Preferred Term] inspections and tests shall include a
+    visual inspection for FOD, whether this is required by that inspection
+    or test procedure or not.
+
+.. Enter details of specific TYPES of FOD inspections used by client
+    here.
+
+.. Final inspection shall include a visual FOD inspection for all (100%)
+    parts. [ clarify if this is not feasible.] [QC or QA Preferred Term]
+    inspections sign-offs shall mean that ALL parts have been inspected and
+    determined to be free of FOD.
+
+.. FOD critical areas of large scale may be checked for FOD by the
+    conducting of FOD walks, where a team of employees slowly walk an area,
+    visually investigating for potential or existing FOD for FOD generators.
+
+.. As a more formal method, a full FOD Audit may be conducted, in
+    compliance with the internal auditing procedures in place for quality
+    system audits. Such FOD audits should be scheduled, with results
+    recorded and any nonconformities reported. See the procedure *_[Internal
+    Auditing Proc. Title]._*
+
+. *[.underline]#FOD TRAINING#*
+[arabic]
+.. As deemed appropriate, specific FOD Training Programs may be
+    developed for key personnel,
+
+.. Records of completed FOD training shall be maintained.

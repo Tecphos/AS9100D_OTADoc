@@ -1,0 +1,62 @@
+=== *Nonconforming Part Disposition* +
+
+*Rev. [Rev Number]* +
+
+*[Short Client Name]*
+
+---
+
+[cols=",,,",options="header",]
+|===
+3+| |*NCR #:*
+|*Date*: |*Discovered at:* 2+| [ ] Incoming [ ] In-Process [ ] Final [ ] Customer
+2+|*By (Name):* 2+|*Dept*: | 
+|===
+
+[cols=",,,",options="header",]
+|===
+
+|*Job #:* 2+|*Part* *#:* |*Rev*:
+
+3+|*Drawing (if diff. from part #):* |*Rev*:
+
+|*QTY Affected:* |*Operation #:* 2+|*Operation Description:*
+
+|*Description of the Nonconformity:* _Include any out-of-tolerance actual measurements._ 3+|
+
+|*Disposition:* 3+a|
+
+[ ] Use As Is – no nonconformity found after evaluation.
+
+[ ] Use As Is – obtain customer / regulatory waiver and record below.
+
+[ ] Repair As Follows:      
+
+[ ] For repairs which affect customer design, must obtain customer /
+regulatory waiver and record below.
+
+[ ] Rework as Follows:      
+
+[ ] Return to Vendor. (SCAR Filed? [ ] NO [ ] YES (indicate SCAR #:       )
+
+[ ] Scrap
+
+[ ] Regrade (for other purpose, such as tooling, sample, instructional
+piece)
+
+|*Approvals:* |*QC*: |*ENG*: |*OTHER*:     
+
+.5+.^|*Waivers:* .2+|*Customer Waiver:*   |*Name*:   |*Signature*:
+
+                                          |*Title*:  |*Date*:
+
+                 .3+|*Regulatory Waiver:* |*Agency*: |*Dept*:
+
+                                          |*Name*:   |*Signature*:
+
+                                          |*Title*:  |*Date*:
+
+|*Re-Inspection Results:* |[ ] Recorded on Inspection Sheet 2+|[ ] Recorded here:
+
+|*NOTES or COMMENTS:* 3+|
+|===

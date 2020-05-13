@@ -1,0 +1,92 @@
+=== Procedure: [Process Definition Doc Title]
+=== Name of Process Here +
+
+*Rev. [Rev Number]* +
+
+*[Full Client Name Reg Caps]*
+
+---
+
+[arabic]
+. *[.underline]#SUMMARY#*
+[arabic]
+.. This document defines the [name of process here] process in detail.
+
+.. The relationship between this process and the other processes within
+    the [Short Client Name] management system is illustrated in the process
+    flow map included in the *_[Quality Manual Doc Title]._*
+
+. *[.underline]#REVISION AND APPROVAL#*
++
+[cols="1,1,3,1",options="header",]
+|===
+|*Rev.* |*Date* |*Nature of Changes* |*Approved By*
+|[Rev Number] |[Date of Issue] |Original issue. |[Procedure Approver Name]
+| | | |
+| | | |
+|===
+
+[arabic, start=3]
+. *[.underline]#PROCESS DEFINITION#*
+[arabic]
+.. {blank}
++
+The purpose of the [process name here] is to [define its purpose here.
+    This is a rough overview of what the process is intended to achieve].
+. *[.underline]#PROCESS OBJECTIVES AND METRICS#*
+[arabic]
+.. Process objectives for this process are defined in records of management
+    review; see the documented procedure *_[Management Review Proc.
+Title]._*
+.. In addition, each objective has at least one metric (or KPI) with which
+    management can measure the effectiveness of the process. These are also
+    defined in records of management review.
+
+. *[.underline]#PROCESS OWNERS AND RESPONSIBLE PARTIES#*
+[arabic]
+.. The owner of this process is [who?].
+
+.. Describe any additional responsibilities and authorities for this
+    process here.
+
+. *[.underline]#TYPICAL PROCESS INPUTS#*
+[arabic]
+.. The typical required inputs for this process are:
+[arabic]
+... Technical information needed:
+* {blank}
+[arabic]
+... Resources needed:
+* {blank}
+[arabic]
+... Personnel needed:
+* {blank}
+[arabic]
+... Special training needed:
+* {blank}
+. *[.underline]#TYPICAL PROCESS STEPS#*
+[arabic]
+.. Here define the process steps. You may elect to do so using text, or a
+process map.
+. *[.underline]#TYPICAL PROCESS OUTPUTS#*
+[arabic]
+.. The typical results (outputs) of the process are as follows:
+[arabic]
+... Product produced:
+* {blank}
+[arabic]
+... Documents or technical information produced:
+* {blank}
+[arabic]
+... Records produced:
+* {blank}
+[arabic]
+... Services produced:
+* {blank}
+
+[arabic, start=9]
+. *[.underline]#RELATED RISKS AND OPPORTUNITIES#*
+[arabic]
+.. Risks and opportunities related to this process are identified in the
+    *_COTO Log_* and managed per the procedure *_[Risk Management Proc.
+    Title]._*

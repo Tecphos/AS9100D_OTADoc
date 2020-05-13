@@ -1,0 +1,233 @@
+=== Procedure: Special Requirements, Critical Items & Key Characteristics +
+
+*Rev. [Rev Number]* +
+
+*[Full CLient Name Reg Caps]*
+
+---
+
+[arabic]
+. *[.underline]#SUMMARY#*
+[arabic]
+.. This document provides guidance for identifying and managing Special
+    Requirements, Critical Items and Key Characteristics.
+
+.. The [who?] is responsible for implementation and management of this
+    procedure.
+
+.. This document is a guidance document only, and intends only to
+    provide information to assist staff in developing methods to identify
+    and control CI/KC’s in their areas. Where customer or other requirements
+    are called out for these topics, they may take precedence over the
+    information provided herein.
+
+.. This guidance document concerns Design, Production and Manufacturing
+    departments.
+
+. *[.underline]#REVISION AND APPROVAL#*
++
+[cols="1,1,3,1",options="header",]
+|===
+|*Rev.* |*Date* |*Nature of Changes* |*Approved By*
+|[Rev Number] |[Date of Issue] |Original issue. |[Procedure Approver Name]
+| | | |
+| | | |
+|===
+
+[arabic, start=3]
+. *[.underline]#TERMS AND DEFINITIONS#*
+[arabic]
+.. [Short Client Name] adopts the following definitions:
+
+* *Special Requirement:* Requirements typically identified by the customer
+    that have high risks of being achieved and are to be included in the
+    Risk Management Process due to project or process complexity, past
+    experience or maturity level.
++
+Examples of special requirements are usually those that push “state of
+    the art” or that are at the limits of technical and/or process
+    capability.
+
+* *Critical Item (CI):* System level items (processes, parts, software)
+    that will have a significant impact on the production and use of the
+    product, including safety, performance, form, fit, function,
+    producibility, service life, etc.; that require specific actions to
+    ensure they are adequately managed.
++
+Examples of critical items may include system level fracture critical
+    items, safety critical items, and mission critical items.
+
+* *Key Characteristic (KC):* The feature of a material or part whose
+    variation has a significant influence on product fit, performance or
+    services life, or manufacturability. Key characteristics are typically
+    identified by engineering functions and designated on drawings but can
+    also apply to a process or derived from critical items.
+
+[arabic, start=4]
+. *[.underline]#OVERVIEW#*
+[arabic]
+.. The concepts of Critical Items (CIs) and Key Characteristics (KCs) flow
+from the following hierarchy:
++
+[cols=",,,",options="header",]
+|===
+|*Type* |*Level* |*Derived from* |*Typically Defined Via*
+|*Special Requirement (SR)* a|
+* Broad level of detail
+* Conceptual in nature
+
+a|
+* Contract requirements
+* High level design requirements
+* R & D
+
+a|
+* Contract
+* High level design requirements
+
+a|
+*Critical items*
+
+*(CI)*
+
+a|
+* Finer level of detail
+* Convert SRs into realistic, measurable characteristics or aspects
+
+a|
+* Special requirements (above)
+* Senior management design requirements
+* Customer design requirements
+
+a|
+* Contract
+* Final design requirements
+* Critical Item List (CIL)
+* Requirements matrix
+* Compliance matrix
+
+a|
+*Key characteristics*
+
+*(KC)*
+
+a|
+* Specific level of detail
+* Specific part or software feature
+
+a|
+* Critical Items (above)
+* Additional design requirements
+* Manufacturability considerations
+
+a|
+* Drawing
+* Specification
+* Work instruction
+
+|===
++
+The identification and development of CIs and KCs generally may derive
+    from one of two paths: through customer requirements, obtained by [order
+    entry process?] and matured by [design process?], or through design
+    mandates dictated by Senior Management or the [design process] itself.
++
+*[.underline]#EXAMPLE:#*
++
+*Special Requirement:* Product design concept requires product to
+    include an airtight connection.
++
+*Critical Item:* Surface finish of mating surfaces
++
+*Key Characteristic:* surface finish of mating surfaces must have
+    surface roughness of N4 (Ra = 0.2µm)
++
+*Actions to Consider:* special machining processes to achieve flatness
+    of surface as required, special inspection methods to confirm it, leak
+    testing on all units produced.
+
+[arabic, start=5]
+. *[.underline]#SPECIAL REQUIREMENTS (SRs)#*
+[arabic]
+.. Special requirements are typically called out in a contract or
+    customer-provided design requirement.
+
+.. SRs may not be measurable in and of themselves, but only measurable when
+    later translated into CIs and/or KCs.
+
+.. Even where SRs are not called out, there may still be related CIs or
+    KCs; to not rely on the presence of Special Requirement callouts to be
+    the only means of identifying CIs and KCs.
+
+. *[.underline]#CRITICAL ITEMS (CIs)#*
+[arabic]
+.. Critical items are usually flowed down from contract-level requirements,
+    job requirements or high-level design requirements mandated to senior
+    management.
+
+.. Often CIs will be derived from SRs, but not always.
+
+.. During the development of a requirements matrix, the appropriate Design
+    group manager or engineers should identify which of the requirements is
+    “critical” (or a “special requirement” as defined above), and flag them
+    accordingly.
+
+.. Alternatively, the Engineer may develop a Critical Item List (CIL).
+
+.. To assist in determining which requirements may constitute a Critical
+    Item, risk analysis, FMEA, FMECA or other tools may be used.
+
+.. Critical Items commonly encountered are:
+* Fracture Critical
+* Safety Critical
+* Mission Critical
+.. If appropriate, a plan or program may be developed to manage the
+    Critical Item. For example, for the Fracture Critical requirements, a
+    Fracture Control Board may be implemented, and a number of supporting
+    procedures and plans to manager Fracture Critical parts.
+
+. *[.underline]#KEY CHARACTERISTICS (KCs)#*
+[arabic]
+.. Key Characteristics may be identified through:
+* Review of Critical Items List (CIL) if available
+* FMEA analysis
+* Risk assessments
+* Simple determination by an Engineer that a feature constitutes a key
+    characteristic
+* Investigation of past problems, which may identify characteristics that
+    have been difficult to control, from such sources as:
+** Receiving inspection results
+** Line rejects
+** Failures
+** Issues, CARs
+
+.. Process KC’s may also be identified during Work Order Planning. KC’s
+    should also be reviewed during Work Order Planning to establish
+    manufacturing controls.
+
+.. There is a tradeoff between the cost of tracking many key
+    characteristics and the expected benefit. Therefore the goal should be
+    to minimize the number of key characteristics to only those with a
+    demonstrable benefit to improving quality or the ability to meet
+    requirements.
+
+.. For Form/Fit/Function KC’s, these are typically identified on a drawing
+    using the inverted delta symbol: or
+
+.. Notes on the drawing should indicate or make reference to the controls
+    implemented for the KC, such as SPC plans, tightened inspection levels,
+    etc.
+
+.. A product characteristic should not be designated a KC to ensure the
+    part is made to print, since all parts must meet print specifications.
+
+.. A KC may be a variable or an attribute characteristic. Attribute
+    characteristics could be go/no-go, part/feature presence, etc.
+
+.. Over-application of KCs should be avoided since one of the goals to aid
+    in the economical manufacture of quality parts.
+
+.. In some cases, it may be beneficial to develop a list of KC’s, rather
+    than indicate them on drawings. If so, this list should be maintained in
+    the appropriate Design files and updated by the responsible engineer as
+    appropriate.

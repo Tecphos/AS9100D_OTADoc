@@ -1,0 +1,185 @@
+=== Procedure:[Control of Documents Proc. Title] +
+
+*Rev. [Rev Number]* +
+
+*[Full Client Name Reg Caps]*
+
+---
+
+[arabic]
+. *SUMMARY*
+[arabic]
+.. This procedure defines the requirements for the creation, review,
+    approval, distribution, use and revision of [Short Client Name] quality
+    management system documents.
+
+.. This procedure applies [.underline]#only to documents which instruct#
+    [Short Client Name] staff on how to carry out activities and tasks; this
+    includes manuals, procedures, forms and instructional sheets or posters.
+    Documents outside of this scope do not require control.
+
+. *REVISION AND APPROVAL*
++
+This procedure is released and approved as follows.
++
+[cols="1,1,3,1",options="header",]
+|===
+|*Rev.* |*Date* |*Nature of Changes* |*Approved By*
+|[Rev Number] |[Date of Issue] |Original issue. |[Procedure Approver Name]
+| | | |
+| | | |
+|===
+
+[arabic, start=3]
+. *PROCEDURE*
+[arabic]
+.. *[.underline]#Creation of Documents#*
+[arabic]
+... Documents are created by an appropriate subject matter expert.
+
+... All internal documents are created as soft files (MS Word^®^, etc.);
+    it is recommended that files of a similar type follow the format of
+    other documents in that type.
+
+... Draft versions must then be sent to the appropriate approver(s) for
+    review and approval.
+
+... Original releases of documents are given a revision indicator of
+    “0”. ( Revise per preferred revision indicator method.)
+
+.. *[.underline]#Review and Approval#*
+[arabic]
+... The *_[Quality Manual Doc Title]_* may only be approved by the
+    [who?]. Other documents are to be approved by the original author, an
+    appropriate area manager or a company executive.
+
+... Draft files may be sent to the approver(s) via hardcopy or e-mail.
+
+... The reviewer will resolve any issues with the original author to
+    achieve a satisfactory document.
+
+... The reviewer will indicate approval of the document by [indicate
+    method.]
+
+... The approved document shall then be forwarded to the [Document
+Controller Title].
+
+... [If hardcopy binder will be used] The [Document Controller Title]
+    will maintain a binder of most current hardcopy versions of documents.
+    Any previous hardcopies in this binder are to be discarded or filed in
+    an obsolete document file.
+
+... The [Document Controller Title] will maintain a computer folder, on
+    the company server, for the latest soft copy versions of document. This
+    fileset must be on a server subject to data backup. The [Document
+    Controller Title] will place new or revised documents into that folder,
+    setting each file’s permission to READ ONLY, or converting the released
+    versions to a non-editable file format.
+
+... Any previous soft versions are then moved to a separate folder
+    identified for obsolete documents which are kept for historical
+    purposes.
+
+... The directory of official released documents shall act as a “master
+    list” of documents, indicating the current versions of all documents. No
+    other master list is required.
+
+.. *[.underline]#Distribution of Documents#*
+[arabic]
+... [If intranet is used] Controlled documents will be available via the
+    intranet for all employees. Employees receive training on the file and
+    folder locations for most current documents.
+
+... [If hardcopy document distribution is used] The [Document Controller
+    Title] will maintain a list of where controlled hardcopy documents are
+    to be distributed. The [Document Controller Title] will be responsible
+    for distributing updated copies of such controlled hardcopies to proper
+    locations. Controlled hardcopies shall be stamped CONTROLLED in red ink
+    on the first page, to distinguish them from uncontrolled documents or
+    photocopies.
+
+... Controlled hardcopies may not be altered or modified by users, and
+    must remain legible and readily identifiable. This includes hand
+    mark-ups by unauthorized personnel. The only exception to this rule is
+    for Forms (see below.)
+
+... Controlled hardcopies may not be photocopied, unless for the
+    purposes of sending to a recipient who is authorized to receive
+    uncontrolled versions of [Short Client Name] documents (i.e., a vendor
+    or customer). The only exception to this rule is for Forms (see below.)
+.. *[.underline]#Re-Evaluation#*
+[arabic]
+... Documents must be reviewed by the original author or another subject
+    matter expert or top manager every three years [ adjust as desired].
+
+... The [Document Controller Title] will ensure re-evaluation is
+    conducted and that documents are updated if required. The [Document
+    Controller Title] will maintain a record of document re-evaluations, to
+    identify when documents are due for re-evaluation.
+
+... If a document is determined to require updating, the changes shall
+    be made and a new version issued per the rules below.
+
+... If a document is determined [.underline]#not# to require updating,
+    no action on the document is necessary.
+
+.. *[.underline]#Revising Documents#*
+[arabic]
+... Changes to documents go through the same steps as original issue,
+    except that their revision level is advanced upon approval.
+
+... Only authorized personnel may change documents, although any
+    employee can request a change to their Manager, or by filing a *_[CAR
+    Form Name]_* [or other document change request form.] Wherever possible,
+    the document shall include a change history table within its text.
+    [Other methods for identifying changes might be use of Track Changes
+    feature in document, highlighting revisions in yellow. If so, edit this
+    as required.] Forms do not require a revision history table.
+
+... Any changes to documents that require customer or regulatory
+    authority review and approval shall be submitted accordingly, and not
+    implemented until such approval is obtained.
+
+... If document changes require customer or regulatory approval prior to
+    implementation, this will be obtained in writing. When processes are
+    changed, the appropriate documentation shall be updated, with a change
+    history updated to reflect the reason for the change.
+
+... Re-evaluation, inspection (where applicable) and internal auditing
+    will confirm the effectiveness of changes.
+
+.. *[.underline]#Controlling Documents of External Origin#*
+[arabic]
+... For external documents such as standards or third party
+    specifications which are referenced in a customer purchase order or
+    contract, these documents may be maintained without control, provided
+    that the revision of the document on file matches the revision indicated
+    by the customer. Where the customer provides no revision number, the
+    latest (most recent) revision shall be assumed.
+
+... For external documents such as standards or third party
+    specifications which are not referenced in a customer purchase order or
+    contract, these must be controlled. Such control requires that the
+    [Document Controller Title] or responsible manager obtain the latest
+    version of the document, and maintain it on the company server (for
+    electronic versions) or in a binder of controlled external documents
+    (for hardcopies). Like other controlled documents, these may not be
+    edited or copied.
+
+... Third party specifications and prints, including those of the
+    customer, are controlled per the configuration management requirements
+    set forth in the [Short Client Name] *_[Quality Manual Doc Title]_*.
+
+... External documents for non-critical use, such as user manuals,
+    reference books, marketing materials, and supplier directories are not
+    controlled.
+.. *[.underline]#Forms#*
+[arabic]
+... Forms are a special kind of document that may be photocopied as
+    needed. Furthermore, forms do not require an approval signature;
+    department managers are responsible for creating and using forms in
+    their areas.
+
+... A softcopy of each approved form must be sent to the [Document
+    Controller Title] for inclusion in the document control area on the
+    intranet, and for inclusion in the *_[Document Master List Name]._*

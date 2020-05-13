@@ -1,0 +1,265 @@
+
+[FULL CLIENT NAME ALL CAPS]
+
+*[Quality Manual Doc Title]*
+
+Revision [Rev Number]
+
+{empty}[Date of Issue]
+
+Conforms to ISO 9001:2015 & AS9100 Rev. D
+
+{empty}(c) [Copyright Year] [Full Client Name Reg Caps]; all rights
+reserved. This document may contain proprietary information and may only
+be released to third parties with approval of management. Document is
+uncontrolled unless otherwise marked; uncontrolled documents are not
+subject to update notification.
+
+---
+
+:sectnums:
+
+[arabic, start=0]
+== Revision History and Approval
+
+[cols=",,,",]
+|===
+|*Rev.* |*Nature of changes* |*Approval* |*Date*
+
+|[Rev Number] |Original release. |[Quality Manual Approver Name] |[Date
+of Issue]
+
+| | | |
+
+| | | |
+
+| | | |
+|===
+
+== Welcome to [Full Client Name Reg Caps]
+
+Add welcome language here. This is the first thing a reader will see, so
+it’s a good idea to add basic information about the company. If the
+intended audience includes customers, you can add marketing language
+here, too.
+
+Adding some photos of the facility or staff is a nice touch here, as
+well.
+
+== Quality Policy
+
+[Senior Management Team Name] has developed the following Quality Policy
+which governs day-to-day operations to ensure quality. The Quality
+Policy is communicated and implemented throughout the organization.
+
+The Quality Policy of [Short Client Name] is as follows:
+
+[.text-center]
+*Add Quality Policy here.*
+
+== Context of the [Short Client Name] Organization
+
+[Short Client Name] has reviewed and analyzed key aspects of itself and
+its stakeholders to determine the strategic direction of the company.
+This requires understanding internal and external issues that are of
+concern to [Short Client Name] and its interested parties; the
+interested parties are identified per the document *_[Context of the Org
+Proc. Title]._*
+
+Such issues are monitored and updated as appropriate, and discussed as
+part of management reviews.
+
+The issues determined above are identified through an analysis of risks
+facing [Short Client Name] and its interested parties. “Interested
+parties” are those stakeholders who receive our [Products or Services
+Plur.], or who may be impacted by them, or those parties who may
+otherwise have a significant interest in our company. These parties are
+identified per the document *_[Context of the Org Proc. Title]._*
+
+This information is then used by senior management to determine the
+company’s strategic direction. This is defined in records of management
+review, and periodically updated as conditions and situations change.
+
+== Scope of the [Short Client Name] Quality Management System
+
+Based on an analysis of the above issues of concern, interests of
+stakeholders, and in consideration of its products and services, [Short
+Client Name] has determined the scope of the management system as
+follows:
+
+*Add scope statement here. The scope statement must include a
+description of your products and/or services. This is what will appear
+on any resulting ISO 9001/AS9100 certificate; you may consult with your
+certification body for assistance.*
+
+(If more than one site) +
+The quality system applies to all processes, activities, and employees
+of the following locations within the company:
+
+[cols=",",options="header",]
+|===
+^|[Street Address] +
+[City] [STATEABBREV] [Zip] +
+[Phone]
+
+|Site 2 Address
+|Site 3 Address |Site 4 Address
+|===
+
+(If single site) +
+The quality system applies to all processes, activities and employees
+within the company. The facility is located at:
+
+[.text-center]
+[Street Address] +
+[City] [STATEABBREV] [Zip] +
+Phone: [Phone] +
+Fax: [Fax] +
+Web: [Website]
+
+(If exclusions) +
+The following clauses of ISO 9001 / AS9100 were determined to be not
+applicable to [Short Client Name].
+
+* List clause exclusions and rationale for each here.
+
+(If no exclusions) +
+The company claims no exclusions from the ISO 9001 / AS9100 standard.
+
+(Optional: site exclusion table) +
+The following sites are excluded from the company quality system at this
+time; in the future, these may be incorporated into the company QMS, and
+this manual will be updated accordingly.
+
+[cols=",",options="header",]
+|===
+|Site 1 Address |Site 2 Address
+|Site 3 Address |Site 4 Address
+|===
+
+== QMS Processes
+
+[Short Client Name] has adopted a process approach for its management
+system. By identifying the top-level processes within the company, and
+then managing each of these discretely, this reduces the potential for
+nonconforming [Products or Services Plur.] discovered during final
+processes or after delivery. Instead, nonconformities and risks are
+identified in real time, by actions taken within each of the top-level
+processes.
+
+_Note: not all activities are considered “processes” – the term
+“process” in this context indicates the activity has been elevated to a
+higher level of control and management oversight._ _The controls
+indicated herein are applicable only to the top-level processes
+identified._
+
+The following top-level processes have been identified for [Short Client
+Name]:
+
+[cols=",",options="header",]
+|===
+|*Top Level Process* |*Process Owner(s)*
+|Process |Owner
+|Process |Owner
+|Process |Owner
+|Process |Owner
+|Process |Owner
+|Process |Owner
+|Process |Owner
+|===
+
+Each process may be supported by other activities, such as tasks or
+sub-processes. Monitoring and control of top level processes ensures
+effective implementation and control of all subordinate tasks or
+sub-processes.
+
+Each top-level process has a *_[Process Definition Doc Title]_* document
+which defines:
+
+* applicable inputs and outputs
+* process owner(s)
+* applicable responsibilities and authorities
+* applicable risks and opportunities
+* critical and supporting resources
+* criteria and methods employed to ensure the effectiveness of the
+process
+* quality objectives related to that process
+
+The sequence of interaction of these processes is illustrated in
+Appendix A.
+
+_Note: Appendix A represents the [.underline]#typical# sequence of
+processes, and may be altered depending on customer or regulatory
+requirements at the job or contract level, as needed._
+
+Additional QMS documented procedures have been developed to support the
+QMS and its processes; these are listed in Appendix B. This list only
+provides some top-level procedures, and may not reflect the entirety of
+all QMS documentation.
+
+Each process has at least one objective established for it; this is a
+statement of the intent of the process. Each objective is then supported
+by at least one “metric” or key performance indicator (KPI) which is
+then measured to determine the process’ ability to meet the quality
+objective.
+
+Throughout the year, metrics data is measured and gathered by process
+owners or other assigned managers, in order to present the data to
+[Senior Management Team Name]. The data is then analyzed by [Senior
+Management Team Name] in order that [Senior Management Team Name] may
+set goals and make adjustments for the purposes of long-term continual
+improvement.
+
+The specific quality objectives for each process are defined in the
+applicable *_[Process Definition Doc Title]_*.
+
+Metrics, along with current standings and goals for each objective, are
+recorded in records of management review.
+
+When a process does not meet a goal, or an unexpected problem is
+encountered with a process, the corrective and preventive action process
+is implemented to research and resolve the issue. In addition,
+opportunities for improvement are sought and implemented, for the
+identified processes.
+
+Any process performed by a third party is considered an “outsourced
+process” and must be controlled, as well. The company’s outsourced
+processes, and the control methods implemented for each, are defined in
+*_[Outsourced Processes Title]_*.
+
+== Appendix A: Overall Process Sequence & Interaction
+
+Add diagram of sequence flow here.
+
+== Appendix B: Subordinate QMS Procedures
+
+* [Calibration Proc. Title]
+* [Change Mgmt Doc Title]
+* [Configuration Management Proc. Title]
+* [Context of the Org Proc. Title]
+* [Control of Documents Proc. Title]
+* [Control of NCP Proc. Title]
+* [Control of Nonconforming Service Proc Title]
+* [Control of Records Proc. Title]
+* [Corrective Preventive Action Proc. Title]
+* [Counterfeit Part Control Proc Title]
+* [Customer Property Proc. Title]
+* [Design Procedure Doc Title]
+* [Document Master List Name]
+* [Equipment Validation Proc. Title]
+* [FOD Control Proc. Title]
+* [Identification & Traceability Proc. Title]
+* [Internal Auditing Proc. Title]
+* [Management Review Proc. Title]
+* [Org Chart Title]
+* [Outsourced Processes Title]
+* [Position Description Title]
+* [Preservation Proc. Title]
+* [Preventive Maintenance Proc. Title]
+* [Purchasing Proc. Title]
+* [Quoting and Orders Doc Title]
+* [Receiving Proc. Title]
+* [Risk Management Proc. Title]
+* [Shipping Proc. Name]
+* [Special Process Doc Title]
+* [Training Proc. Title]

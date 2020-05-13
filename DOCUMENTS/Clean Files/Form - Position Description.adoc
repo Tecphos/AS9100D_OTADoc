@@ -1,0 +1,57 @@
+=== [Position Description Title] +
+
+*Rev. [Rev Number]* +
+
+*[Short Client Name]*
+
+---
+
+[cols=""]
+|===
+|*Job Title:* Title here
+|*Location:*
+|*Job type:* [Full time, part time, contract, etc.]
+|===
+
+*General Description / Language to Use for Job Postings:*
+
+{empty}[Here]
+
+*Reports to:* here.
+
+*Responsibilities:*
+
+* Item
+* Item
+* Item
+* Item
+* Item
+* Item
+
+*Minimum Educational Qualifications:*
+
+* Item
+* Item
+* Item
+* Item
+
+*Minimum Previous Experience:*
+
+* Item
+* Item
+* Item
+* Item
+
+*Minimum Additional Training:*
+
+* Item
+* Item
+* Item
+* Item
+
+*Other Skills:*
+
+* Item
+* Item
+* Item
+* Item

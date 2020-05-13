@@ -1,0 +1,144 @@
+=== Procedure: [Training Proc. Title] +
+
+*Rev. [Rev Number]* +
+
+*[Full Client Name Reg Caps]*
+
+---
+
+[arabic]
+. *[.underline]#SUMMARY#*
+[arabic]
+.. The purpose of this procedure is to define the requirements for
+    positions in the company affecting quality, for hiring and training
+    employees to ensure these requirements are met, and for evaluating the
+    effectiveness of training provided.
+
+.. The [who?] is responsible for implementation and management of this
+    procedure.
+
+. *[.underline]#REVISION AND APPROVAL#*
++
+[cols=",,,",options="header",]
+|===
+|*Rev.* |*Date* |*Nature of Changes* |*Approved By*
+|[Rev Number] |[Date of Issue] |Original issue. |[Procedure Approver Name]
+| | | |
+| | | |
+|===
+
+[arabic, start=3]
+. *[.underline]#OVERVIEW#*
+[arabic]
+.. [Short Client Name] employees are selected, trained and evaluated to
+    ensure that those personnel performing work affecting product quality
+    are competent on the basis of four primary criteria:
+
+* education
+* training
+* skills
+* experience
+
+.. Job requirements have been developed for each position in the company
+    affecting quality and documented in an applicable *_[Position
+    Description Title]_*. These define the desired minimum requirements for
+    each position, including the four criteria listed above.
+
+.. **_[Position Description Title]_**s shall include applicable statutory
+    or regulatory requirements for the position defined.
+
+[arabic, start=4]
+. *[.underline]#CANDIDATE SCREENING#*
+[arabic]
+.. All [Short Client Name] personnel are hired on the basis of their
+    ability to perform acceptable work. This is done by comparing the
+    candidate’s resume, experience, application, etc. against the job
+    description requirements.
+
+.. It is not mandatory that candidates meet all requirements, if the
+    company can provide subsequent training or other actions to bring the
+    candidate up to the requirements eventually.
+
+. *[.underline]#NEW HIRES#*
+[arabic]
+.. New employees for the [Short Client Name] undergo employee
+    orientation, which includes ISO 9001 training, and training on the
+    *_Quality Policy_*. Orientation training to shall be completed within 10
+    days [ modify as desired] of the employee’s start date.
+
+.. Orientation shall include discussing with the employee the relevance
+    and importance of that person meeting customer and company QMS
+    requirements, and how their work will affect quality objectives.
+
+.. A record of the completion of the orientation shall be maintained in
+    the employee’s training file.
+
+. *[.underline]#SUBSEQUENT TRAINING / OJT#*
+[arabic]
+.. Subsequent training, including on-the-job training (“OJT”) is
+    performed to ensure each employee is knowledgeable in their job function
+    and their role within the company.
+
+.. The *_Employee Training Matrix_* lists applicable task-specific
+    requirements for some positions; for employees hired in these positions,
+    the [who?] will update this matrix as training is conducted for these
+    tasks.
+
+.. On the *_Employee Training Matrix_*, an employee is considered
+    qualified is the task is marked off as completed; the employee may train
+    others if this is indicated.
+
+.. Prior to qualification, an employee’s supervisors or managers are
+    responsible for that employee’s work.
+
+.. Other training is recorded on individual employee training records.
+    Such records should indicate the following:
+
+* Type of training
+* Method of training
+* Duration of training
+* Date of completion
+* Location of training
+* The name of the instructor or individual who conducted the training
+
+.. Personnel undergoing third party training and receiving a certificate
+    of training by the training provider may retain this certificate as a
+    training record in lieu of an employee training record.
+
+.. All training records are to be maintained in the employee training
+    file. Copies may be given to the employee for their personal retention
+    or posting in their work areas.
+
+[arabic, start=7]
+. *[.underline]#TRAINING EVALUATION#*
+[arabic]
+.. Management periodically reviews and re-certifies employees for
+    operations where recertification is required or beneficial. Annual [
+    adjust frequency] personnel evaluations are performed to assess
+    effectiveness of training. Employee evaluations shall include goals for
+    continual improvement of the employee’s competency and abilities, as
+    well as their growth within the company, as applicable.
+
+.. Where appropriate, some training programs will include a test or
+    other means of verifying the effectiveness of training. In such cases,
+    work instructions will define the minimum passing grade, and actions to
+    be taken when an employee does not pass.
+
+.. If problems, weaknesses or concerns are discovered during an
+    evaluation or otherwise reported for any other reason (including
+    customer complaints), a *_[CAR Form Name]_* form shall be completed to
+    identify the weaknesses and develop a plan of improvement for that
+    employee; see the procedure *_[Corrective Preventive Action Proc.
+    Title]._*
+
+.. For some tasks, tests may be developed and given to assess training
+    effectiveness. In such cases, procedures shall define the method for
+    giving the test and the passing grades / criteria required. The
+    procedures shall also define the actions to take when an employee fails
+    such a test.
+
+.. The Internal Auditing process (see *_[Internal Auditing Proc.
+    Title]_*) shall evaluate the effectiveness of training and its effects
+    on product and service quality; in addition, the review of training
+    effectiveness shall be a permanent feature of Management Review (see
+    *_[Management Review Proc. Title]_*.)

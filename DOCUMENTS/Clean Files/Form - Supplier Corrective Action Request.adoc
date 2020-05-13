@@ -1,0 +1,74 @@
+=== *Supplier Corrective Action Request (SCAR)* +
+
+*Rev. [Rev Number]* +
+
+*[Short Client Name]*
+
+---
+[.text-center]
+=== This section to be completed by [Short Client Name]
+
+[cols="2*"]
+|===
+|*Supplier:* |*Attention:*      
+
+|*Phone #:*  |*Fax #:*      
+
+.7+|*Description of Nonconformance:*
+|If the nonconformance is parts-related, complete the following:
+
+|*Our PO #:*    
+
+|*Part #:*  
+
+|*Rev:*    
+
+|*Part Description*:
+
+|*Quantity Affected*:
+       
+|*RMA # (if applicable):*       
+
+|*Date Sent to Supplier:* |*Sent by (Company Rep):*      
+
+|===
+
+[.text-center]
+*_RESPONSE TO THIS ISSUE MUST BE RECEIVED WITHIN 20 DAYS OF RECEIPT;
+FAILURE TO DO SO MAY RESULT IN REMOVAL OF YOUR COMPANY FROM FUTURE
+PURCHASING CONSIDERATION_*
+
+[.text-center]
+=== This section to be completed by Supplier
+
+[cols="2*"]
+|===
+
+2+|*Root Cause of Nonconformance:* 
+ 
+2+|*Corrective Action Taken or Planned:* 
+ 
+|*Signature of responsible manager:* |*Date:*       
+
+2+|*Print Name and Title:*      
+
+^.^|*SUPPLIER STOP HERE! RETURN TO:*
+
+a|
+*[Full Client Name Reg Caps]*
+
+*FAX: [Fax]*
+
+*E-MAIL: [Email for SCAR Processing Person]*
+|===
+
+==== This section to be completed by [Short Client Name]
+
+[cols="2*"]
+|===
+
+*Response Accepted?* |_If not attach additional sheets with explanation and
+follow-up._
+
+|*Purchasing Signature*: |*Date:* 
+|===

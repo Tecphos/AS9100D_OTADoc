@@ -1,0 +1,82 @@
+=== Procedure: [Outsourced Processes Title] +
+
+*Rev. [Rev Number]* +
+
+*[Full Client Name Reg Caps]*
+
+---
+
+[arabic]
+. *[.underline]#SUMMARY#*
+[arabic]
+.. The purpose of this procedure is to define critical processes
+    provided by outsourced third parties, and the controls used to ensure
+    the quality of the outputs of such processes.
+.. The [who?] is responsible for implementation and management of this
+    procedure.
+. *[.underline]#REVISION AND APPROVAL#*
++
+[cols="1,1,3,1",options="header",]
+|===
+|*Rev.* |*Date* |*Nature of Changes* |*Approved By*
+|[Rev Number] |[Date of Issue] |Original issue. |[Procedure Approver Name]
+| | | |
+| | | |
+|===
+
+[arabic, start=3]
+. *[.underline]#OUTSOURCED PROCESS TABLE (edit as needed; text provided is just a
+    sample)#*
++
+[cols=",,",options="header",]
+|===
+^|*Outsourced Process* ^|*Providers* ^|*Control Methods*
+|Calibration services a|
+* ABC Labs
+* California Calibration
+
+a|
+* Require labs to hold active ISO 17025 accreditation.
+* Review all incoming calibration certificates for compliance
+
+|Preventive maintenance services a|
+* Joe’s Garage
+
+a|
+* Verify proper functioning of equipment
+* Define requirements in a maintenance contract with supplier
+
+|Contract internal auditing a|
+* Oxebridge
+
+a|
+* Auditors shall have Lead Auditor certificate issued by
+RAB/RABQSA/Exemplar or IRCA
+* All audit reports shall be reviewed prior to internal distribution
+
+|Welding a|
+* Eli Welding Services
+
+a|
+* All contract welders to hold current AWS welding certificate
+* Contractor to have certified weld inspector
+
+|More a|
+* {blank}
+
+a|
+* {blank}
+
+|More a|
+* {blank}
+
+a|
+* {blank}
+
+|More a|
+* {blank}
+
+a|
+* {blank}
+
+|===

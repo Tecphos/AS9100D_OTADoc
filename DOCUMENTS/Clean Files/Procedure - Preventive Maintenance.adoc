@@ -1,0 +1,87 @@
+=== Procedure: [Preventive Maintenance Proc. Title] +
+
+*Rev. [Rev Number]* +
+
+*[Full Client Name Reg Caps]*
+
+---
+
+[arabic]
+. *[.underline]#SUMMARY#*
+[arabic]
+.. The purpose of this procedure is to define the methods to maintain
+    critical equipment to ensure such equipment does not impact product
+    quality or delivery schedules.
+
+.. Preventive maintenance only applies to “key process equipment”; these
+    are defined as those devices or tooling that are critical for
+    maintaining continuing process capability (i.e., uninterrupted
+    manufacturing flow), and those machines and systems that the breakdown
+    of which could adversely impact product quality.
+
+.. Emphasis shall be put on [.underline]#preventive# maintenance (P/M),
+    designed to ensure equipment operates without unexpected down time or
+    error. *_Correcting a fault in a machine after it breaks is considered
+    repair, and not maintenance._* The purpose of a robust P/M program is to
+    eliminate the need for unscheduled repairs and down time.
+
+.. The [who?] is responsible for implementation and management of this
+    procedure.
+
+. *[.underline]#REVISION AND APPROVAL#*
++
+[cols="1,1,3,1",options="header",]
+|===
+|*Rev.* |*Date* |*Nature of Changes* |*Approved By*
+|[Rev Number] |[Date of Issue] |Original issue. |[Procedure Approver Name]
+| | | |
+| | | |
+|===
+
+[arabic, start=3]
+. *[.underline]#PROCEDURE: PREVENTIVE MAINTENANCE#*
+[arabic]
+.. Area managers (or who?) are responsible for identifying key process
+    equipment, machines, and systems to be included in the preventive
+    maintenance program.
+
+.. The area manager (or who?) will preventive maintenance records for
+    each unique piece of key process equipment. This record will contain, at
+    a minimum, the following information:
+
+* Type of device
+* Manufacturer
+* Model number
+* Serial number / company asset number
+* Location
+* P/M tasks required
+* Frequency of each P/M task (monthly, weekly, annually, before use, etc.)
+[arabic]
+.. P/M tasks shall be based on manufacturer’s guidelines, but may be
+    overridden or altered to suit the company’s specific needs, based on
+    equipment usage, criticality to quality, etc.
+
+.. The resulting records may take the form of logs, procedure(s),
+    databases, spreadsheets or other methods as deemed appropriate by the
+    area manager.
+
+.. Records of completed P/M tasks must be maintained. P/M records must
+    show:
+* the completion of the required P/M step
+* the operator responsible for completing the step
+* the date of completion
+* any notes or problems encountered
+[arabic]
+.. For P/M tasks that are done daily, hourly, “before use” or at a more
+    frequent basis, the need for a record is not required. Records must be
+    maintained for any task performed at a frequency of weekly or greater.
+
+.. Maintenance work may be performed by employees or approved third party
+    maintenance service providers, as needed. If third party providers are
+    used, the provider’s maintenance records may be maintained in lieu of
+    any company internal records.
+
+.. In order to identify equipment problems at an early stage and to prevent
+    breakdowns, process equipment operators are instructed to monitor tool
+    wear, process performance, vibrations, etc., and report any abnormal
+    functioning to their supervisors.

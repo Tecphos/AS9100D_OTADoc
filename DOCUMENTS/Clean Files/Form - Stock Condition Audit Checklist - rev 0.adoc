@@ -1,0 +1,52 @@
+=== STOCK CONDITION AUDIT CHECKLIST +
+
+*Rev. [Rev Number]* +
+
+*[Client Short Name]*
+
+---
+
+
+
+[cols="2*",]
+|===
+|Date of Audit: |Auditor(s):
+|===
+
+[.text-center]
+Facility Audited: [ ] Facility 1 [ ] Facility 2 [ ] Facility 3
+
+_Instructions: this is a general walk-around audit, an examination of
+obvious risk or damage to products, parts, tooling, GSE, equipment and
+facilities. For detailed instructions, see the procedure *[Internal
+Auditing Proc. Title].*_
+
+[cols="5,1,5,2"]
+|===
+^|*Audit Item* ^|*OK?* ^|*If not OK, list nonconformances Found* ^|*Auditor
+Initials*
+
+|1.) Confirm acceptable condition of raw materials stored in stock
+areas. Check for obvious damage or risk of damage. | | |
+
+|2.) Confirm acceptable condition of tooling in use, and in storage
+pending use. Check for obvious damage or risk of damage. | | |
+
+|3.) Confirm acceptable condition and expiration status of shelf life
+materials in use and in storage. | | |
+
+|4.) Confirm acceptable condition of GSE in use. Check for obvious
+damage or risk of damage. | | |
+
+|5.) Confirm acceptable overall condition of production equipment and
+machinery, and status of preventive maintenance records. | | |
+
+|6.) Confirm the general condition of the facility and its ability to
+preserve raw materials, tooling, GSE and parts. | | |
+
+4+|NOTES/COMMENTS:
+|===
+[.text-center]
+*_Submit this form to [Specific Title for ISO MR] when completed;_*
+[.text-center]
+*_email to [ISO MR Email Address]._*

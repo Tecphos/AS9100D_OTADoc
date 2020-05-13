@@ -1,0 +1,41 @@
+
+=== *Employee Evaluation Record* +
+
+*Rev. [Rev Number]* +
+
+*[Short Client Name]*
+
+---
+
+[cols=",,,",options="header",]
+|===
+|Employee: | |Date of Evaluation:       |
+|Position: | |Evaluation Performed By:  |
+
+
+4+|[ ] Employee meets or exceeds current requirements for the position +
+   [ ] Employee requires improvement per the Personnel Improvement Plan below
+
+
+4+|Employee Strengths:
+
+4+|Personnel Improvement Plan: _(indicate any problems or areas requiring
+improvement, and develop a plan, to include training and subsequent
+re-evaluation, in order to improve performance.)_
+
+4+|Future Goals:
+
+
+4+|Status of Previous Goals:
+
+
+4+|Employee Concerns or Comments:
+
+
+4+|Wage/Salary or Benefit Modifications:
+
+|===
+
+Employee Signature Date Signed:
+
+Evaluator Signature Date Signed:

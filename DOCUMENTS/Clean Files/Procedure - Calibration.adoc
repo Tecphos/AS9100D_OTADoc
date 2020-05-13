@@ -1,0 +1,113 @@
+=== Procedure: [Calibration Proc. Title] +
+
+*Rev. [Rev Number]* +
+
+*[Full Client Name Reg Caps]*
+
+---
+
+[arabic]
+. *SUMMARY*
+[arabic]
+.. The purpose of this procedure is to define the requirements for
+calibration or verification of equipment used to determine the
+acceptability of product.
+.. Typically, this is limited to inspection or test equipment used to
+“buy off” product prior to movement to a subsequent process or prior to
+final delivery. However, at the discretion of management, calibration or
+verification may also be applied to critical process equipment.
+.. The [who?] is responsible for implementation and management of this
+procedure.
+. *REVISION AND APPROVAL*
++
+[cols="1,1,3,1",options="header",]
+|===
+|*Rev.* |*Date* |*Nature of Changes* |*Approved By*
+|[Rev Number] |[Date of Issue] |Original issue. |[Procedure Approver
+Name]
+
+| | | |
+
+| | | |
+|===
+
+[arabic, start=3]
+. *PROCEDURE: CALIBRATION*
+[arabic]
+.. Devices subject to calibration shall be calibrated by an approved
+outside service provider, or by trained [Short Client Name] employees.
+.. Third party calibration laboratories should be accredited to ISO
+17025 whenever possible, as this provides the best control of
+calibration activities, and traceability to national standards.
+.. When employees perform in-house calibration, this shall be performed
+in accordance with documented procedures for each type of calibration
+performed.
+.. Traceability to the national standards will be maintained for all
+devices where such traceability is possible by the current state of the
+art.
+.. Approved calibration service providers must maintain suitable
+environmental conditions for calibration, and report temperature and
+relative humidity on any calibration test certificates or other
+calibration documentation. For in-house calibration, the [who?] will
+ensure suitable environmental conditions for calibration.
+.. The *_Calibration Log_* [ rename if necessary] will be maintained by
+the [who?]. This document will list all devices, their serial number,
+date of last calibration, and next scheduled calibration date. The
+frequency of calibration for each device shall be adjusted based on the
+history of the device and its impact on product quality. *_NOTE: third
+party calibration providers may not establish calibration frequencies;
+this must be determined by [Short Client Name]._*
+.. For tools calibrated by third party laboratories, these shall be
+returned with a certificate of calibration showing the status of the
+calibration, as well as the condition the equipment was found in (e.g.,
+“defective,” “out of tolerance”, “in tolerance”, etc.) Such certificates
+must have the identification of any standards used by the calibration
+house, and their serial numbers, allowing for traceability to NIST.
+.. For tools calibrated in-house by [Short Client Name] staff, the
+results and standards used shall be recorded on the *_Calibration
+Record_* and shall include any standards and/or procedures uses.
+.. Calibrated devices will be identified with a calibration sticker that
+includes the current calibration status, calibration due date, and
+device identification number. Where the device cannot accommodate a
+calibration sticker due to size or frequency of use, the device shall be
+numbered and the [who?] shall keep a log of those devices and their
+status. Employees may only use devices for acceptance testing that are
+current on calibration.
+.. Employees shall submit expired tools to [who?] for recalibration,
+and/or the [who?] shall positively recall such expired tools for
+recalibration.
+.. An “amnesty window” of 2 weeks [ adjust accordingly] is allowed
+beyond the due date marked on the device, to accommodate arrangement of
+calibration or verification, or for production capacity purposes.
+[Oxebridge recommends against this practice, and recommends deleting
+this paragraph entirely.]
+.. Devices in use for noncritical measurements are to be marked
+REFERENCE ONLY. [ this may not be possible for all companies with large
+amounts of noncritical tools. Consider a different approach in such
+cases.]
+.. Any device failing to meet calibration standards will immediately be
+taken out of service. The device may then be destroyed or sent out for
+repair. Repaired devices must be calibrated before being returned to
+service.
+.. When a measuring device is found to be out of tolerance, and/or
+reported on the calibration certificate of having been found as
+“defective” or “out of tolerance” by the third party provider, the
+[who?] shall be notified immediately. The [who?] or designate shall
+oversee a study to determine the impact of the out-of-tolerance device
+on product shipped; if deemed necessary, a recall may be initiated. The
+customer possessing the material in question is immediately notified of
+the problem. This study and the results shall be recorded and placed in
+the calibration file.
+.. Measuring & monitoring devices must be stored and handled in a manner
+that does not invalidate their calibration or ability to function
+without error.
+. *VERFICATION*
+[arabic]
+.. Where a device cannot be calibrated against traceable standards, it
+must be verified against some known-good object or method. This may be
+done by comparing the part against another part or tool which has been
+evaluated and validated and proven as acceptable.
+.. Known-good objects must be protected so their status is not altered,
+either by physical damage or deterioration.
+.. Known-good methods must be documented in procedures, with a rationale
+for their acceptability being documented.

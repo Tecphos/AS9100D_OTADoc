@@ -1,0 +1,68 @@
+=== Employee Opinion Survey +
+
+*Rev. [Rev Number]* +
+
+*[Short Client Name]*
+
+---
+
+Please complete the survey below and submit to the [ISO MR Regular
+Title]. You are welcome to submit it anonymously.
+{nbsp} +
+Employee Name (optional):_ _ _ _ _ _ _ _ _ _ _ _  Date:_ _ _ _ _ _ _ _ _ _ _ _
+
+Please use the below ratings in considering the following statements:
+
+[cols=",,,,", grid=none, frame=none]
+|===
+|1= Strongly Agree |2= Agree |3= Neutral |4= Disagree |5= Strongly
+Disagree
+|===
+
+____ The information I receive from management is straightforward and
+honest.
+
+____ I have the information I need to do my job well.
+
+____ Management listens and responds to my concerns.
+
+____ I am involved in making decisions that affect my job.
+
+____ I have a clear understanding of the company’s vision, mission and
+values.
+
+____ I have the opportunity to provide feedback and input for key
+decisions.
+
+____ Communication within my department is good.
+
+____ I receive adequate recognition for good work.
+
+____ I feel my efforts are appreciated.
+
+____ I understand how my efforts contribute to [Short Client Name]’s
+mission.
+
+____ I trust my co-workers.
+
+____ I trust management.
+
+____ People are concerned about what is good for the entire organization
+instead of what is good for them.
+
+____ [Short Client Name] hold people accountable for results.
+
+____ I have the tools and resources necessary to do my job effectively.
+
+____ [Short Client Name] policies are administered fairly.
+
+____ I am proud to work at [Short Client Name].
+
+____ People have a strong sense of personal responsibility for the
+performance of their department and the
+
+performance of [Short Client Name].
+
+____ [Short Client Name] cares about me as an employee.
+
+Comments/suggestions for improvement:

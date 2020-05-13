@@ -1,0 +1,99 @@
+=== Procedure: [Quoting and Orders Doc Title] +
+
+*Rev. [Rev Number]* +
+
+*[Full Client Name Reg Caps]*
+
+---
+
+[arabic]
+. *[.underline]#SUMMARY#*
+[arabic]
+.. The purpose of this procedure is to define the methods for capturing
+    customer requirements, and then reviewing those requirements to ensure
+    [Short Client Name] has the capability to meet those requirements before
+    committing to providing [Products or Services Plur.].
+
+.. The [who?] is responsible for implementation and management of this
+    procedure.
+
+. *[.underline]#REVISION AND APPROVAL#*
++
+[cols="1,1,3,1",options="header",]
+|===
+|*Rev.* |*Date* |*Nature of Changes* |*Approved By*
+|[Rev Number] |[Date of Issue] |Original issue. |[Procedure Approver Name]
+| | | |
+| | | |
+|===
+
+[arabic, start=3]
+. *[.underline]#CAPTURE OF REQUIREMENTS#*
+[arabic]
+.. During the [name of your quoting or business development process]
+    process, customer requirements are captured and recorded.
+
+.. Details here on how such requirements are captured, typically by
+    sales or other business development staff. Include a reference to
+    whatever records are used to record this information.
+
+.. [Who?] will also ensure that [Short Client Name] has suitable access
+    to all applicable statutory and regulatory requirements which may apply
+    to the work.
+
+.. [Who?] will also document any requirements not specified by the
+    customer, but for which [Short Client Name] knows will apply to the
+    work.
+
+. *[.underline]#REVIEW OF REQUIREMENTS#*
+[arabic]
+.. [Who?] will oversee the review of incoming requirements, to ensure
+    [Short Client Name] has the capability to meet those requirements. This
+    must occur before any commitment to provide the [Products or Services
+    Plur.] to the customer.
+
+.. Details here on how the review is conducted, and what records are
+    kept of the review and approval.
+
+.. The review of requirements may require a formal risk assessment, at
+    the discretion of management. If so, the risk assessment shall define
+    the expected risks associated with the work, as well as a mitigation
+    plan for each identified risk. If useful, risks may be ranked by
+    likelihood of occurrence and severity of the impact of the risk, if it
+    does occur. Management may elect to accept certain risks as a function
+    of doing business, but if so, this must also be indicated. When a risk
+    assessment is conducted, this will be filed with the appropriate
+    requirements information where?.
+
+.. If a formal quotation is to be prepared for the customer, this shall
+    be developed by the [who?] with input from all proper departments and
+    staff, and released to the customer after reviewed and approved by
+    [who].
+
+.. When a contract or purchase agreement is subsequently received, it
+    shall be reviewed by [who?] to ensure there are no differences between
+    it and any previously submitted quotations. If there are differences,
+    the [who?] shall resolve these with the customer before the contract is
+    accepted.
+
+.. Acceptance of a contract or purchase agreement is to be done by
+    [who?] and recorded [how?].
+
+. *[.underline]#CHANGES TO REQUIREMENTS#*
+[arabic]
+.. Where the customer requests changes to active work, the changes must
+    also be captured, reviewed and approved prior to committing to the
+    change.
+
+.. The change will consider the impact on work already delivered, work
+    underway, and planned work. Problems or concerns over implementing the
+    change will be communicated by [who?] with the customer. Such changes
+    may require renegotiation of contracts.
+
+.. If changes are agreed upon, the [who?] will work with the affected
+    departments to implement the change. The disposition of existing work
+    shall be determined by management, along with input from the customer.
+
+.. Where changes are required by [Short Client Name], these will be
+    negotiated with the customer before implementation, and a record of the
+    customer’s acceptance maintained.

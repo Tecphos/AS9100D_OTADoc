@@ -1,0 +1,123 @@
+=== Procedure: [Context of the Org Proc. Title] +
+
+*Rev. [Rev Number]* +
+
+*[Full Client Name Reg Caps]*
+
+---
+
+[arabic]
+. *SUMMARY*
+[arabic]
+.. The purpose of this procedure is to define how the company’s Strategic
+   Direction is developed by senior management through the identification
+   of interested parties, issues of concerns, risks and opportunities.
+
+.. The [who?] is responsible for implementation and management of this
+   procedure.
+
+. *REVISION AND APPROVAL*
++
+[cols="1,1,3,1",options="header",]
+|===
+|*Rev.* |*Date* |*Nature of Changes* |*Approved By*
+|[Rev Number] |[Date of Issue] |Original issue. |[Procedure Approver
+Name]
+
+| | | |
+
+| | | |
+|===
+
+[arabic, start=3]
+. *OVERVIEW OF THE COTO EXERCISE*
+[arabic]
+.. It is important for [Short Client Name] to fully understand the needs of
+   internal and external stakeholders in order to ensure its Quality
+   Management System (QMS) is fully effective.
+
+.. To this end, the [Senior Management Team Name] conducts the following
+   “Context of the Organization Exercise,” or “COTO Exercise,” to identify
+   the appropriate stakeholders, their issues of concern, and then the
+   associated risks and opportunities derived from those issues.
+
+.. Finally, the outputs of this exercise inform the [Senior Management Team
+   Name] and [Senior Most Manager Title] so that the company’s Strategic
+   Direction may be updated as necessary.
+
+.. The *_COTO Log_* is the primary record for this exercise.
+
+. *INTERESTED PARTIES (STAKEHOLDERS)*
+[arabic]
+.. “Interested parties” are those stakeholders who receive our [Products or
+   Services Plur.], who may be impacted by them, or those parties who may
+   otherwise have a significant interest in our company. The interested
+   parties applicable to [Short Client Name] are listed in the COTO Log,
+   along with the reason for their inclusion. This includes both internal
+   and external parties.
+
+.. The identification of an interested party does not necessarily bring
+   that party into the scope of the QMS; for example, labor union
+   leadership may be identified as an interested party, but that does not
+   mean QMS documents and policies must be developed related to them.
+
+. *ISSUES OF CONCERN*
+[arabic]
+.. For each interest party, the related issues of concern shall be
+   identified in the COTO Log. These issues may reflect direct concerns of
+   the party (for example, customers are concerned about quality of
+   products or services they purchase) or they may be indirect concerns.
+   Such concerns may impact on the interested party, or may be concerns
+   derived from the party that impact on the company.
+
+.. Issues may be either internal or external, depending on whether the
+   interested party is internal or external. In addition, a certain type of
+   party may have both internal and external concerns.
+
+.. When attempting to identify internal concerns, it may be useful to
+   consider technological concerns, employee concerns, etc.
+
+.. When attempting to identify external concerns, it may be useful to
+   consider concerns arising from competition, society and culture, labor
+   relations, statutory and regulatory issues, supply chain, economic
+   issues, etc.
+
+.. Each identified issue is assigned a “bias” (risk, opportunity, or mixed)
+   which will help in determining how to manage the issues, per the next
+   section.
+
+. *RISKS AND OPPORTUNITIES*
+[arabic]
+.. Each issue is assigned a bias as indicated above. The “bias” identifies
+   if the issue is a risk, an opportunity, or a mix of the two.
+
+.. Management will then determine a “treatment method” for each risk or
+   opportunity. Risks are managed to reduce their likelihood and
+   consequence, while opportunities are managed to increase their
+   likelihood and consequence. “Mixed” issues may require both – mitigation
+   of their negative aspects (risks) and pursuit of their positive aspects
+   (opportunities).
+
+.. Each issue may have any manner of treatment indicated; it may be a
+   complex plan defined in a separate document, or may be a simple
+   statement. The field for treatment method must indicate the plan, or
+   reference a separate document if appropriate. The drop-down menu offers
+   suggestions for treatment methods, but this is not comprehensive.
+
+.. Where a risk is determined to be treated via a Failure Mode Effects
+   Analysis (FMEA) style treatment, these must then be entered into the
+   Risk Register tag within the COTO Log. There may not be a one-for-one
+   alignment of each issue with a risk register entry; a single issue may
+  result in multiple risks entered, for example.
+
+.. Opportunities are managed via the Opportunity Register tab within the
+   COTO Log.
+
+.. For more on the management of risks and opportunities, see [Risk
+   Management Proc. Title].
+
+. *STRATEGIC DIRECTION*
+[arabic]
+.. From the information above, the [Senior Management Team Name] devises a
+   “strategic direction” which is documented in the records of management
+  review. See the procedure *_[Management Review Proc. Title]._*

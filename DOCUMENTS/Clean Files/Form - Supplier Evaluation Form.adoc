@@ -1,0 +1,62 @@
+=== Supplier Evaluation Record +
+
+*Rev. [Rev Number]* +
+
+*[Short Client Name]*
+
+
+---
+
+[cols=",",options="header",]
+|===
+2+|*Supplier ID Code (if known):*
+|*Supplier:* |*Date:*
+|*Location:* |*Phone:*
+|*Evaluated by:* |
+|===
+
+[.text-center]
+*_If Part I criteria is met, the Part II criteria is optional._*
+
+====
+
+*Part I*
+
+[ ] Customer required Supplier
+
+[ ] Sole Source
+
+====
+
+====
+
+*Part II*
+
+Evaluator: check the boxes below for each criteria you have evaluated.
+Attach evidence where indicated. _At least [.underline]#three# criteria
+must be checked._
+
+[ ] Quality appears adequate
+
+[ ] Delivery availability and terms are adequate
+
+[ ] References verified
+
+[ ] Quality management system certification to ISO 9001, AS9100 or
+equivalent. _Attach a copy of certificate._
+
+[ ] Pricing & value
+
+[ ] Responsiveness
+
+[ ] Results of evaluation of sample parts or materials
+
+[ ] Supplier is capable of meeting regulatory concerns
+
+[ ] Supplier survey results _Attach completed survey._
+
+[ ] Results of on-site audit _Attach completed audit report._
+
+[ ] Other: ____________________________________________________________
+
+*NOTES:*

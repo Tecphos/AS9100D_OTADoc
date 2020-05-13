@@ -1,0 +1,76 @@
+=== Equipment Maintenance Record +
+*Rev. [Rev Number]* +
+
+*[Short Client Name]*
+
+---
+
+Use one sheet for each month.
+
+[cols=",",]
+|===
+.2+a|
+*Machine:*
+
+*Manufacturer:*
+
+*Serial Number:*
+
+|*MONTH:*
+|*YEAR:*
+|===
+
+*OPERATOR MAINTENANCE* _(sign off not required)_
+
+[cols=",,,",options="header",]
+|===
+|MAINTENANCE OPERATION |*DAILY* |*AS NEEDED* |PRIOR TO USE
+
+| | | |
+| | | |
+| | | |
+| | | |
+|===
+
+
+
+[cols="4,2,1",options="header",]
+|===
+|*WEEKLY MAINTENANCE* _(sign off)_ |*WEEK ENDING* |*INITIAL WHEN DONE*
+| | |
+| | |
+| | |
+| | |
+| | |
+|===
+
+[cols="4,1,1",options="header",]
+|===
+|*MONTHLY MAINTENANCE* _(sign off)_ |*DATE COMPLETED* |*INITIAL WHEN
+DONE*
+| | |
+
+| | |
+
+| | |
+
+| | |
+
+| | |
+|===
+
+*OTHER MAINTENANCE* _(sign off)_
+
+[cols="4,1,1,1",options="header",]
+|===
+a|
+MAINTENANCE OPERATION
+
+|*FREQUENCY* |*DATE DONE* |*INITIALS*
+| | | |
+| | | |
+| | | |
+| | | |
+|===
+
+*NOTES:*

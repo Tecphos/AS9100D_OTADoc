@@ -1,0 +1,210 @@
+=== Procedure: [Control of Records Proc. Title] +
+*Rev. [Rev Number]* +
+
+*[Full Client Name Reg Caps]*
+
+---
+
+[arabic]
+. *[.underline]#SUMMARY#*
+[arabic]
+.. This procedure defines the requirements for the identification,
+    storage, protection, retrieval, retention time and disposition of
+    controlled quality records.
+
+.. “Quality records” are those records which provide evidence of [Short
+    Client Name] having met – or not met – requirements. This may include
+    requirements related to inspection requirements, purchasing
+    requirements, contractual requirements, etc. The full listing of records
+    affected by this procedure is given in the table at the end of this
+    procedure.
+
+.. Records outside of this scope do [.underline]#not# require control,
+    but may be controlled at the discretion of management.
+
+. *[.underline]#REVISION AND APPROVAL#*
++
+[cols="1,1,3,1",options="header",]
+|===
+|*Rev.* |*Date* |*Nature of Changes* |*Approved By*
+|[Rev Number] |[Date of Issue] |Original issue. |[Procedure Approver
+Name]
+
+| | | |
+
+| | | |
+|===
+
+[arabic, start=3]
+. *[.underline]#PROCEDURE#*
+[arabic]
+.. *Identification*
+[arabic]
+... [Short Client Name] maintains records that are needed to provide
+    evidence of conformity to requirements and of the effective operation of
+    the quality management system. The records are identified in the table
+    below, along with the controls for each record type.
+
+.. *Storage*
+[arabic]
+... Storage methods are indicated in the table below, for each record
+    type.
+
+... Softcopy records and data are stored on the company server or
+    computers; in all cases, computers are subject to backup.
+
+... Hardcopy records are stored in suitable cabinets that prevent damage
+    or deterioration.
+
+.. *Retention, Retrieval & Disposition*
+[arabic]
+... Records shall be maintained a minimum of XX years [ define actual
+    retention time; should not be less than 3 years due to ISO audit cycle
+    requirements] unless otherwise indicated below or as defined by
+    customer, statutory or regulatory requirements.
+
+... Training records and other records pertaining to employees must be
+    retained at least one year beyond that employee’s end of employment.
+
+... Records that are discarded after retention shall be permanently
+    destroyed.
+
+... When archived records are stored offsite or in another location,
+    these shall be stored in a controlled environment that also protects
+    them from damage or deterioration.
+
+... As required by customer contract or regulatory requirements, quality
+    records shall be made readily available for review by the requesting
+    authority. Such review is limited to those records applicable to the
+    customer or regulatory authority, and shall not allow for the accidental
+    or intentional release of confidential information to an unauthorized
+    party.
+
+.. *Protection*
+[arabic]
+... The listed “controller” shown in the table below must ensure their
+    assigned records remain legible, readily identifiable and retrievable.
+
+... In order to ensure protection of records, electronic records are
+    subject to periodic backups, with the backup stored on a separate
+    server. [Add details of backup procedures and methods here; if complex,
+    a separate procedure may be required.]
+
+... The [who?] is responsible for backup of data.
+
+... Quality records data stored on individuals’ computers must either be
+    backed up through the server (as above), or backed up manually onto the
+    server. The individual users of such data are responsible when data is
+    not backed up by the server. [Delete if not applicable.]
+
+... Entries made by hand on hardcopy forms shall be made in ink.
+
+... White-out or correction tape is not to be used on any quality
+    records. The correct procedure for making corrections is to cross the
+    error out, make the correction and initial it. Optionally,
+    date-sensitive corrections should be dated as well.
+
+---
+
+[.text-center]
+*[.underline]#QUALITY RECORDS MATRIX#*
+
+Edit table as required; data entered is provided only as examples
+
+[cols=",,,,,",options="header",]
+|===
+|*Required Record or Document Type* |*[Short Client Name] Record*
+|*Responsible Controller* |*Type of Record* |*Storage Location*
+|*Discard Method*
+.3+.^|Management Review Records |Management Review Meeting Minutes |QA
+    Manager |Softcopy |Server |Secure delete
+
+    |Customer Satisfaction records |QA Manager |Hardcopy |QA Manager’s
+    Office |Shred and discard
+
+    |Employee Opinion Surveys | | | |
+
+.5+.^|Training Records |Training Matrix | | | |
+
+    |Employee Training Records | | | |
+
+    |Statements of Training | | | |
+
+    |Applications, resumes | | | |
+
+    |Authority Roster | | | |
+
+.7+.^|Records of realization process meeting requirements |Preventive
+    Maintenance Records | | | |
+
+    |Stamp & Signature Control Log | | | |
+
+    |Work Orders | | | |
+
+    |Travelers | | | |
+
+    |Purchase Orders | | | |
+
+    |Packing Lists / Packing Slips | | | |
+
+    |Process control records (incl. temp charts) | | | |
+
+.7+.^|Design and Development Records |Design plans | | | |
+
+    |Design drawings | | | |
+
+    |Design models | | | |
+
+    |Specifications | | | |
+
+    |Design change records | | | |
+
+    |Design verification records | | | |
+
+    |Design validation records | | | |
+
+.5+.^|Contract Review Records |Customer RFQs | | | |
+
+    |Quotes | | | |
+
+    |Customer POs | | | |
+
+    |Customer drawings | | | |
+
+    |Customer specifications | | | |
+
+.3+.^|Vendor Evaluation |AVL | | | |
+
+    |Vendor survey reports | | | |
+
+    |Suppler evaluation records | | | |
+
+.3+.^|Calibration Records |Calibration Master List | | | |
+
+    |Calibration Records | | | |
+
+    |Certificates of Calibration | | | |
+
+    |Traceability records |Travelers | | | |
+
+.5+.^|Record of release of product |First Article Inspection Reports | | | |
+
+    |Receiving Inspection Forms | | | |
+
+    |Final Inspection Sheets | | | |
+
+    |Nonconforming Product Dispositions | | | |
+
+    |Nonconformance Log | | | |
+
+    |Record of nonconforming customer property |Nonconforming Product
+    Dispositions | | | |
+
+.2+.^|Corrective & Preventive Actions |CARs | | | |
+
+    |CAR Log | | | |
+
+.2+.^|Internal Audit records |Internal audit Reports | | | |
+
+    |Internal Audit Schedule | | | |
+|===

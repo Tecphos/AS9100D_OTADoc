@@ -1,0 +1,237 @@
+=== Procedure: [Risk Management Proc. Title] +
+
+*Rev. [Rev Number]* +
+
+*[Full CLient Name Reg Caps]*
+
+---
+
+[arabic]
+. *[.underline]#SUMMARY#*
+[arabic]
+.. The company has established, implemented and maintained this procedure
+    for managing risks and opportunities throughout the [Short Client Name].
+
+.. Responsibility and authority for this procedure are spread across
+    various functions, and defined within this procedure.
+
+.. Note: this procedure has adopted definitions for key terms developed
+    specifically by [Short Client Name] and determined appropriate for its
+    use within the unique requirements of its management system. It does not
+    adopt current ISO definitions, which [Short Client Name] has determined
+    are not sufficient for its use.
+
+.. Note: the QMS documentation occasionally uses the term “opportunity for
+    improvement” when discussing internal audit findings or management
+    review actions; that term does not have the same context as the term
+    “opportunity” used herein.
+
+. *[.underline]#REVISION AND APPROVAL#*
++
+[cols=",,,",options="header",]
+|===
+|*Rev.* |*Date* |*Nature of Changes* |*Approved By*
+|[Rev Number] |[Date of Issue] |Original issue. |[Procedure Approver
+Name]
+
+| | | |
+
+| | | |
+|===
+
+[arabic, start=3]
+. *[.underline]#DEFINITIONS#*
+[arabic]
+.. *Risk*: A negative effect of uncertainty.
+
+.. *Opportunity*: A positive effective of uncertainty.
+
+.. *Uncertainty*: A deficiency of information related to understanding or
+    knowledge of an event, its consequence, or likelihood. (Not to be
+    confused with measurement uncertainty.)
+
+.. *Risk Assessment*: a systematic investigation and analysis of potential
+    risks, combined with the assignment of severities of probabilities and
+    consequences. These are used to rate risks in order to prioritize the
+    mitigation of high risks.
+
+.. *Risk Mitigation*: a plan developed with the intent of addressing all
+    known or possible risks and preventing their occurrence.
+
+.. *FMEA (Failure Mode Effects Analysis)*: a specific risk treatment method
+    which ranks risks by probability and consequence.
+
+. *[.underline]#PROCEDURE: GENERAL#*
+[arabic]
+.. [Short Client Name] considers and manages risks and opportunities
+    differently.
+
+.. Risks are managed with a focus on decreasing their likelihood, and
+    minimizing their impact if they should occur.
+
+.. Opportunities are managed to increase their likelihood, and to maximize
+    their benefits if they should occur.
+
+.. Where risks and opportunities overlap, the best appropriate method for
+    managing them shall be ascertained, given the situation at hand.
+    Elements of such “blended” uncertainties may require methods which both
+    address the negative risk and positive opportunity.
+
+. *[.underline]#PROCEDURE: MANAGEMENT OF RISKS#*
+[arabic]
+.. Risks are identified as part of the “Context of the Organization
+    Exercise” described in *_[Context of the Org Proc. Title]._*
+
+.. Additional risks may be identified by any employee at any time.
+
+.. Each process is defined in detail through a *_[Process Definition Doc
+    Title]._* This document includes the identification and mitigation plans
+    for key risks associated with the defined process. [Short Client Name]
+    management reviews these risks and takes action to minimize them.
+
+.. Risks identified as part of the Context of the Organization exercise
+    defined in the procedure *_[Context of the Org Proc. Title]_* and logged
+    within the *_COTO Log_*. This indicates a rough priority, as well as a
+    selected risk treatment method.
+
+.. The methods for risk assessments vary, but should always include a means
+    of identifying the risk under examination, and a description of the
+    result of the risk assessment.
+
+.. Detailed methods may include FMEA (failure mode effects analysis), SWOT
+    (strength, weakness, opportunity and threat) or other tools. No single
+    method is used for all risk assessments; the tool selected should be the
+    best tool applicable to that particular risk analysis.
+
+.. ISO 31010 provides guidance on the selection of risk tools.
+
+.. Where FMEA style risk treatment is deemed optimal, an entry shall be
+    made in the Risk Register tab of the *_COTO Log_*. When using the Risk
+    Register, the following steps are to be followed:
+[arabic]
+... Identifying the risk.
+
+... Identifying the process for which the risk most likely dominates.
+
+... Assigning a [.underline]#probability# rating to the identified risk;
+    this probability is comprised of two elements: likelihood and previous
+    occurrences. Each element is given a score from 1 (lowest risk) to 5
+    (highest risk). The final probability rating is the average of the
+    elements.
+
+... Assigning a [.underline]#consequence# rating if the risk were to be
+    encountered; this consequence is comprised of five elements: eventual
+    loss of contract; negative impact on existing customers; inability to
+    meet contract terms; any violation of statutory regulations or law;
+    impact on [Short Client Name]’s reputation; and estimated cost of
+    correction. Again, each element is given a score from 1 (lowest risk) to
+    5 (highest risk). The final consequence rating is the average of the
+    elements.
+
+... Calculating a final Risk Factor based on the equation:
++
+*PROBABILITY RATING x CONSEQUENCE RATING = RISK FACTOR*
++
+... For risks with a final Risk Factor rating equal to or greater than the
+    threshold set in the *_Risk Register_*, management will decide whether
+    to reject the subject due to the risk, or accept the risks after the
+    development of a risk mitigation plan. The mitigation plan must be
+    documented, either in the Risk Register or in another document which
+    must be referenced on the form.
+
+... Risks with a factor less than the risk threshold may be accepted without
+    a mitigation plan, unless otherwise directed by management.
+
+... The Risk Register also allows for setting a “warning” threshold range,
+    where risks that have a Risk Factor within that range are flagged as
+    suggesting the need for a mitigation plan, but such a plan is not mandatory.
+
+... The final column allows for entry of an estimated risk factor after
+    mitigation, which is an estimate on what the risk should be reduced to
+    if the risk treatment is successful.
+
+.. If a risk includes a potential positive aspect, management may elect to
+    conduct an opportunity pursuit assessment on the positive aspect, as
+    defined below.
+
+[arabic, start=6]
+. *[.underline]#PROCEDURE: MANAGEMENT OF OPPORTUNITIES#*
+[arabic]
+.. [Short Client Name] actively seek out opportunities which could enhance
+    its financial viability and market position. For example:
+
+* obtaining new contracts
+* obtaining access to new markets
+* identification of new industries which may be served by [Short Client Name]
+* development of new offerings that are within the scope of capabilities
+    of [Short Client Name]
+* streamlining existing processes to improve efficiency and reduce costs
+
+.. Opportunities are identified as part of the “Context of the Organization
+    Exercise” described in *_[Context of the Org Proc. Title]_* and as part
+    of the corrective and preventive action program described in
+    *_[Corrective Preventive Action Proc. Title]._*
+
+.. Discussing and analyzing opportunities shall be done by top management.
+    If made part of the management review activities, these shall be
+    recorded in the management review records.
+
+.. To help determine which opportunities should be pursued, the Opportunity
+    Register within the *_COTO Log_* may be used to conduct an “opportunity
+    pursuit assessment.” This register is similar to the Risk Register, but
+    ranks potential positive opportunities by their likelihood of success
+    and potential benefit.
+.. The opportunity pursuit assessment is conducted by:
+[arabic]
+... Identifying the opportunity.
+
+... Identifying the process for which the opportunity most likely falls
+    under.
+
+... Assigning a [.underline]#probability# rating to the identified
+    opportunity; this probability that the organization can achieve the
+    opportunity. It is comprised of two elements: likelihood and previous
+    occurrences. Each element is given a score from 1 (lowest probability)
+    to 5 (highest probability). The final probability rating is the average
+    of the elements.
+
+... Assigning a [.underline]#benefit# rating to assess potential benefits if
+    the opportunity is won. This is comprised of six elements: potential for
+    new business; potential expansion of current business; potential
+    improvements in the organization’s ability to satisfy regulatory or
+    statutory requirements; potential improvements to the quality management
+    system; potential enhancements of [Short Client Name]’s reputation; and
+    estimated cost of implementation. Again, each element is given a score
+    from 1 (lowest benefit) to 5 (highest benefit). The final benefit rating
+    is the average of the elements.
+
+... Calculating a final Opportunity Factor based on the equation:
++
+*PROBABILITY RATING x BENEFIT RATING = OPPORTUNITY FACTOR*
++
+... For opportunities with a final Opportunity Factor rating equal to or
+    greater than the threshold set in the Opportunity Register, management
+    will decide whether to pursue the opportunity through an “opportunity
+    pursuit plan” or to abandon the opportunity altogether. The opportunity
+    pursuit plan must be documented, either in the Opportunity Register or
+    in another document which must be referenced on the form.
+
+... Opportunities with a factor less than the opportunity target rating may
+    be abandoned outright, unless otherwise directed by management.
+
+... The final column allows for entry of success result, once the
+    opportunity has been closed; this includes entries for abandoning the
+    opportunity, failing to win the opportunity, and three grades of
+    success.
+
+.. Analysis of any opportunity will generally result in one of the
+    following possible determinations:
+
+* Pursue the opportunity
+* Explore the opportunity in greater detail before proceeding
+* Accept the opportunity, but under limited and controlled conditions
+* Decline the opportunity, typically based on a high expected cost or low
+    anticipated benefit
++
+If an opportunity includes a negative aspect, management may elect to
+conduct a risk assessment on the negative aspect, as defined above.

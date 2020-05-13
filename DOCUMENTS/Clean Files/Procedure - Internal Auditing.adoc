@@ -1,0 +1,198 @@
+=== Procedure: [Internal Auditing Proc. Title] +
+
+*Rev. [Rev Number]* +
+
+*[Full Client Name Reg Caps]*
+
+---
+
+[arabic]
+. *[.underline]#SUMMARY#*
+[arabic]
+.. This procedure defines the process and methods for conducting
+    internal quality management system (QMS) audits.
+.. The [who?] is responsible for implementation and management of all
+    internal audits.
+. *[.underline]#REVISION AND APPROVAL#*
++
+[cols="1,1,3,1",options="header",]
+|===
+|*Rev.* |*Date* |*Nature of Changes* |*Approved By*
+|[Rev Number] |[Date of Issue] |Original issue. |[Procedure Approver Name]
+| | | |
+| | | |
+|===
+
+[arabic, start=3]
+. *[.underline]#TERMS AND DEFINITIONS#*
+
+* *Audit* – systematic and formal comparison of documentation and practice
+    against requirements, performed for the purpose of finding areas of
+    nonconformity or opportunities for improvement.
+
+* *Evidence* – data or examples which can be proven true and verified for
+    the purposes of proving an audit finding.
+
+* *Finding* – any summary of audit evidence; findings may be positive
+    (reports of compliance) or negative (reports of nonconformity)
+
+* *Major Nonconformity* – a nonconformity that shows an AS9100 clause or
+    other requirement has not been implemented at all, or has been
+    implemented in such a way that the requirements are not met at all.
+
+* *Minor Nonconformity* – a single instance, or small set of single
+    instances, that show a requirement has not been met. At the Lead
+    Auditor’s discretion, a large number of related Minor Nonconformities
+    may instead be filed as a single Major Nonconformity.
+
+* *Nonconformity / noncompliance* – any instance where practice or
+    evidence does not comply with requirements.
+
+[arabic, start=4]
+. *[.underline]#PROCEDURE: CONDUCTING INTERNAL QMS AUDITS#*
+[arabic]
+.. Internal quality audits are conducted to ensure ongoing compliance
+    with requirements of the QMS standards, company’s policies and
+    procedures. This is accomplished by auditing against all important
+    processes and areas, and by applying all applicable sections of the
+    standard. Audit requirements include those of ISO 9001, the company’s
+    quality system documentation, as well as requirements of customers or
+    regulatory authorities, as applicable.
+
+.. Audits are conducted by process, and each process must be audited at
+    least once annually.
+
+.. The applicable ISO 9001 standard clauses pertaining to each process
+    are defined in Table 1 below. These are the minimum clauses which must
+    be audited for each process; an auditor may audit any clause of the
+    applicable standard, and writing findings against them, depending on how
+    the audit unfolds. (You will have to create this table yourself; see the
+    sample table included with the kit documentation.)
+
+.. Additional processes of other activities or facilities, outside of
+    the process model, may also be scheduled. For example, this may include
+    safety audits, configuration management audits, etc. In such cases,
+    unique audit forms may be developed for such non-process related audits.
+
+.. The [who?] plans audits according to need, management decision, or
+    customer requirements, and assigns a Lead Auditor for each, as well as
+    any supporting auditor team members. Scheduling is recorded in the
+    Internal Audit Schedule portion of the *_Internal Audit Log._*
+
+.. Auditors are independent of the area being audited; [Short Client
+    Name] may therefore use approved third-party contract auditors for its
+    internal audit program; the requirements for third party auditors are
+    defined in the *_[Quality Manual Doc Title]._* Employees selected as
+    internal auditors will have attended at a minimum a 4 hour internal
+    auditor training program and at least 8 hours of shadow auditing with a
+    previously qualified internal auditor, or third party auditor.
+
+.. Using the *_Internal Audit Report_* as a basic checklist, the Lead
+    Auditor will plan the scheduled audit with the appropriate departments
+    and with any other audit team members. The audit team will determine
+    additional checklist items or requirements to verify, and add these to
+    the checklist portion of the *_Internal Audit Report._*
+
+.. Auditors will then conduct the audit by following the steps defined
+    on the *_Internal Audit Report._* These are:
+[arabic]
+... *Step One: Audit Planning* – definition of the scope of the audit,
+    dates of audit, auditors, applicable clauses of affected standards, and
+    documents to review.
+
+... *Step Two: Document Review* – a comparison of the quality system
+    documentation against the requirements of the applicable standard.
+
+... *Step Three: Auditing* – comparison of actual practice vs. the
+    requirements of both the company QMS documentation and the applicable
+    standards.
+
+... *Step Four: Verifying Effectiveness of the Process* – general
+    questions aimed at verifying that the process being audited is effective
+    and not prone to generating nonconformities.
+
+... *Step Five: Summarize Findings* – a detailed list of the negative
+    findings to be entered into the [CAR Form Name] system.
+
+... *Step Six: Review of Report* – a review by the Lead Auditor of all
+    findings and evidence to ensure the audit report is complete, clear,
+    objective, and provides traceable objective evidence.
+
+.. Auditing shall be performed by obtaining objective evidence to support
+    each requirement, or indicate where nonconformances are found. All
+    findings are recorded on the *_Internal Audit Report._* The internal
+    auditor submits *_[CAR Form Name]s_* as necessary to address the
+    nonconformances recorded on the report.
+
+.. When recording nonconformities, each negative finding must include three
+    elements:
+[arabic]
+... *Indication of the Requirement* – the document or clause of the
+    applicable standard which is thought to have been violated.
+
+... *Objective Evidence* – traceable indication of the evidence found
+    which supports the claim of a nonconformity (e.g.: documents, products
+    examined, interview results). In all cases, objective evidence must be
+    recorded in sufficient detail to ensure a third party can find the exact
+    evidence at a later date.
+
+... *Details of the Disconnect* – a brief statement on [.underline]#why#
+    the objective evidence shows a nonconformity against the requirement.
+
+.. The nonconformities shall be rated as either “Major” or “Minor” per the
+    requirements of customers and some regulatory bodies. See definitions of
+    Major and Minor Nonconformities in section 3 above. ( delete if not
+    desired. This is not a requirement for internal audits, although some
+    customers or government agencies may require it of your internal
+    program; if deleted, you should also delete the definitions for “major”
+    and “minor” in section 3.)
+
+.. Findings shall be rated by Type, whether Corrective, Preventive or
+    Opportunity for Improvement (OFI) for when *_[CAR Form Name]s_* are
+    filed.
+
+.. Once *_[CAR Form Name]s_* are filed, the responsible managers or parties
+    shall ensure timely corrective action is taken to remedy any
+    nonconformances found. During the *_[CAR Form Name]_* effectiveness
+    review, the results of actions taken to address audit findings are
+    evaluated.
+
+.. The [who?] shall update the audit schedule within the *_Internal Audit
+    Log_* to reflect to closure of the audit, and enter a summary of audit
+    findings. Based on the results of the audits, and previous audits, the
+    [who?] will then schedule the next audit of the particular process.
+    Processes for which internal audits discover a high number of findings,
+    or critical findings of any number, should be audited more frequently
+    until the process is proven effective again.
+
+.. The completed *_Internal Audit Report_* is then published on the
+    company’s server and/or sent to the appropriate managers of the areas
+    audited, in order to report the findings and results. In this way, and
+    in conjunction with the submission of *_[CAR Form Name]s_*, all
+    necessary managers are notified of the audit results and may make
+    informed decisions for their departments based on those results.
+
+.. The results of internal audits are also gathered and summarized on the
+    Audit Trend Analysis Chart, generated by the *_Internal Audit Log_*, for
+    review by top management during management review and by all employees,
+    through a general posting of the chart.
+
+.. In all cases, auditees are expected to cooperate fully with the audit
+    team.
+
+---
+
+Table 1: Processes vs. ISO 9001:2015 Clauses
+
+[cols=",",options="header",]
+|===
+|Process |Applicable ISO 9001:2015 Clause(s)
+| |
+| |
+| |
+| |
+| |
+| |
+| |
+
+|===

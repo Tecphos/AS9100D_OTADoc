@@ -1,0 +1,230 @@
+=== Internal Audit Report
+*Rev. [Rev Number]* +
+
+*[Short Client Name]*
+
+---
+
+== STEP ONE: Audit Plan
+
+[cols=",",options="header",]
+|===
+|*Process to Audit (Audit Scope):* |
+|*Audit Date(s):* |*Lead Auditor:*
+|*Audit #:* |*Auditor(s):*
+2+|*Site(s) to Audit:*
+2+|*Applicable Clauses of [ISO 9001 or AS9100] Standard:*
+| |
+|*Applicable Documents to Audit* |*Rev.*
+|[Quality Manual Doc Title] |
+| |
+| |
+| |
+|===
+
+== STEP TWO: Compare Documentation vs. Requirements
+
+[cols="4,1,4",options="header",]
+|===
+|*Compare the [Short Client Name] documentation with the applicable
+clauses of [ISO 9001 or AS9100].* | |
+|*Question* a|
+*Y/N*
+
+*(or N/A)*
+
+|*Evidence or Notes Sheet Ref. #*
+
+|In general, does the [Short Client Name] documentation meet the
+requirements of [ISO 9001 or AS9100]? | |
+
+|Review any customer requirements that may be applicable to this
+process. (If there are none, enter “N/A” in the middle column.) In
+general, does the [Short Client Name] documentation meet these
+requirements? | |
+
+|Review any statutory or regulatory requirements that may be applicable
+to this process. (If there are none, enter “N/A” in the middle column.)
+In general, does the [Short Client Name] documentation meet these
+requirements? | |
+
+3+|*Indicate any suggestions for improvement related to the
+documentation:* | |
+
+3+|
+|===
+
+== STEP THREE: Compare Actual Practice vs. Requirements
+
+[cols="2,5,1,2",options="header",]
+|===
+4+|*Compare the requirements of [ISO 9001 or AS9100], the [Quality Manual
+Doc Title] and other documentation against what employees are actually
+doing in everyday practice.*
+a|
+*Requirement Reference*
+
+|*Question* a|
+*Y/N (or N/A)*
+
+|*Evidence or Notes Sheet Ref. #*
+
+| | | |
+| | | |
+| | | |
+| | | |
+| | | |
+| | | |
+
+|===
+
+[cols="2,5,1,2",options="header",]
+|===
+4+|*Review previous audits for this process. Review previous [CAR Form
+Abbreviation]s issued against this process, or as a result of previous
+audits for this process. Add additional checklist questions here, based
+on the previous audits, [CAR Form Abbreviation]s or other documents or
+requirements, as you see fit.*
+a|
+*Requirement Reference*
+
+|*Question* a|
+*Y/N (or N/A)*
+
+|*Evidence or Notes Sheet Ref. #*
+
+| | | |
+| | | |
+| | | |
+| | | |
+| | | |
+|===
+
+== STEP FOUR: Verify the Effectiveness of the Process
+
+[cols="4,1,4",options="header",]
+|===
+3+|*Review the applicable procedure(s) for this process and answer the
+questions below.*
+|*Question* a|
+*Y/N (or N/A)*
+
+|*Evidence or Notes Sheet Ref. #*
+
+|Are the procedure steps accurate and complete as compared to true
+practice? | |
+
+|Are there sufficient check steps (inspections, tests, reviews,
+approvals, sign-offs, etc.) that ensure the process outputs meet
+requirements before passing onto the next process? | |
+
+|Does the process appear to adequately meet the requirements of [ISO
+9001 or AS9100] and the [Short Client Name] documentation? | |
+
+|Does the process appear to adequately meet all customer or regulatory
+requirements? | |
+
+3+|*Indicate any problems you uncovered with the process:*
+
+3+|*Provide brief details on any areas that you found were
+well-implemented, particularly effective or worth noting as positive
+traits of the process.*
+|===
+
+== STEP FIVE: Summarize Findings for [CAR Form Abbreviation] system
+
+Based on the findings and nonconformities you have recorded in the
+previous sections, summarize the necessary actions needed. For type,
+choose one of the following:
+
+*C* = Corrective action needed (existing noncompliance)
+
+*P* = Preventive action needed (potential noncompliance)
+
+*OFI* = Opportunity for Improvement
+
+[cols=",,,,",options="header",]
+|===
+|*[CAR Form Abbreviation] #* |*[ISO 9001 or AS9100] Clause* |*Describe
+finding as you want it to appear in the [CAR Form Abbreviation] system.*
+|*Type*
+|*Major / Minor*
+
+| | a|
+Requirement:
+
+Evidence:
+
+Rationale for Finding:
+
+| |
+
+| |
+a|
+Requirement:
+
+Evidence:
+
+Rationale for Finding:
+
+| |
+
+| |     
+a|
+Requirement:
+
+Evidence:
+
+Rationale for Finding:
+
+| |
+
+| |     
+a|
+Requirement:
+
+Evidence:
+
+Rationale for Finding:
+
+| |
+
+| |     
+a|
+Requirement:
+
+Evidence:
+
+Rationale for Finding:
+
+| |
+|===
+
+== STEP SIX: Review Audit Report and Submit
+
+All auditors on the audit team must submit their audit reports for
+summary and review by the Lead Auditor. Lead Auditor: review the
+completeness of this report prior to submitting it to the [Specific
+Title for ISO MR]. Be sure findings show objective evidence, that
+everything is written clearly, and that all checklist questions are
+answered.
+
+[cols=","]
+|===
+.2+^.^|Audit report reviewed and ready for submission:     
+|Signature of Lead Auditor:  |Date:
+|===
+
+== NOTES PAGE
+
+[cols="1,4",options="header",]
+|===
+|*Your Note reference #* |*Notes, evidence, findings, comments, etc.*
+| |
+| |
+| |
+| |
+| |
+| |
+| |
+|===

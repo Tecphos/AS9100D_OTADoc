@@ -1,0 +1,1251 @@
+= [Quality Manual Doc Title]
+:toc: left
+:toclevels: 3
+
+[.text-center]
+*[FULL CLIENT NAME ALL CAPS]*
+[.text-center]
+*[Quality Manual Doc Title]*
+[.text-center]
+Revision [Rev Number]
+[.text-center]
+Issued [Date of Issue]
+[.text-center]
+Conforms to AS9100 Rev. D and ISO 9001:2015
+[.text-center]
+{empty}(c) [Copyright Year] [Full Client Name Reg Caps]; all rights
+    reserved. This document may contain proprietary information and may only
+    be released to third parties with approval of management. Document is
+    uncontrolled unless otherwise marked; uncontrolled documents are not
+    subject to update notification.
+
+---
+
+:sectnums:
+:sectnumlevels: 6
+[arabic, Start=0]
+== Revision History and Approval
+
+[cols="1,3,1,1",]
+|===
+|*Rev.* |*Nature of changes* |*Approval* |*Date*
+|[Rev Number] |Original release. |[Quality Manual Approver Name] |[Date of Issue]
+| | | |
+| | | |
+| | | |
+| | | |
+| | | |
+|===
+
+== Welcome to [Full Client Name Reg Caps]
+
+Add welcome language here. This is the first thing a reader will see, so
+    it’s a good idea to add basic information about the company. If the
+    intended audience includes customers, you can add marketing language
+    here, too.
+
+Adding some photos of the facility or staff is a nice touch here, as
+    well.
+
+== About The [Short Client Name] Quality Manual
+
+This manual is prepared for the purpose of defining the company’s
+    interpretations of the AS9100 Revision D and ISO 9001:2015 international
+    standards, as well as to demonstrate how the company complies with that
+    standard.
+
+This manual presents “Notes” which are used to define how [Short Client
+    Name] has tailored its management system to suit its purposes. These are
+    intended to clarify implementation approaches and interpretations for
+    concepts which are not otherwise clearly defined in ISO 9001 or AS9100.
+    _Notes appear in italics, with gray background._
+
+Where subordinate or supporting documentation is reference in this
+    manual, these are indicated by *_bold italics_*.
+
+== Terms and Definitions
+
+[Short Client Name] adopts the following terms and definitions within
+    its Quality Management System. Where no definition is provided, the
+    company typically adopts the definitions provided in *_ISO 9000: Quality
+    Management – Fundamentals and Vocabulary_* and AS9100 Rev D. In some
+    cases, specific procedures or documentation may provide a different
+    definition to be used in the context of that document; in such cases,
+    the definition will supercede those provided for in this Quality Manual
+    or the referenced definition sources.
+
+Add additional terms as you see fit.
+
+*[.underline]#General Terminology#*
+
+* *Document* – written information used to describe how an activity is
+    done.
+
+* *Record* – captured evidence of an activity having been done.
+
+*[.underline]#Risk-Based Thinking Terminology#*
+
+* *Risk* – Negative effect of uncertainty
+
+* *Opportunity* – Positive effect of uncertainty
+
+* *Uncertainty* - A deficiency of information related to understanding or
+    knowledge of an event, its consequence, or likelihood. (Not to be
+    confused with measurement uncertainty.)
+
+*[.underline]#Nonconforming Product Terminology#*
+
+* *Rework:* Efforts to bring nonconforming product into conformance
+    through additional operations that _[.underline]#do not#_ alter the
+    original design of the product.
+
+* *Repair:* Efforts to bring nonconforming product into conformance
+    through additional operations that alter the original design of the
+    product; this may be through the addition of material no specified in
+    the original design, or through altering pre-existing design features.
+
+* *Scrap*: The discard of nonconforming product in lieu of rework or
+    repair.
+
+== Context of the Organization
+
+=== Understanding the Organization and Its Context
+
+[Short Client Name] has reviewed and analyzed key aspects of itself and
+    its stakeholders to determine the strategic direction of the company.
+    This requires understanding internal and external issues that are of
+    concern to [Short Client Name] and its interested parties (per 4.2
+    below); the interested parties are identified per the document
+    *_[Context of the Org Proc. Title]._*
+
+Such issues are monitored and updated as appropriate, and discussed as
+    part of management reviews.
+
+=== Understanding the Needs and Expectations of Interested Parties
+
+The issues determined per 4.1 above are identified through an analysis
+    of risks facing [Short Client Name] and its interested parties.
+    “Interested parties” are those stakeholders who receive our [Products or
+    Services Plur.], or who may be impacted by them, or those parties who
+    may otherwise have a significant interest in our company. These parties
+    are identified per the document *_[Context of the Org Proc. Title]._*
+
+This information is then used by senior management to determine the
+    company’s strategic direction. This is defined in records of management
+    review, and periodically updated as conditions and situations change.
+
+=== Determining the Scope of the Quality Management System
+
+Based on an analysis of the above issues of concern, interests of
+    stakeholders, and in consideration of its products and services, [Short
+    Client Name] has determined the scope of the management system as
+    follows:
+
+*Add scope statement here. The scope statement must include a
+    description of your products and/or services. This is what will appear
+    on any resulting ISO 9001 certificate; you may consult with your
+    certification body for assistance.*
+
+(If more than one site)
+
+The quality system applies to all processes, activities, and employees
+    of the following locations within the company:
+
+[cols=","]
+|===
+^|[Street Address] +
+[City] [STATE ABBREV] [Zip] +
+[Phone]
+
+|Site 2 Address
+|Site 3 Address |Site 4 Address
+|===
+
+(If single site) +
+    The quality system applies to all processes, activities and employees
+    within the company. The facility is located at:
+
+[.text-center]
+[Street Address] +
+[City] [STATEABBREV] [Zip] +
+Phone: [Phone] +
+Fax: [Fax] +
+Web: [Website] +
+
+(If exclusions) +
+    The following clauses of AS9100 were determined to be not applicable to
+    [Short Client Name].
+
+* List clause exclusions and rationale for each here.
+
+(If no exclusions) +
+    The company claims no exclusions from the AS9100 standard.
+
+(Optional: site exclusion table) +
+    The following sites are excluded from the company quality system at this
+    time; in the future, these may be incorporated into the company QMS, and
+    this manual will be updated accordingly.
+
+[cols=",",options="header",]
+|===
+|Site 1 Address |Site 2 Address
+|Site 3 Address |Site 4 Address
+|===
+
+=== Quality Management System and Its Processes
+
+==== Process Identification
+
+[Short Client Name] has adopted a process approach for its management
+    system. By identifying the top-level processes within the company, and
+    then managing each of these discretely, this reduces the potential for
+    nonconforming [Products or Services Plur.] discovered during final
+    processes or after delivery. Instead, nonconformities and risks are
+    identified in real time, by actions taken within each of the top-level
+    processes.
+
+_Note: not all activities are considered “processes” – the term
+    “process” in this context indicates the activity has been elevated to a
+    higher level of control and management oversight._ _The controls
+    indicated herein are applicable only to the top-level processes
+    identified._
+
+The following top-level processes have been identified for [Short Client
+    Name]:
+
+* List processes here
+* List processes here
+
+Each process may be supported by other activities, such as tasks or
+    sub-processes. Monitoring and control of top level processes ensures
+    effective implementation and control of all subordinate tasks or
+    sub-processes.
+
+Each top-level process has a *_[Process Definition Doc Title]_* document
+    which defines:
+
+* applicable inputs and outputs
+* process owner(s)
+* applicable responsibilities and authorities
+* applicable risks and opportunities
+* critical and supporting resources
+* criteria and methods employed to ensure the effectiveness of the
+    process
+* quality objectives related to that process
+
+The sequence of interaction of these processes is illustrated in
+Appendix A.
+
+_Note: Appendix A represents the [.underline]#typical# sequence of
+    processes, and may be altered depending on customer or regulatory
+    requirements at the job or contract level, as needed._
+
+==== Process Controls & Objectives
+
+Each process has at least one objective established for it; this is a
+    statement of the intent of the process. Each objective is then supported
+    by at least one “metric” or key performance indicator (KPI) which is
+    then measured to determine the process’ ability to meet the quality
+    objective.
+
+_Note: some processes have multiple objectives and multiple metrics.
+    This is determined by the nature of the process, it’s impact on
+    [Products or Services Plur.], and associated risks._
+
+_Note: Whereas ISO 9001 discusses process measurements and “quality
+    objectives” as separate concepts, [Short Client Name] combines them;
+    i.e., quality objectives are used to control the processes. Additional
+    objectives for [Products or Services Plur.] may be assigned, but these
+    will also be used to measure process effectiveness._
+
+Throughout the year, metrics data is measured and gathered by process
+    owners or other assigned managers, in order to present the data to
+    [Senior Management Team Name]. The data is then analyzed by [Senior
+    Management Team Name] in order that [Senior Management Team Name] may
+    set goals and make adjustments for the purposes of long-term continual
+    improvement.
+
+The specific quality objectives for each process are defined in the
+    applicable *_[Process Definition Doc Title]_*.
+
+Metrics, along with current standings and goals for each objective, are
+    recorded in records of management review.
+
+When a process does not meet a goal, or an unexpected problem is
+    encountered with a process, the corrective and preventive action process
+    is implemented to research and resolve the issue. In addition,
+    opportunities for improvement are sought and implemented, for the
+    identified processes.
+
+==== Outsourced Processes
+
+Any process performed by a third party is considered an “outsourced
+    process” and must be controlled, as well. The company’s outsourced
+    processes, and the control methods implemented for each, are defined in
+    *_[Outsourced Processes Title]_*.
+
+The type and extent of control to be applied to the outsourced process
+    take into consideration:
+
+[loweralpha]
+. the potential impact of the outsourced process on the company’s
+    capability to provide product that conforms to requirements,
+. the degree to which the control for the process is shared,
+. the capability of achieving the necessary control through the
+    purchasing contract requirements.
+
+== Leadership
+
+=== Leadership & Commitment
+
+==== General
+
+[Senior Management Team Name] of [Short Client Name] provides evidence
+    of its leadership and commitment to the development and implementation
+    of the management system and continually improving its effectiveness by:
+
+[loweralpha]
+. taking accountability of the effectiveness of the management system;
+. ensuring that the *_Quality Policy_* and quality objectives are
+    established for the management system and are compatible with the
+    strategic direction and the context of the organization;
+. ensuring the integration of the management system requirements into
+    the organization’s other business processes, as deemed appropriate (see
+    note);
+. promoting awareness of the process approach;
+. ensuring that the resources needed for the management system are
+    available;
+. communicating the importance of effective quality management and of
+    conforming to the management system requirements;
+. ensuring that the management system achieves its intended results;
+. engaging, directing and supporting persons to contribute to the
+    effectiveness of the management system;
+. promoting continual improvement;
+. supporting other relevant management roles to demonstrate their
+    leadership as it applies to their areas of responsibility.
+
+_Note: “business processes” such as accounting, employee benefits
+management and legal activities are out of scope of the QMS._
+
+==== Customer focus
+
+[Senior Management Team Name] of [Short Client Name] adopts a
+    customer-first approach which ensures that customer needs and
+    expectations are determined, converted into requirements and are met
+    with the aim of enhancing customer satisfaction.
+
+This is accomplished by assuring:
+
+[loweralpha]
+. customer and applicable statutory and regulatory requirements are
+    determined, understood and consistently met;
+. the risks and opportunities that can affect conformity of products and
+    services and the ability to enhance customer satisfaction are determined
+    and addressed;
+. the focus on enhancing customer satisfaction is maintained;
+. product and service conformity and on-time delivery performance are
+    measured and appropriate action is taken if planned results are not, or
+    will not be, achieved.
+
+=== Policy
+
+[Senior Management Team Name] has developed the Quality Policy, defined
+    in section 3.0 above, that governs day-to-day operations to ensure
+    quality.
+
+The Quality Policy is released as a standalone document as well, and is
+    communicated and implemented throughout the organization.
+
+The Quality Policy of [Short Client Name] is as follows:
+
+*Add Quality Policy here.*
+
+=== Organizational Roles Responsibilities and Authorities
+
+[Senior Management Team Name] has assigned responsibilities and
+    authorities for all relevant roles in the company. These are
+    communicated through the combination of the *_[Org Chart Title]_* and
+    [Position Description Title]s.
+
+The [ISO MR Regular Title] has been assigned the role of [Specific Title
+    for ISO MR] when having a single point of contact to represent the
+    [Short Client Name] quality system is useful or required by customer or
+    regulations. The [Specific Title for ISO MR] shall also be responsible
+    for:
+
+[loweralpha]
+. ensuring that the quality management system conforms to the
+    requirements of this International Standard;
+. ensuring that the processes are delivering their intended outputs;
+. reporting on the performance of the quality management system and on
+    opportunities for improvement, in particular to top management;
+. ensuring the promotion of customer focus throughout the organization;
+. ensuring that the integrity of the quality management system is
+    maintained when changes to the quality management system are planned and
+    implemented.
+
+Other duties of the [Specific Title for ISO MR] may be defined herein or
+within other documented procedures.
+
+== Planning
+
+=== Actions to Address Risks and Opportunities
+
+_Note: [Short Client Name] deviates slightly from the approach towards
+    risk and opportunity presented in ISO 9001. Instead, [Short Client Name]
+    views “uncertainty” as neutral, but defines “risk” as a negative effect
+    of uncertainty, and “opportunity” as a positive effect of uncertainty.
+    [Short Client Name] has elected to manage risks and opportunities
+    separately, except where they may overlap. Formal risk management may
+    not be utilized in all instances; instead, the level of risk assessment,
+    analysis, treatment and recordkeeping will be performed to the level
+    deemed appropriate for each circumstance or application._
+
+[Short Client Name] considers risks and opportunities when taking
+    actions within the management system, as well as when implementing or
+    improving the management system; likewise, these are considered relative
+    to products and services. Risks and opportunities are identified as part
+    of the “Context of the Organization Exercise” defined in [Context of the
+    Org Proc. Title], as well as throughout all other activities of the QMS.
+
+Risks and opportunities are managed in accordance with the document
+    *_[Risk Management Proc. Title]_*. This procedure defines how risks are
+    managed in order to minimize their likelihood and impact, and how
+    opportunities are managed to improve their likelihood and benefit.
+
+=== Quality Objectives and Planning to Achieve Them
+
+As part of the adoption of the process approach, [Short Client Name]
+    utilizes its process objectives, as discussed in 4.4 above, as the main
+    quality objectives for the QMS. These include overall product-related
+    quality objectives; additional product-related quality objectives may be
+    defined in work instructions or customer requirements.
+
+The process objectives have been developed in consideration that they:
+
+[loweralpha]
+. be consistent with the quality policy;
+. be measurable;
+. take into account applicable requirements;
+. be relevant to conformity of products and services and to enhancement
+    of customer satisfaction;
+. be monitored;
+. be communicated;
+. be updated as appropriate.
+
+Process quality objectives are defined in the minutes of management
+    review per section 9.3 below.
+
+The planning of process quality objectives is defined in section 4.4.
+    above.
+
+=== Planning of Changes
+
+Changes to the quality management system and its processes are carried
+    out in a planned manner per the procedure *_[Change Mgmt Doc Title]._*
+
+== Support
+
+=== Resources
+
+==== General
+
+[Short Client Name] determines and provides the resources needed:
+
+[loweralpha]
+. to implement and maintain the management system and continually
+    improve its effectiveness
+. to enhance customer satisfaction by meeting customer requirements
+
+Resource allocation is done with consideration of the capability and
+    constraints on existing internal resources, as well as needs related to
+    supplier expectations.
+
+Resources and resource allocation are assessed during management
+    reviews.
+
+==== People
+
+Senior management ensures that it provides sufficient staffing for the
+    effective operation of the management system, as well its identified
+    processes.
+
+==== Infrastructure
+
+[Short Client Name] determines, provides and maintains the
+    infrastructure needed to achieve conformity to product requirements.
+    Infrastructure includes, as applicable:
+
+[loweralpha]
+. buildings, workspace and associated facilities;
+. process equipment, hardware and software;
+. supporting services such as transport;
+. information and communication technology.
+
+Equipment is validated per the procedure *_[Equipment Validation Proc.
+    Title]_* and maintained per the procedure *_[Preventive Maintenance
+    Proc. Title]._*
+
+==== Environment for the Operation of Processes
+
+[Short Client Name] provides a clean, safe and well-lit working
+    environment. The [Senior Management Team Name] of [Short Client Name]
+    manages the work environment needed to achieve conformity to product
+    requirements. Specific environmental requirements for products are
+    determined during quality planning and are documented in subordinate
+    procedures, work instructions, or job documentation. Where special work
+    environments have been implemented, these shall also be maintained per
+    6.3 above.
+
+Human factors are considered to the extent that they directly impact on
+    the quality of [Products or Services Plur.].
+
+_Note: Social, psychological and safety aspects of the work environment
+    are managed through activities outside of the scope of the management
+    system. Only work environment aspects which can directly affect process
+    efficiency or product and service quality are managed through the
+    management system._
+
+==== Monitoring and Measuring Resources
+
+Where equipment is used for critical measurement activities, such as
+    inspection and testing, these shall be subject to control and either
+    calibration or verification; see the procedure *_[Calibration Proc.
+    Title]._*
+
+_Note: Calibration and measurement traceability is not employed for all
+    measurement devices. Instead, [Short Client Name] determines which
+    devices will be subject to calibration based on its processes, products
+    and services, or in order to comply with specifications or requirements.
+    These decisions are also based on the importance of a measurement, and
+    considerations of risk._
+
+==== Organizational Knowledge
+
+[Short Client Name] also determines the knowledge necessary for the
+    operation of its processes and to achieve conformity of products and
+    services. This may include knowledge and information obtained from:
+
+[loweralpha]
+. internal sources, such as lessons learned, feedback from subject
+    matter experts, and/or intellectual property;
+. external sources such as standards, academia, conferences, and/or
+    information gathered from customers or suppliers.
+
+This knowledge shall be maintained, and made available to the extent
+    necessary.
+
+When addressing changing needs and trends, [Short Client Name] shall
+    consider its current knowledge and determine how to acquire or access
+    the necessary additional knowledge.
+
+=== Competence
+
+Staff members performing work affecting product quality are competent on
+    the basis of appropriate education, training, skills and experience. The
+    documented procedure *_[Training Proc. Title]_* defines these activities
+    in detail.
+
+_Note: the management system does not include other aspects of Human
+    Resources management, such as payroll, benefits, insurance, labor
+    relations or disciplinary actions._
+
+=== Awareness
+
+Training and subsequent communication ensure that staff are aware of:
+
+[loweralpha]
+. the quality policy;
+. relevant quality objectives;
+. their contribution to the effectiveness of the management system,
+    including the benefits of improved performance;
+. the implications of not conforming with the management system
+    requirements,
+. relevant quality management system documented information and changes
+    thereto;
+. their contribution to product or service conformity;
+. their contribution to product safety;
+. the importance of ethical behavior.
+
+=== Communication
+
+[Senior Management Team Name] of [Short Client Name] ensures internal
+    communication takes place regarding the effectiveness of the management
+    system. Internal communication methods include (modify as appropriate):
+
+[loweralpha]
+. use of corrective and preventive action processes to report
+    nonconformities or suggestions for improvement
+. use of the results of analysis of data
+. meetings (periodic, scheduled and/or unscheduled) to discuss aspects
+    of the QMS
+. use of the results of the internal audit process
+. regular company meetings with all employees
+. internal emails
+. memos to employees
+. [Short Client Name]’s “open door” policy which allows any employee
+    access to [Senior Management Team Name] for discussions on improving the
+    quality system
+
+=== Documented Information
+
+The management system documentation includes both documents and records.
+
+_Note: the ISO 9001:2015 standard uses the term “documented
+    information”; [Short Client Name] does not use this term, but instead
+    relies on the terms “document” and “record” to avoid confusion. In this
+    context the terms are defined by [Short Client Name] as provided for in
+    section 3.0 above. Documents and records undergo different controls as
+    defined herein._
+
+Documents required for the management system are controlled in
+    accordance with procedure *_[Control of Documents Proc. Title]._* The
+    purpose of document control is to ensure that staff have access to the
+    latest, approved information, and to restrict the use of obsolete
+    information. All documented procedures are established, documented,
+    implemented and maintained.
+
+A documented procedure *_[Control of Records Proc. Title]_* has been
+    established to define the controls needed for the identification,
+    storage, retrieval, protection, retention time, and disposition of
+    quality records. This procedure also defines the methods for controlling
+    records that are created by and/or retained by suppliers.
+
+Configuration documents are subject to additional controls per section
+    8.1.2 below.
+
+These controls are applicable to those records which provide evidence of
+    conformance to requirements; this may be evidence of [Product or Service
+    Sing.] requirements, contractual requirements, procedural requirements,
+    or statutory/regulatory compliance. In addition, quality records include
+    any records which provide evidence of the effective operation of the
+    management system.
+
+== Operation
+
+=== Operational Planning and Control
+
+[Short Client Name] plans and develops the processes needed for
+    realization of its [Products or Services Plur.]. Planning of [Product or
+    Service Sing.] realization is consistent with the requirements of the
+    other processes of the management system. Such planning considers the
+    information related to the context of the organization (see section 2.0
+    above), current resources and capabilities, as well as [Product or
+    Service Sing.] requirements.
+
+Such planning is accomplished through:
+
+[loweralpha]
+. determining the requirements for the [Products or Services Plur.];
+. establishing criteria for the processes and the acceptance of
+    [Products or Services Plur.];
+. determining the resources needed to achieve conformity to the [Product
+    or Service Sing.] requirements;
+. implementing control of the processes in accordance with the criteria;
+. determining, maintaining and retaining documents and records to the
+    extent necessary to have confidence that the processes have been carried
+    out as planned and to demonstrate the conformity of [Products or
+    Services Plur.] to their requirements;
+. determining the processes and controls needed to manage critical
+    items, including production process controls when key characteristics
+    have been identified;
+. engaging representatives of affected organization functions for
+    operational planning and control;
+. determining the process and resources to support the use and
+    maintenance of the [Products or Services Plur.];
+. determining the products and services to be obtained from external
+    providers;
+. establishing the controls needed to prevent the delivery of
+    nonconforming [Products or Services Plur.] to the customer.
+
+Changes to operational processes are done in accordance with the
+    document *_[Change Mgmt Doc Title]_*.
+
+Outsourced processes and the means by which [Short Client Name] controls
+    them are defined in the documented procedure *_[Outsourced Processes
+    Title]._*
+
+IF FORMAL PROJECT MANAGEMENT IS USED
+
+For some work, [Short Client Name] plans and manages its provision of
+    [Products or Services Plur.] in a structured and controlled manner; this
+    is part of the [indicate process or function responsible for project
+    management.] Such work includes scheduling tasks in a planned sequence
+    to meet requirements at acceptable risk, within resource and schedule
+    constraints.
+
+{empty}[More details here]
+
+IF FORMAL PROJECT MANAGEMENT IS *[.underline]#NOT#* USED
+
+Due to the nature of [Short Client Name]’s work, formal program or
+    project management is not implemented.
+
+Process controls include methods to control the temporary or permanent
+    transfer of work, to ensure the continuing conformity of the [Products
+    or Services Plur.]. This will consider how work transfer impacts and
+    risks are managed.
+
+In this context, “work transfer” can mean the temporary or permanent
+    handover of work between [Short Client Name] internal processes, between
+    [Short Client Name] and an external service provider, or between
+    external providers.
+
+For transfers between internal processes, or within [Short Client Name]
+    divisions, these are controlled through normal work planning methods.
+    More complex work transfers are documented on the *_Work Transfer Plan_*
+    form. [ Most companies will not need this; if not used, delete this
+    reference.]
+
+For transfers between [Short Client Name] and an external service
+    provider, or between external providers, these are controlled under the
+    Purchasing requirements defined in section 8.4 below.
+
+==== Operational Risk Management
+
+Operational risk management is conducted to manage the risks related to
+    [Product or Service Sing.] realization requirements; see section 6.1 on
+    risk and opportunity management above.
+
+==== Configuration Management
+
+[Short Client Name] plans, implements, and controls configuration
+    management activities as appropriate to its [Products or Services Plur.]
+    in order to ensure the identification and control of physical and
+    functional attributes throughout the product lifecycle. This is defined
+    in the documented procedure *_[Configuration Management Proc. Title]._*
+    This includes document control for configuration documents, and change
+    control for configured items.
+
+==== Product Safety
+
+Operational controls shall be implemented to assure product safety
+    during the entire product life cycle, where this is appropriate relative
+    to [Short Client Name]’s [Products or Services Plur.]. These activities
+    may include:
+
+[loweralpha]
+. assessment of hazards and management of associated risks;
+. management of safety critical items;
+. analysis and reporting of occurred events affecting safety;
+. communication of these events and training of persons.
+
+==== Prevention of Counterfeit Parts
+
+Operational controls shall be implemented to assure the prevention of
+    counterfeit or suspect counterfeit part use and their inclusion in
+    product(s) delivered to the customer. These activities are defined in
+    greater detail in the documented procedure *_[Counterfeit Part Control
+    Proc Title]_*.
+
+=== Requirements for Products and Services
+
+==== Customer Communication
+
+[Short Client Name] has implemented effective communication with
+customers in relation to:
+
+[loweralpha]
+. providing information relating to [Products or Services Plur.];
+. handling enquiries, contracts or orders, including changes;
+. obtaining customer feedback relating to products and services,
+    including customer complaints;
+. handling or controlling customer property;
+. establishing specific requirements for contingency actions, when
+    relevant.
+
+==== Determining the Requirements Related to Products and Services
+
+During the intake of new business [Short Client Name] captures:
+
+[loweralpha]
+. the requirements for the products and services, including any
+    applicable statutory and regulatory requirements and other requirements
+    deemed necessary by [Short Client Name]
+. requirements not stated by the customer but necessary for specified or
+    intended use, where known
+. special requirements (see 8.5.1 below)
+. operational risks (new technologies, capability and capacity, delivery
+    time frames, etc.)
+
+These activities are defined in greater detail in the procedure
+*_[Quoting and Orders Doc Title]._*
+
+==== Review of Requirements Related to Products and Services
+
+Once requirements are captured, [Short Client Name] reviews the
+    requirements prior to its commitment to supply the [Product or Service
+    Sing.] This review ensures that:
+
+[loweralpha]
+. product requirements are defined
+. contract or order requirements differing from those previously
+    expressed are resolved
+. the organization has the ability to meet the defined requirements,
+    and/or the claims for the products and services it offers
+. special requirements (see 8.5.1 below) can be met
+. risks have been identified and considered
+
+These activities are defined in greater detail in the procedure
+    *_[Quoting and Orders Doc Title]._*
+
+==== Changes to Requirements for Products and Services
+
+[Short Client Name] updates all relevant requirements and documents when
+    the requirements are changed, and ensures that all appropriate staff are
+    notified; see the documented procedure *_[Change Mgmt Doc Title]._*
+
+=== Design and Development of Products and Services
+
+For new designs and for significant design changes, [Short Client Name]
+    ensures the translation of customer needs and requirements into detailed
+    design outputs. These address performance, reliability, maintainability,
+    testability, and safety issues, as well as regulatory and statutory
+    requirements.
+
+This process ensures:
+
+[loweralpha]
+. Design planning is conducted
+. Design inputs (requirements) are captured
+. Design outputs are created under controlled conditions
+. Design reviews, verification and validation are conducted
+. Design changes are made in a controlled manner.
+
+These activities are further defined in the document *_[Design Procedure
+    Doc Title]._*
+
+=== Control of Externally Provided Processes, Products and Services
+
+[Short Client Name] ensures that purchased [Product or Service Sing.]  +
+
+[Short Client Name] evaluates and selects suppliers based on their
+    ability to supply products and services in accordance with the
+    organization's requirements. Criteria for selection, evaluation and
+    re-evaluation are established.
+
+Purchases are made via the release of formal purchase orders and/or
+    contracts which clearly describe what is being purchased. Received
+    products or services are then verified against requirements to ensure
+    satisfaction of requirements. Suppliers who do not providing conforming
+    products or services may be requested to conduct formal corrective
+    action.
+
+These activities are further defined in the documents *_[Purchasing
+    Proc. Title]_* and *_[Receiving Proc. Title]_*.
+
+=== Production and Service Provision
+
+==== Control of Production and Service Provision
+
+To control its provision of [Products or Services Plur.], [Short Client
+Name] considers, as applicable, the following:
+
+[loweralpha]
+. the availability of documents or records that define the
+    characteristics of the [Products or Services Plur.] as well as the
+    results to be achieved;
+. the availability and use of suitable monitoring and measuring
+    resources;
+. the implementation of monitoring and measurement activities;
+. the use of suitable infrastructure and environment;
+. the appointment of competent persons, including any required
+    qualifications;
+. the validation and revalidation of special processes if applicable
+    (see below);
+. the implementation of actions to prevent human error;
+. the implementation of release, delivery and post-delivery activities.
+
+Where special requirements, key characteristics and/or critical items
+    are identified or deemed appropriate, the processes will be planned and
+    controlled to manage these aspects. See the procedure *_Special
+    Requirements, Critical Items & Key Characteristics_* for guidance on
+    this subject.
+
+Where appropriate, special statistical techniques may be used to control
+    or monitor operational processes. In such cases, the techniques selected
+    shall be based on known standards or otherwise justified as
+    statistically valid. This includes sampling plans when sampling is used
+    for inspection, testing or other purposes.
+
+If no in-house special processes, but some done by suppliers:
+
+At this time, [Short Client Name] does not utilize any in-house “special
+    processes” where the result of the process cannot be verified by
+    subsequent monitoring or measurement. Any such special processes are
+    sent to outside suppliers, and controlled and an outsourced process per
+    *_[Outsourced Processes Title]._*
+
+If there are in-house special processes:
+
+[Short Client Name] utilizes some “special processes” where the result
+    of the process cannot be verified by subsequent monitoring or
+    measurement. The special processes in use and the methods of validation
+    of each are defined in the document *_[Special Process Doc Title]._*
+
+:sectnums:
+
+===== Control of Equipment, Tools and Software Programs
+
+Equipment, tools, and software programs used to automate, control,
+    monitor, or measure production processes are validated prior to final
+    release for production and are be maintained. Special storage
+    requirements, if applicable, are defined for production equipment or
+    tooling including any necessary periodic preservation or condition
+    checks. This is further defined in the *_[Equipment Validation Proc.
+    Title]_* procedure.
+
+===== Validation and Control of Special Processes
+
+If no in-house special processes, but some done by suppliers:
+
+At this time, [Short Client Name] does not utilize any in-house “special
+    processes” where the result of the process cannot be verified by
+    subsequent monitoring or measurement. Any such special processes are
+    sent to outside suppliers, and controlled and an outsourced process per
+    *_[Outsourced Processes Title]._*
+
+If there are in-house special processes:
+
+[Short Client Name] utilizes some “special processes” where the result
+    of the process cannot be verified by subsequent monitoring or
+    measurement. The special processes in use and the methods of validation
+    of each are defined in the document *_[Special Process Doc Title]._*
+
+===== Production Process Verification
+
+[Production or Service Provision] processes in use as of [add date here] +
+are approved based on previous experience.
+
+New [Production or Service Provision] processes are validated prior to
+    use or implementation. This may include running test product through the
+    new process or equipment, or by performing a First Article Inspection on
+    a part produced by the process, tooling or equipment. First Article is
+    discussed further in section 8.6.4 below.
+
+==== Identification and Traceability
+
+Where appropriate, [Short Client Name] identifies its [Product or
+    Service Sing.] or other critical process outputs by suitable means. Such
+    identification includes the status of the [Product or Service Sing.]
+    with respect to monitoring and measurement requirements. Unless
+    otherwise indicated as nonconforming, pending inspection or disposition,
+    or some other similar identifier, all [Product or Service Sing.] shall
+    be considered conforming and suitable for use.
+
+[Short Client Name] maintains the identification of the configuration of
+    the products and services in order to identify any differences between
+    the actual configuration and the required configuration; see the
+    documented procedure *_[Configuration Management Proc. Title]._*
+
+The documented procedure *_[Identification & Traceability Proc. Title]_*
+    defines these methods in detail.
+
+If unique traceability is required by contract, regulatory, or other
+    established requirement, [Short Client Name] controls and records the
+    unique identification of the [Product or Service Sing.]. This shall
+    include, as appropriate:
+
+[loweralpha]
+. product identification to be maintained throughout the product life
+. the ability to trace all products manufactured from the same batch of
+    raw material, or from the same manufacturing batch, to the destination
+    (e.g., delivery, scrap)
+. for an assembly, the ability to trace its components to the assembly
+    and then to the next higher assembly
+. for a product, a sequential record of its production
+
+The documented procedure *_[Identification & Traceability Proc. Title]_*
+    defines these methods in detail.
+
+==== Property Belonging to Customers or External Providers
+
+[Short Client Name] exercises care with customer or supplier property
+    while it is under the organization’s control or being used by the
+    organization. Upon receipt, such property is identified, verified,
+    protected and safeguarded. If any such property is lost, damaged or
+    otherwise found to be unsuitable for use, this is reported to the
+    customer or supplier and records maintained.
+
+For customer intellectual property, including customer furnished data
+    used for design, production and / or inspection, this is identified by
+    customer and maintained and preserved to prevent accidental loss, damage
+    or inappropriate use.
+
+This activity is defined in greater detail in the document *_[Customer
+    Property Proc. Title]._*
+
+==== Preservation
+
+[Short Client Name] preserves conformity of product during internal
+    processing and delivery to the intended destination. This preservation
+    includes cleaning, FOD control, special handling for sensitive products,
+    marking and labeling including safety warnings, shelf life control and
+    stock rotation, and special handling for hazardous materials.
+    Preservation also applies to the constituent parts of a product.
+
+The documented procedure *_[Preservation Proc. Title]_* defines the
+    methods for preservation of product and the documented procedure *_[FOD
+    Control Proc. Title]_* defines the methods for preventing, identifying
+    and controlling foreign objects.
+
+==== Post-Delivery Activities
+
+As applicable, [Short Client Name] conducts the following activities
+    which are considered “post-delivery activities”:
+
+* Here
+* Here
+* Here
+
+Post-delivery activities are conducted in compliance with the management
+    system defined herein. In determining the extent of post-delivery
+    activities that are required, [Short Client Name] considers:
+
+[loweralpha]
+. statutory and regulatory requirements;
+. the potential undesired consequences associated with its of [Products
+    or Services Plur.];
+. the nature, use and intended lifetime of its of [Products or Services
+    Plur.];
+. customer requirements;
+. customer feedback;
+. collection and analysis of in-service data (e.g., performance,
+    reliability, lessons learned);
+. control, updating, and provision of technical documentation relating
+    to product use, maintenance, repair, and overhaul;
+. controls required for work undertaken external to the organization
+    (e.g., off-site work);
+. product/customer support (e.g., queries, training, warranties,
+    maintenance, replacement parts, resources, obsolescence).
+
+When problems are detected after delivery, [Short Client Name] takes
+    appropriate action including investigation and reporting; see section
+    10.2.
+
+==== Control of Changes
+
+[Short Client Name] reviews and controls both planned and unplanned
+    changes to processes to the extent necessary to ensure continuing
+    conformity with all requirements.
+
+Process change management is defined in the document *_[Change Mgmt Doc
+    Title]._*
+
+Documents are changed in accordance with procedure *_[Control of
+    Documents Proc. Title]_*.
+
+=== Release of Products and Services
+
+[Products or Services Plur.] undergo inspection and/or testing to ensure
+    they meet all requirements at critical stages throughout the various
+    processes, and then prior to final delivery.
+
+Measurement requirements are documented; this documentation is part of
+    the order documentation, and includes:
+
+[loweralpha]
+. criteria for acceptance and / or rejection,
+. where in the sequence measurement and testing operations are
+    performed,
+. a record of the measurement results, and
+. type of measurement instruments required and any specific instructions
+    associated with their use
+
+Test records will show actual test results data when required by
+    specification or acceptance test plan.
+
+Where required to demonstrate [Product or Service Sing.] qualification
+    [Short Client Name] will ensure that records provide evidence that the
+    [Product or Service Sing.] meets the defined requirements.
+
+When key characteristics have been identified, they are monitored and
+    controlled as required.
+
+Product is not used until it has been inspected or otherwise verified as
+    conforming to specified requirements, except when released under
+    positive-recall procedures pending completion of all required
+    measurement and monitoring activities.
+
+Evidence of conformity with the acceptance criteria is maintained.
+    Records indicate the person(s) authorizing release of [Products or
+    Services Plur.].
+
+==== Receiving Inspection and Testing
+
+Incoming raw materials, processed products or other critical received
+    goods undergo inspection and/or testing at receiving, prior to entry
+    into the production processes. These activities are defined in the
+    documented procedure *_[Receiving Proc. Title]._*
+
+==== In-Process Inspection and Testing
+
+At defined stages throughout [Production or Service Provision],
+    inspections and/or tests are conducted to ensure the [Products or
+    Services Plur.] satisfy the requirements for that particular process or
+    activity, prior to being released to the next process or activity. This
+    is defined in in *_[Process Definition Doc Title]s_* and/or job
+    documentation specific to each job.
+
+==== First Article Inspection
+
+First Article Inspections shall be performed at the discretion of
+    Quality and/or when required by customer or contract requirements.
+
+Such First Article Inspections are a complete inspection of a completed
+    part, of all dimensions and criteria, to validate the production
+    processes and equipment. The product used shall be a representative item
+    from the first production run a new part or assembly to verify that the
+    production processes, production documentation and tooling are capable
+    of producing parts and assemblies that meet requirements. This process
+    shall be repeated when changes occur that invalidate the original
+    results (e.g., engineering changes, manufacturing process changes,
+    tooling changes).
+
+[Short Client Name] uses forms and/or computer software to satisfy first
+    article requirements per AS9102; where the customer dictates a format
+    for First Article reporting, these formats will be used instead.
+
+==== Final Inspection and Testing
+
+Final acceptance criteria for [Products or Services Plur.] are defined
+    in appropriate subordinate documentation. Reviews, inspections and tests
+    are conducted at appropriate stages to verify that the product and
+    service requirements have been met. This is done before [Products or
+    Services Plur.] are released or services are delivered.
+
+Each process utilizes different methods for measuring and releasing
+    [Products or Services Plur.]. These methods are defined in *_[Process
+    Definition Doc Title]s_*.
+
+=== Control of Nonconforming Outputs
+
+[Short Client Name] ensures that [Products or Services Plur.] or other
+    process outputs that do not conform to their requirements are identified
+    and controlled to prevent their unintended use or delivery.
+
+The controls for such nonconformances are defined in *_[Control of NCP
+    Proc. Title]_*.
+
+== Performance Evaluation
+
+=== Monitoring, Measurement, Analysis and Evaluation
+
+==== General
+
+[Short Client Name] has determined which aspects of its quality
+    management system must be monitored and measured, as well as the methods
+    to utilize and records to maintain, within this [Quality Manual Doc
+    Title] and subordinate documentation.
+
+Monitoring and measurement of the processes, as defined in 4.4 above,
+    ensure that the [Senior Management Team Name] evaluates the performance
+    and effectiveness of the quality management system itself.
+
+==== Customer Satisfaction
+
+As one of the measurements of the performance of the management system,
+    [Short Client Name] monitors information relating to customer perception
+    as to whether the organization has met customer requirements. The
+    methods for obtaining and using this information include:
+
+* EDIT LIST AS NEEDED
+* recording customer complaints
+* product rejections or returns
+* repeat orders for product
+* changing volume of orders for product
+* trends in on-time delivery
+* obtain customer scorecards from certain customers
+* submittal of customer satisfaction surveys
+
+The corrective and preventive action system shall be used to develop and
+    implement plans for customer satisfaction improvement that address
+    deficiencies identified by these evaluations, and assess the
+    effectiveness of the results.
+
+==== Analysis and Evaluation
+
+[Short Client Name] analyzes and evaluates the data and information
+    arising from monitoring and measurement in order to evaluate:
+
+[loweralpha]
+. conformity of [Products or Services Plur.];
+. the degree of customer satisfaction;
+. the performance and effectiveness of the quality management system;
+. if planning has been implemented effectively;
+. the effectiveness of actions taken to address risks and opportunities;
+. the performance of external providers;
+. the need for improvements to the quality management system.
+
+Statistical techniques used may be defined in appropriate documented
+    procedures; in all cases, the methods are based on established standards
+    or are otherwise determined to be statistically valid.
+
+=== Internal Audit
+
+[Short Client Name] conducts internal audits at planned intervals to
+    determine whether the management system conforms to contractual and
+    regulatory requirements, to the requirements of ISO 9001, and to
+    management system requirements. Audits also seek to ensure that the
+    management system has been effectively implemented and is maintained.
+
+These activities are defined in the document *_[Internal Auditing Proc.
+    Title]._*
+
+=== Management Review
+
+The [Senior Management Team Name] reviews the management system, at
+    planned intervals, to ensure its continuing suitability, adequacy and
+    effectiveness. The review includes assessing opportunities for
+    improvement, and the need for changes to the management system,
+    including the *_Quality Policy_* and quality objectives.
+
+Management review frequency, agenda (inputs), outputs, required members,
+    actions taken and other review requirements are defined in the
+    documented procedure *_[Management Review Proc. Title]._*
+
+Records from management reviews are maintained.
+
+== Improvement
+
+=== General
+
+[Short Client Name] uses the management system to improve its processes,
+    products and services. Such improvements aim to address the needs and
+    expectations of customers as well as other interested parties, to the
+    extent possible.
+
+Improvement shall be driven by an analysis of data related to:
+
+The results of analysis shall be used to evaluate:
+
+[loweralpha, start=8]
+. conformity of products and services;
+. the degree of customer satisfaction;
+. the performance and effectiveness of the management system;
+. the effectiveness of planning;
+. the effectiveness of actions taken to address risks and opportunities;
+. the performance of external providers;
+. other improvements to the management system.
+
+=== Nonconformity and Corrective Action
+
+[Short Client Name] takes corrective action to eliminate the cause of
+    nonconformity in order to prevent recurrence. Likewise, the company
+    takes preventive action to eliminate the causes of potential
+    nonconformities in order to prevent their occurrence.
+
+These activities are done through the use of the formal Corrective
+    Action (*_[CAR Form Abbreviation]_*) system, and are defined in the
+    document *_[Corrective Preventive Action Proc. Title]._*
+
+=== Continual Improvement
+
+Through the process effectiveness reviews, done as part of Management
+    Review, [Short Client Name] works to continually improve the
+    suitability, adequacy and effectiveness of the quality management
+    system. This includes seeking opportunities for improvement.
+
+== Appendix A: Overall Process Sequence & Interaction
+
+Add diagram of sequence flow here.

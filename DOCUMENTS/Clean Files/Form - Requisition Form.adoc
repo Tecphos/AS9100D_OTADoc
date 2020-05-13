@@ -1,0 +1,66 @@
+=== Requisition Form +
+
+*Rev. [Rev Number]* +
+
+*[Short Client Name]*
+
+---
+
+[cols="3*",options="header",]
+|===
+|*Date:* |*Requestor:* |*Dept:*     
+|===
+
+[.text-center]
+*SUPPLIER / VENDOR INFORMATION*
+
+[cols="4*"]
+|===
+4+|*Supplier / Vendor:*
+4+|*Billing Address:*
+
+|*Phone:* |*Fax:* 2+|*Email (if known):*     
+
+2+|*Contact (if any):* 2+|*Contact Phone & Ext:*
+
+|*Payment Terms:* Net 3+|*Expedited Delivery?* [ ] No [ ] Overnight [ ] 2-day [ ] Other ~indicate~ ~below~
+
+4+|*Payment Method:* [ ] Purchase Order [ ] Credit Card [ ] Other - indicate here:
+
+4+|*Preferred Delivery Method:* [ ] US Mail [ ] Fed Ex [ ] UPS [ ] Freight [ ] Will
+Pick Up / Retail Store Purchase [ ] Other ~indicate~ ~below~
+
+4+|*Notes / Special Requirements / Comments:*
+|===
+
+[.text-center]
+*PRODUCTS / ITEMS / SERVICES REQUESTED*
+
+[cols= "1,2,4,2,2,2,4"]
+|===
+
+^|*Qty* ^|*Part #* ^|*Description* ^|*Unit Price* ^|*Total Price* ^|*Desired Delivery Date* ^|*Notes*
+
+ |       |          |               |              |               |                         |     
+ |       |          |               |              |               |                         |     
+ |       |          |               |              |               |                         |     
+ |       |          |               |              |               |                         |     
+ |       |          |               |              |               |                         |     
+ |       |          |               |              |               |                         |  
+ |       |          |               |              |               |                         |     
+ |       |          |               |              |               |                         |     
+
+4+>|*GRAND TOTAL FOR REQUISITION* | | | |     
+|===
+
+[.text-center]
+*REQUISITION APPROVAL*
+
+See procedure *_[Purchasing Proc. Title]_* for approval authority levels
+and required approvals.
+
+[cols="2*",]
+|===
+|ENTER TITLE HERE: |DATE:
+|ENTER TITLE HERE: |DATE:
+|===

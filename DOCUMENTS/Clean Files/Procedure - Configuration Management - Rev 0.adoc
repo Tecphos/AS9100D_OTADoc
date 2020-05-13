@@ -1,0 +1,229 @@
+=== Procedure: [Configuration Management Proc. Title] +
+
+*Rev. [Rev Number]* +
+
+*[Full Client Name Reg Caps]*
+
+---
+
+[arabic]
+. *SUMMARY*
+[arabic]
+.. This procedure defines the process and methods for managing the
+configuration of products comprised of multiple parts, subassemblies or
+components.
+.. The [who?] is responsible for implementation and management of this
+procedure.
+. *REVISION AND APPROVAL*
++
+[cols="1,1,3,1",options="header",]
+|===
+|*Rev.* |*Date* |*Nature of Changes* |*Approved By*
+|[Rev Number] |[Date of Issue] |Original issue. |[Procedure Approver Name]
+| | | |
+| | | |
+|===
+
+This procedure is divided into sections to accommodate companies with
+complex CM activities, and those with simple CM activities. Delete the
+inapplicable sections as needed. In some cases, a very simple CM
+procedure may be included as a section of the Document Control
+procedure, instead, and this procedure not used at all.
+
+[arabic, start=3]
+. *TERMS AND DEFINITIONS* (use only if complex CM activities are in place)
+
+
+* *baseline*: A baseline is a configuration identification formally
+designated and applicable at a specific point in an items life cycle.
+Baselines, plus approved changes from those baselines, constitute the
+current configuration identification.
+
+* *configuration*: interellated functional and physical characteristics of a
+product defined in product configuration information.
+
+* *configuration baseline (baseline):* (1) An agreed-to description of the
+attributes of a product, at a point in time, which serves as a basis for
+defining change. (2) An approved and released document, or a set of
+documents, each of a specific revision; the purpose of which is to
+provide a defined basis for managing change. (3) The currently approved
+and released configuration documentation. (4) A released set of files
+comprising a software version and associated configuration
+documentation.
+
+* *configuration documentation:* technical documentation, the primary
+purpose of which is to identify and define a product’s performance,
+functional, and physical attributes (e.g., specifications, drawings)
+
+* *configuration item (CI)*: any hardware, software, or combination of
+both that satisfies an end use function and is designated for separate
+configuration management
+
+* *configuration management (CM):* a management process for establishing
+and maintaining consistency of a product’s performance, functional, and
+physical attributes with its requirements, design and operational
+information throughout its life
+
+* *configuration status accounting (CSA):* the configuration management
+activity concerning capture and storage of, and access to, configuration
+information needed to manage products and product information
+effectively
+
+* *drawing*: an engineering document or digital data file that discloses
+the physical and functional requirements of an item (directly by means
+of graphic and textual presentations, or by reference)
+
+* *fit*: the ability of an item to physically interface or interconnect
+with or become an integral part of another item
+
+* *form*: the shape, size, dimensions, mass, weight, and other physical
+parameters that uniquely characterize an item. For software, form
+denotes the language and media.
+
+* *function*: the action or actions that an item is designed to perform
+
+* *item*: a nonspecific term used to denote any product, including
+systems, materiel, parts, subassemblies, sets, accessories, etc.
+
+* *life cycle*: a generic term covering all phases of acquisition,
+operation, and logistics support of an item, beginning with concept
+definition and continuing through disposal of the item
+
+* *master data list (MDL)*: common name for any tool (typically a matrix
+or spreadsheet) that defines all the lower level configuration items of
+a final product, and the revision level of each.
+
+* *nonconformance*: the failure of a unit or product to meet a specified
+requirement
+
+* *product configuration information:* requirements for product design,
+realization, verification, operation and support
+
+* *traceability*: The evidence of an association between configuration
+items
+
+
+[arabic, start=4]
+. *CONFIGURATION MANAGEMENT PLANNING* (use only if complex CM activities
+are in place)
+[arabic]
+.. This procedure shall act as a general configuration management plan
+for the company’s standard operations.
+.. If required, contract-specific confirmation management plans shall be
+developed and documented, as part of the [what?] process[es]. In all
+cases, CM planning aims to ensure that the configuration of finished
+assemblies is fully documented, and all subassemblies and components
+subject to CM are traceable to the finished assembly. This planning
+should also allow for how configuration status accounting (CSA) and
+configuration audits will be conducted, if applicable.
+.. For contract specific CM plans, these shall be separately documented,
+released as controlled documents as applicable, and filed with the
+contract documentation.
+. *CONFIGURATION ITEMS AND BASELINES* (use only if complex CM activities
+are in place)
+[arabic]
+.. During design activities, the design engineers shall define
+configuration items as part of the design and development of parts,
+components, assemblies and subassemblies of the intended final product.
+.. The determination of what constitutes a configuration item requiring
+CM shall be based on:
+** statutory and regulatory requirements,
+** criticality in terms of risks and safety,
+** new or modified technology, design or development,
+** interfaces with other configuration items,
+** procurement conditions, and
+** support and service.
+[arabic]
+.. Typically, configuration items are:
+
+* parts,
+
+* subassemblies,
+
+* assemblies,
+
+* components,
+
+* finished assemble product,
+
+* any engineering drawing or data associated with any of the above items
+listed.
+[arabic]
+.. Small items, such as consumable piece parts, may not be deemed of
+sufficient criticality to elevate them to CI status.
+.. Each configuration item shall have its own unique part number and
+revision level. [Add details on part numbering and revisioning methods
+here, if it is worth documenting.] For software configuration items,
+these shall be subject to unique version control which is apart from the
+intended finished software product which will combine all software CI’s
+into one product.
+.. Hardware drawings of configuration items will indicate the part number
+and revision level of the configuration item. As changes are made to the
+individual CI, the revision will be advanced.
+.. When a finished product is fully validated, Engineering [or define
+appropriate responsibility, if not engineering] shall “lock down” the
+product’s configuration as a baseline for production.
+.. At all times during production, the appropriate revision levels of
+configuration items should be readily identifiable, to allow
+traceability back to the top level configuration item (finished
+product).
+
+[arabic, start=6]
+. *CONFIGURATION CHANGE CONTROL* (use only if complex CM activities are in
+place)
+[arabic]
+.. Change control for hardware configuration items is defined in the
+design change procedures [indicate here.]
+.. Change control for software items is done through version control
+tools such as SourceSafe, Subversion, item, or item. (Customize list or
+software version control tools used.) Further details on the versioning
+of software is defined in software development procedure (list them
+here.)
+.. During manufacturing of hardware, feedback from manufacturing may
+drive changes to individual configuration items, or subassemblies or
+components. Such changes, when approved and implemented, shall then
+require any higher level configuration documentation to be updated to
+correspond with the lower level revisions made to configuration items.
+. *CONFIGURATION STATUS ACCOUNTING & CONFIGURATION AUDITS* (use only if
+complex CM activities are in place)
+[arabic]
+.. A configuration Master Data List (MDL), “build book” or similar
+matrix shall define the baseline configuration of the finished product,
+at the finished product’s specific revision level. This tool shall
+provide for identification of the revision and configuration status of
+each part, subassembly or component used in the finished product. This
+tool shall be updated as changes are made to configurations at any
+level. Such a tool provides a means of conducting configuration status
+accounting (CSA).
+.. At the discretion of Engineering [or define appropriate
+responsibility, if not engineering] configuration audits shall be
+conducted to ensure that product in manufacturing meets the baseline
+configuration. Such audits shall be documented in a suitable manner to
+identify any problems found.
+. *PROCEDURE: CONFIGURATION MANAGEMENT* (use when only simple CM procedure
+is required)
+[arabic]
+.. “Configuration Management” is the control of parts or processes which
+may consist of a complex set of subassemblies or components, each of
+which may have its own revision status, which – when combined and
+completed – take a final form (as a combined assembly) which may have
+its [.underline]#own# unique revision status. Controlling the revisions
+and status of each component, as well as that of the finished assembly,
+is therefore critical to ensure the final form meets requirements.
+.. For customer supplied parts, [Short Client Name] makes no changes to
+the customer’s configuration or configuration drawings whatsoever, and
+will utilize customer provided prints or documentation to ensure ongoing
+maintenance of the configuration, as applicable. If processing of a
+customer provided part requires disassembly of the final part into
+subordinate assemblies, this shall be done after instruction by the
+customer, and/or in accordance with customer provided documentation, to
+ensure that re-assembly results in the same final configuration.
+.. For all other parts, [Short Client Name] maintains the assembly
+revision status as provided for in the provided design documentation,
+drawings and/or data; [Short Client Name] makes no changes to these
+configurations or revision levels. Where assemblies are temporarily
+disassembled for processing by [Short Client Name] or its
+subcontractors, suitable labeling is performed to ensure proper
+re-assembly in accordance with the design documentation.
+.. Due to the nature of the company’s operations, configuration status
+accounting and configuration audits are not performed.

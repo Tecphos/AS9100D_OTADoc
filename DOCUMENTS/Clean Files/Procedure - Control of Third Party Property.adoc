@@ -1,0 +1,74 @@
+=== Procedure: [Customer Property Proc. Title] +
+
+*Rev. [Rev Number]* +
+
+*[Full Client Name Reg Caps]*
+
+---
+
+[arabic]
+. *[.underline]#SUMMARY#*
+[arabic]
+.. The purpose of this procedure is to define the requirements for
+    controlling, using and protecting property owned by customers, suppliers
+    or subcontractors.
+
+.. Such property includes materials, product, equipment and tooling, as
+    well as intellectual property.
+
+.. The [who?] is responsible for implementation and management of this
+    procedure.
+
+. *[.underline]#REVISION AND APPROVAL#*
++
+[cols="1,1,3,1",options="header",]
+
+|===
+|*Rev.* |*Date* |*Nature of Changes* |*Approved By*
+|[Rev Number] |[Date of Issue] |Original issue. |[Procedure Approver Name]
+| | | |
+| | | |
+|===
+
+[arabic, start=3]
+. *[.underline]#PROCEDURE#*
+[arabic]
+.. [Short Client Name] occasionally works with items provided by
+    customers, suppliers or subcontractors. These may include:
+    * List types of third party property here; typically include:
+    * Products
+    * Tooling
+    * Measurement equipment
+    * Intellectual property, such as drawings, specifications
+    * More
+    * More
+.. For “hard” property (physical items) these are identified with the
+    customer name and any applicable identifiers. Where deemed appropriate,
+    such property may be physically secured in locked, limited-access areas.
+
+.. If the property requires calibration and/or preventive maintenance,
+    the responsibilities and methods for such will be negotiated with the
+    customer and documented.
+
+.. If the amount of third party property stored in-house becomes
+    significant, the [who?] will develop and maintain a log of customer
+    property to maintain an accurate inventory.
+
+.. Such third party property shall be preserved as if the items were
+    owned by [Short Client Name], in accordance with the procedure
+    *_[Preservation Proc. Title]._*
+
+.. For “soft” property (intellectual property, documentation, software,
+    etc.) these are maintained to ensure ongoing legibility and good
+    condition.
+
+.. Such intellectual property is stored on the server and identified by
+    the customer name [<- modify as necessary], and protected from
+    accidental deletion or alteration, as well as protected from
+    unauthorized access.
+
+.. Electronic versions of customer-provided intellectual property are
+    maintained on secure, backed-up company servers.
+
+.. In all cases, damage or loss of customer property will be promptly
+    reported to the customer for disposition or instructions.

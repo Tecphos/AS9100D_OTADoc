@@ -1,0 +1,102 @@
+=== Procedure: [Change Mgmt Doc Title] +
+
+*Rev. [Rev Number]* +
+
+*[Full Client Name Reg Caps]*
+
+---
+
+[arabic]
+. *SUMMARY*
+[arabic]
+.. The purpose of this procedure is to define the methods for managing
+changes to processes and other aspects of the management system in a
+controlled manner.
+.. Where this document discusses changes to processes, this shall be
+understood to mean the top-level processes identified in the *_[Quality
+Manual Doc Title]._*
+.. The [who?] is responsible for implementation and management of this
+procedure.
+. *REVISION AND APPROVAL*
++
+[cols="1,1,3,1",options="header",]
+|===
+|*Rev.* |*Date* |*Nature of Changes* |*Approved By*
+|[Rev Number] |[Date of Issue] |Original issue. |[Procedure Approver
+Name]
+
+| | | |
+
+| | | |
+|===
+
+[arabic, start=3]
+. *DEFINITIONS*
+[arabic]
+.. “Process Output” – the result of any process; these are typically
+defined in the [Process Definition Doc Title] for each top-level
+process.
+. *CHANGES TO PROCESSES*
+[arabic]
+.. Management system processes will undergo changes, typically when:
+[arabic]
+... Improvement opportunities have been identified, typically to improve
+process effectiveness
+... Nonconformities within a process are identified and require
+corrective action
+... Conditions in the industry or company change, requiring a process to
+be updated
+... New processes are added which impact on existing processes,
+requiring changes
+... Customer requirements result in a need to change processes
+... Any other reason determined by management
+.. In such cases, the process must be changed in a controlled manner to
+ensure proper authorization and implementation of the changes.
+.. At a minimum, process changes shall include the steps herein:
+[arabic]
+... The request for a process change shall be documented, typically in a
+[CAR Form Name] per the procedure *_[Corrective Preventive Action Proc.
+Title]._* The justification for the change shall be recorded.
+... The change shall be reviewed by appropriate management, including
+the senior most manager responsible for the process. Changes must be
+approved prior to implementation.
+... The appropriate *_[Process Definition Doc Title]_* will be updated
+to reflect the change. This document will undergo review and approval
+per the procedure *_[Control of Documents Proc. Title]._* The revision
+indicator of the *_[Process Definition Doc Title]_* will be incremented,
+and the nature of the change recorded.
+... The follow-up verification step of the CAR process shall seek to
+ensure the change has had the intended effect, and/or has improved the
+process. If not, the change may be rolled back or a new change made to
+correct any new issues that arise as a result of the change.
+. *CHANGES TO PROCESS OUTPUTS*
+[arabic]
+.. The methods for changing process outputs are typically defined in the
+*_[Process Definition Doc Title]_*. Where a process output is a
+document, the rules for changing documents above shall apply.
+.. Formal changes to process outputs will be used when the change is
+significant. Minor changes may be made without formal control, however
+the decision on what constitutes a significant vs minor change must be
+agreed upon by those involved in the change. If a customer indicates a
+change is significant, this will trump any internal decision.
+. *CHANGES TO DOCUMENTATION*
+[arabic]
+.. Management system documents undergo changes when there is a need to
+revise them.
+.. Changes to documentation are done in accordance with the procedure
+*_[Control of Documents Proc. Title]._*
+. *CHANGES TO ORDERS OR CONTRACTS*
+[arabic]
+.. Changes to active orders or contracts may occur when the customer
+changes the requirements after the work has begun, or may be initiated
+by [Short Client Name] when unforeseen circumstances are encountered.
+.. When changes are initiated by the customer, the new requirements will
+undergo the same review and acceptance per the procedure [Quoting and
+Orders Doc Title]. If the changes cannot be accepted by [Short Client
+Name], a satisfactory solution will be negotiated with the customer.
+.. When changes are initiated by [Short Client Name], the who? will
+notify the customer and negotiate a resolution.
+.. In all cases, when changes are agreed upon, they shall be initiated
+as follows:
+[arabic]
+... DETAILS HERE

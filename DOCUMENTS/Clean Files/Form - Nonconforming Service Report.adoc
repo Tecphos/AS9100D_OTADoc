@@ -1,0 +1,58 @@
+=== Nonconforming Service Report (NSR) +
+*Rev. [Rev Number]* +
+
+*[Short Client Name]*
+
+---
+
+[cols=",,",options="header",]
+|===
+|*Date:* |*Reported by:* |*Recorded by:*     
+|===
+
+[cols=",,",options="header",]
+|===
+3+|*Summarize the reported service nonconformity.* Attach or reference
+applicable documentation (emails, etc.)
+3+|:
+
+:
+
+:
+
+:
+
+|*Initial Review:* a|
+[ ] Nonconformity affirmed, proceed with investigation
+
+[ ] Nonconformity could not be affirmed or replicated; stop and monitor for further occurrences
+
+[ ] No nonconformity; stop.
+
+|
+
+2+|*Initial Review by:* |*Date*:      
+|===
+
+[cols=",,",options="header",]
+|===
+3+|*Root cause analysis:*
+
+|*Disposition* (check all that apply)
+
+2+a|
+[ ] Issue Refund
+
+[ ] Provide corrected service. Details:      
+
+[ ] Provide new services. Details:      
+
+[ ] File [CAR Form Abbreviation]; reference [CAR Form Abbreviation] #:      
+
+[ ] Customer waiver. Details:      
+
+[ ] Other action. Details:      
+3+|*Notes*:
+2+|*Disposition Approval by:* |*Date*:      
+2+|*Customer Approval by:*    |*Date*:      
+|===

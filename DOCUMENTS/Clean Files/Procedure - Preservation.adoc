@@ -1,0 +1,210 @@
+=== Procedure: [Preservation Proc. Title] +
+
+*Rev. [Rev Number]* +
+
+*[Full Client Name Reg Caps]*
+
+---
+
+[arabic]
+. *[.underline]#SUMMARY#*
+[arabic]
+.. This procedure defines the requirements for preserving and protecting
+    product, raw materials, or other key process outputs.
+
+.. The [who?] is responsible for implementation and management of this
+    procedure.
+
+. *[.underline]#REVISION AND APPROVAL#*
++
+[cols="1,1,3,1",options="header",]
+|===
+|*Rev.* |*Date* |*Nature of Changes* |*Approved By*
+|[Rev Number] |[Date of Issue] |Original issue. |[Procedure Approver Name]
+| | | |
+| | | |
+|===
+
+[arabic, start=3]
+. *[.underline]#HANDLING & LABELING#*
+[arabic]
+.. Proper handling of all parts and raw materials is performed.
+
+.. Specific handling requirements for operations will be defined in the
+    appropriate work instructions, where applicable.
+
+.. Customer-mandated handling requirements will be defined on the order
+    documentation.
+
+.. Labeling of special handling requirements (such as hazard warnings) will
+    be utilized as required.
+
+. *[.underline]#STORAGE & PROTECTION#*
+[arabic]
+.. All raw materials and work in process are stored in a manner that
+    prevents nonconformance.
+
+.. [Short Client Name] utilizes stock rooms, storage areas, shelving, and
+    other means to segregate and store materials. Access to stockrooms is
+    limited to authorized personnel, with this authorization recorded in the
+    employee's training file.
+
+.. Issuance and removal of parts from the stock room is controlled using
+    the following methods:
+[arabic]
+... Parts are removed or replaced [describe inventory methods here, both
+    in and out.]
+
+... The [who?] exercises control over the stock room.
+
+... All parts removed from the stock room are recorded on the
+    [document?] that requested their removal.
+
+... Raw material is issued only in conjunction with a released
+    [document?]. The Purchase Order number is recorded on the [document?].
+
+... Parts with a suspected nonconformance are tagged and stored per the
+    procedure *_[Control of NCP Proc. Title]._*
+
+... No part or material under investigation for suspected
+    nonconformances is placed in the stock room unless steps are taken to
+    prevent their issuance, including proper identification.
+
+.. The [who?] reviews any recurrent part damage linked to currently
+    approved protection methods to ensure changes are made to properly
+    protect materials and parts.
+
+.. Any material handling equipment utilized in [Short Client Name]
+    operations is used in accordance with the manufacturer’s operating
+    instructions. A copy of those instructions is maintained by the [who?]
+    and made available to required personnel. Any person using material
+    handling equipment for the first time is given training on the use of
+    the equipment by a qualified person.
+
+.. Parts are stacked to prevent damage from contact with other parts or
+    crushing. If required, material is used to separate sensitive parts to
+    prevent damage.
+
+.. Best industry practices are used by [Short Client Name] when tying,
+    wrapping or supporting parts to preclude shifting and falling.
+
+.. Special care is taken to prevent damage to critical machined surfaces,
+    highly polished surfaces or plated parts. The methods include protective
+    containers, wrapping, protective material or special racks. Any special
+    handling requirements are defined by the [who?] and are called out as
+    production steps on the [Short Client Name] [document?]
+
+.. Special care is taken by wearing protective gloves anywhere fingerprints
+    could cause deterioration of the part or cause inadequate adhesion
+    during fastening operations.
+
+.. Raw materials, parts, assemblies and finished parts are protected from
+    damage or contamination during transit using the following methods:
+
+* Parts and material are bagged, boxed or tied to prevent intermixing.
+* Parts are retained in their original containers for as long as possible.
+* Parts susceptible to vibration and shock damage are packed with foam,
+    pads or other special packaging.
+* Any parts that could be knocked or blown from carts, trucks or dollies
+    are covered, tied or banded.
+[arabic]
+.. All parts and materials are protected from weather conditions that could
+    adversely affect them. This includes coating or special containers for
+    raw materials to prevent corrosion or rust.
+
+.. Environmentally sensitive materials are protected using the following
+    special procedures:
+[arabic]
+... Materials are stored in original containers or, if removed for
+    inspection, are appropriately resealed.
+
+... Stock areas are checked to ensure compliance with any written
+    procedures for environmentally sensitive materials.
+
+... When temperature and humidity must be controlled, calibrated
+    recording devices are used to track temperature and humidity and
+    monitored. If limits are exceeded, the [who?] shall determine the
+    corrective action to be taken.
+
+... The [who?] department inspects the general housekeeping of the
+    storage areas and the [who?] department maintains their cleanliness.
+
+... Stock room personnel are trained in the special procedures required
+    for environmentally sensitive materials.
+
+.. Electrostatic sensitive items are subject to the controls as defined in
+    ESD work instructions.
+
+.. Internal auditing will ensure the ongoing suitability of all materials
+    and equipment stored at [Short Client Name], including constituent parts
+    of assemblies. Appropriate reports of product nonconformity and
+    corrective action are completed when material is found to be stored
+    improperly or is at risk of nonconformance.
+
+[arabic, start=5]
+. *[.underline]#PACKAGING#*
+[arabic]
+.. Good accepted packaging practices that maintain product conformance and
+    integrity through delivery are utilized. Customer-mandated packaging
+    requirements are captured and utilized when required.
+
+.. Only parts that have been manufactured and that meet established
+    acceptance criteria are packaged for shipment. Industry standard
+    preservation, packing and shipping methods are used for completed parts.
+    All subcomponents are identified prior to packaging.
+
+.. ESD sensitive products must be packaged in anti-static packaging.
+
+.. See also *_[Shipping Proc. Title]_*.
+
+. *[.underline]#PRESERVATION#*
+[arabic]
+.. Product is suitably maintained during manufacture, inspection and
+    delivery to prevent nonconformance. Preservation efforts include
+    segregation and/or the use of controlled environments or conditions.
+    Such requirements are incorporated into job instructions as required.
+
+.. The [who?] is responsible for control of shelf life material. Age
+    sensitive (perishable) materials are identified and controlled as
+    follows:
+[arabic]
+... When material is received into the system, a receiving inspector
+    determines if shelf life is applicable. In most cases, the manufacturer
+    will indicate the shelf life. In other cases, the date of manufacture is
+    given and the inspector must determine the life based on a acceptable
+    data. Shelf life items are marked as described below.
+
+... For some materials, the shelf life is determined after it is opened
+    for use. In those cases, the person who opens the material must place a
+    label on the container as noted below.
+
+... Any extension of shelf life must be covered by special instructions
+    for retest determined by the appropriate [who?] authority. The
+    permissible amount of time that shelf life can be extended must be
+    established and recorded.
+
+... Bins containing shelf life items are clearly marked as such.
+
+... The stock room is checked every month for shelf life items. Any
+    items found to be out of date are removed and segregated in a controlled
+    area until re-inspection, retesting and dispositioning can be
+    accomplished.
+
+... Incoming items subject to shelf life controlled are labeled with a
+    special label during receiving inspection; this label identifies the
+    expiration date.
+
+. *[.underline]#CLEANING#*
+[arabic]
+.. Parts are cleaned to remove any residue, foreign objects, burrs, etc. at
+    steps throughout the production process.
+
+.. Any cleaners, solvents or other fluids used in the production area are
+    marked as appropriate and stored in containers designed for solvent
+    storage. They are stored in a segregated area along with other fluids
+    and chemicals.
+
+. *[.underline]#DELIVERY#*
+[arabic]
+.. Preservation related to delivery methods are defined in the documented
+    procedure *_[Shipping Proc. Title]._*

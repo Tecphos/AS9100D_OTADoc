@@ -1,0 +1,48 @@
+
+=== *Out of Tolerance Impact Study* +
+
+*Rev. [Rev Number]* +
+
+*[Short Client Name]*
+
+---
+
+[cols="3*",options="header",]
+|===
+|*Date:* |*Tool:* |*Tool ID.:*   
+3+|*Summarize the out-of-tolerance condition of the tool:*
+3+| :
+
+    :
+
+    :
+
+    :
+
+a|
+[cols="",]
+|===
+    
+|===
+*Define the impact study; include description of estimated product
+affected, and actions to take to notify concerned stakeholders, or the
+justification as to why no action will be taken.*
+
+|:
+
+:
+
+:
+
+:
+
+|===
+
+[.text-center]
+*Approval*
+
+
+[cols=",",]
+|===
+|QUALITY: |DATE:
+|===

@@ -1,0 +1,169 @@
+=== Management Review Meeting Minutes +
+*Rev. [Rev Number]* +
+
+*[Short Client Name]*
+
+'''
+
+_This template is intended as a tool to prepare records of Management
+    Review Meetings. Please complete each section; this form may be used as
+    the final report, or used as a template to type and publish more formal
+    Management Review Meeting records. At all stages, management must
+    consider proper, proactive measures to take to improve the company, and
+    where it is necessary to apply preventive action. Record [CAR Form Name]
+    ([CAR Form Abbreviation]s) filed in last section of this template._
+
+[cols="",options="header",]
+|===
+|*Date of Review:*      
+|*Recorded by:*      
+|===
+
+*In attendance:*
+
+[cols=",",options="header",]
+|===
+|*NAME* |*TITLE*
+|       |      
+|       |      
+|       |      
+|       |      
+|       |      
+|       |      
+|       |      
+|       |      
+|===
+
+*Absent:*
+
+[cols=",",options="header",]
+|===
+|*NAME* |*TITLE*
+|       |      
+|       |     
+|       |     
+|       |     
+|       |      
+|===
+
+_For absent members, the minutes of this meeting must be sent to them
+    afterwards, and opportunity for review and comment given. Any comments,
+    changes, or additional inputs from these individuals must be
+    incorporated into the final minutes or issued as an addendum._
+
+[arabic]
+. *Review of the Quality Policy for current adequacy, and the need for
+    changes to it.* _Review the Quality Policy to ensure it still represents
+    the company’s goals._
++
+ENTER QUALITY POLICY HERE.
++
+[ ] Quality Policy reviewed and accepted as is.
++
+[ ] Quality Policy needs revision. Following changes recommended:
+
+. *Review of stakeholders and internal / external issues of concern.*
+    _Review the COTO Log and update it with any new or revised stakeholders
+    (interested parties) and issues of concern._
+
+. *Review of risks.* _Review the Risk Register within the COTO Log with
+    a focus on managing the negative risks indicated therein, and assessing
+    the effectiveness of actions taken to date._
+
+. *Review of opportunities.* _Review the Opportunity Register within the
+    COTO Log with a focus on managing the positive opportunities indicated
+    therein, and assessing the effectiveness of actions taken to date._
+
+. *Internal and external audit results.* _Report on the status of
+    internal quality audits: review results of audits conducted since last
+    meeting, and issues discovered._
+
+. *Status of corrective and preventive actions via the [CAR Form
+    Abbreviation] System.* _Review overdue [CAR Form Abbreviation]s. Review
+    trends indicated by the [CAR Form Abbreviation]s filed._
+
+. *Review of resources needed to maintain and improve the effectiveness
+    of the company and its quality management system. _Discuss resource
+    needs for each of the following points._*
++
+*EQUIPMENT RESOURCES REQUIREMENTS:*
++
+*WORK ENVIRONMENT & INFRASTRUCTURE REQUIREMENTS:*
++
+*QUALITY SYSTEM & OTHER RESOURCE REQUIREMENTS:*
++
+*HUMAN RESOURCES & TRAINING NEEDS:*
+
+. *Review of the effectiveness of training and training programs in
+    place.* _Include opportunities for improvement for training._
+
+. *Review of suppliers.* _Discuss issues regarding suppliers of critical
+    materials, hardware or software. Review supplier performance and any
+    quality or delivery issues. Review open supplier corrective action
+    notices issued since last meeting. Note any trends for individual
+    suppliers. Indicate changes of supplier status or restrictions._
+
+. *Review of quality objectives, data and goals.* _Review the current
+    Quality Objectives as outlined in the [Quality Manual Doc Title] and
+    modify goals accordingly. Complete the Objectives table on the next
+    page._
++
+[cols=",,,,,",options="header",]
+|===
+|*Top-Level Process* |*Quality Objective(s)* |*Metric(s) / KPIs*
+|*Current Standing* |*Goal* a|
+*Goal Met? (Y/N)*
+
+*(If no, a CAR must be filed)*
+
+| | | | | |
+
+| | | | | |
+
+| | | | | |
+
+| | | | | |
+
+| | | | | |
+|===
+
+
+. *Review customer feedback*. _Discuss customer feedback, customer
+    satisfaction survey results and complaints not already discussed as part
+    of the [CAR Form Abbreviation] system review._
+
+. *Update the Strategic Direction of the company.* _Include or attach the
+    updated Strategic Direction._
+
+. *Discuss the overall performance of the quality system, any changes to
+    the company that may affect the quality system.* _Include new
+    opportunities for improvement._
+
+. *Note other recommendations for improvement to the company’s products,
+    services, and/or QMS.* _Include explanation of any changes to the QMS
+    that have been deemed necessary._
+
+. *Note follow-up activities from prior Management Review issues.*
+
+. *Set date for next Management Review:*
+
+. *[CAR Form Abbreviation]s FILED:*
+
+[cols="2,2,6",options="header",]
+|===
+|*Line Item or [CAR Form Abbreviation] #* |*Corrective / Preventive OFI?* |*Nature of Issue*
+|      |      |     
+|      |      |     
+|      |      |     
+|      |      |     
+|      |      |     
+|      |      |     
+|===
+
+[arabic, start=18]
+. *ITEMS FOR FOLLOW-UP AT NEXT MEETING:* _Read through the entire minutes
+    above and copy any items that need to be looked at again, or followed up
+    on, at the next meeting._
+
+[arabic]
+     

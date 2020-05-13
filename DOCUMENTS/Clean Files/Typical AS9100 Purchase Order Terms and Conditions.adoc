@@ -1,0 +1,40 @@
+=== *TYPICAL AS9100 PURCHASE ORDER TERMS AND CONDITIONS*
+
+_Consider adding these to your Purchase Order form, or create a separate
+“Quality Clauses” document and then reference the specific clauses
+required by a supplier on each individual PO. For many purchases, it may
+not be necessary to reference anything._
+
+By accepting this PO the supplier agrees to all terms and conditions
+listed here.
+
+[arabic]
+. All applicable certificates to be sent with each shipment.
+
+. Supplier acknowledges [Short Client Name]'s right of access to its
+    facilities, product, and/or related quality records at any time, by
+    [Short Client Name], its customer, or regulatory authorities in order to
+    verify quality of products or work. Right of access may be limited to
+    only those records and product applicable to [Short Client Name]’s
+    products or contracts.
+
+. All purchasing requirements shall be flowed down to sub-tier suppliers
+    or subcontractors.
+
+. Supplier to notify [Short Client Name] immediately of unexpected
+    anomalies, nonconformances, changes in product and/or process, changes
+    of suppliers, and/or changes of manufacturing facility location. [Short
+    Client Name] reserves the right to approve such changes or incidents
+    before work is allowed to proceed.
+
+. Supplier acknowledges it shall apply suitable corrective action when
+    presented with [Short Client Name] complaints or nonconformance reports.
+
+. Records pertaining to the manufacture, inspection and test of [Short
+    Client Name]’s products shall be retained for a minimum of seven (7)
+    years.
+
+. Supplier shall comply with the Aerospace Industries Association of
+    America (AIA) _Global Principles of Ethics in the Aerospace & Defense
+    Industry_, available for review here:
+    http://asd-europe.org/business-ethics

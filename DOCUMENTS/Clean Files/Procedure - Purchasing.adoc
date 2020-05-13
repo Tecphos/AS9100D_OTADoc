@@ -1,0 +1,247 @@
+=== Procedure: [Purchasing Proc. Title] +
+
+*Rev. [Rev Number]* +
+
+*[Full Client Name Reg Caps]*
+
+---
+
+[arabic]
+. *[.underline]#SUMMARY#*
+[arabic]
+.. This procedure defines the requirements for evaluation and selection
+    of critical suppliers, purchasing critical materials and services, and
+    monitoring supplier performance.
+
+.. The receipt and receiving inspection of incoming purchased items is
+    defined in the procedure *_[Receiving Proc. Title]._*
+
+.. “Critical materials or services” are those materials or services
+    which are incorporated into final product, or which have a direct impact
+    on the company’s product or quality system, or which are otherwise
+    deemed as critical by management.
+
+.. Office supplies, administrative consumables, furniture, etc. are not
+    critical materials, and therefore not subject to this procedure.
+
+.. [Short Client Name] understands it is responsible for the conformity
+    of all products purchased from suppliers, including product from sources
+    defined by the customer.
+
+. *[.underline]#REVISION AND APPROVAL#*
++
+[cols=",,,",options="header",]
+|===
+|*Rev.* |*Date* |*Nature of Changes* |*Approved By*
+|[Rev Number] |[Date of Issue] |Original issue. |[Procedure Approver Name]
+| | | |
+| | | |
+|===
+
+[arabic, start=3]
+. *[.underline]#SUPPLIER EVALUATION, SELECTION AND CONTROL#*
+[arabic]
+.. The [who?] evaluates new suppliers. This person/these individuals
+    has/have both the responsibility and authority to approve and disapprove
+    suppliers.
+
+.. New suppliers are evaluated in accordance with the following
+    criteria:
+
+* Modify this list as needed
+* Pricing
+* Availability
+* Reputation / references
+* Location
+* Shipping terms and capabilities
+* Quality system certification status (ISO 9001 or AS9100 certification
+    preferred)
+* Quality of samples received (incl. testing results)
+* On-site audit results
+* Telephone interview results
+* Written survey results
+* Customer mandate
+* Sole source / OEM status
+[arabic]
+.. Where a customer mandates a special process source, both [Short Client
+    Name] and any suppliers *[.underline]#must#* use the required supplier;
+    this usage may override [Short Client Name]’s approval status rules.
+
+.. In some cases a formal risk assessment may be conducted as part of the
+    evaluation and selection of a potential supplier, or in order to
+    determine if a problematic supplier should be retained; see *_[Risk
+    Management Proc. Title]._*
++
+{empty}[Use this next section if the ASL is a spreadsheet, database or
+    document – NOT if the ASL is part of an ERP system.]
+
+.. The [who?] will maintain an Approved Supplier List (modify name if
+    needed) which lists all evaluated and approved suppliers, their approval
+    status, and the scope of their approval (commodities for which they are
+    approved.) ( add last part only for AS9100 clients.)
+
+.. Suppliers who meet any of the evaluation criteria, in the judgment of
+    the person conducting the evaluation, may then be entered into the
+    purchasing system and items may be purchased. However, the supplier is
+    entered into the *_Approved Supplier List_* (ASL) on a CONDITIONAL
+    basis, pending inspection or review of products or services rendered.
+
+.. Upon successful receipt or review of products or services, the manager
+    may then advance the supplier’s status to APPROVED.
+
+.. If the results of review of product or service received are
+    insufficient or otherwise lacking, the buyer may then elect to change
+    the supplier’s status to DISAPPROVED, or to leave it at CONDITIONAL
+    until further orders are received and reviewed.
+
+.. A supplier may also be listed as RESTRICTED, where certain purchasing
+    restrictions are placed on the supplier. This may be useful to limit
+    what products may be purchased from a supplier, or to place other
+    conditions.
+
+.. The *_Approved Supplier List_* indicates the supplier, location,
+    approval status (Approved, Conditional, Disapproved, Restricted), and
+    the scope of approval (typically commodity type or product family).
+    Re-approval of suppliers is continual and ongoing based on the suppliers
+    ability to meet the criteria of paragraph 3.2.2. For Restricted status,
+    a note of the restriction must also be included.
+
+.. Suppliers used for at least six months prior to [Date of Issue], have
+    been grandfathered into the system as Approved, provided they have no
+    outstanding quality issues on record, and only upon the decision by
+    [who?] to do so.
++
+{empty}[Use this next section if the ASL is part of the ERP system]
+
+.. For parts entered into the ERP system, this system will list approved
+    suppliers for the individual part, along with secondary choices of
+    approved suppliers, if applicable.
+
+.. In such cases, Purchasing will use this information to select the
+    appropriate supplier.
+
+.. Add details on specific ERP system here; for example, how the system
+    lists suppliers, commodities, ratings, etc.
+
+.. Purchasing from suppliers is then carried out in accordance with
+    section 4 below.
+
+.. Verification of purchased product is carried out in accordance with
+    the *[Receiving Proc. Title]* procedure.
+
+.. Supplier performance is monitored on the basis of the quality of items
+    received. Enter details on how this is logged, trended and reported. For
+    active suppliers, this activity acts as a continuous re-evaluation of
+    the supplier, with the receipt of every purchased item or service.
+
+.. During periodic Management Review meetings, supplier performance is
+    reported to top management, in accordance with the procedure
+    *_[Management Review Proc. Title]._* This periodic activity also
+    consists of secondary re-evaluation of suppliers.
+
+[arabic, start=4]
+. *[.underline]#PURCHASING#*
+[arabic]
+.. (If a Requisition Form is not used, edit this accordingly.) In order
+    to purchase critical materials or items, an employee will submit a
+    *_Requisition Form_* to Purchasing. This form must be approved by an
+    appropriate manager, in accordance with the following approval
+    authorities, based on dollar value of the purchase:
++
+EDIT PURCHASING AUTHORITY TABLE HERE.
++
+[cols=",",options="header",]
+|===
+|*Position* |*Authorization Value ($)
+| |
+| |
+| |
+| |
+| |
+| |
+| |
+|===
++
+.. If the requestor has indicated a preferred supplier, Purchasing will
+    ensure the supplier has been approved in accordance with the section
+    above; if the proposed supplier is not approved, Purchasing will either
+    use an approved supplier, or contact the requestor and resolve the
+    issue.
+
+.. Purchasing may purchase items directly, without a *_Requisition
+    Form_*.
+
+.. For some purchases, Purchasing may elect to submit competitive
+    requests for quotes from potential suppliers before making a purchase.
+
+.. Purchases may only be made using APPROVED suppliers. Purchases from
+    RESTRICTED suppliers must be made in accordance with the restrictions
+    noted in the ASL/ERP.
+
+.. If a new supplier is to be used, a CONDITIONAL supplier may be used,
+    in accordance with the conditions noted in the ASL/ERP.
+
+.. Purchasing shall then generate a *_Purchase Order_* (PO) to the
+    supplier.
+
+.. Each PO must contain the following information at a minimum:
+
+* Items to be ordered, identified clearly (typically to include catalog
+number, part number, etc.)
+* Date of delivery desired
+* Quantity
+* Pricing
+[arabic]
+.. In addition, the following information shall be included on the PO if
+    applicable:
+* requirements for approval of product, procedures, processes and
+    equipment
+* requirements for qualification of personnel
+* quality management system requirements
+* the identification and revision status of specifications, drawings,
+    process requirements, inspection/verification instructions and other
+    relevant technical data
+* requirements for design, test, inspection, verification (including
+    production process verification), use of statistical techniques for
+    product acceptance, and related instructions for acceptance by the
+    organization, and as applicable critical items including key
+    characteristics
+* requirements for test specimens (e.g., production method, number,
+    storage conditions) for design approval, inspection/verification,
+    investigation or auditing
+* requirements regarding the need for the supplier to:
+** notify the organization of nonconforming product
+** obtain organization approval for nonconforming product disposition
+** notify the organization of changes in product and/or process, changes of
+    suppliers, changes of manufacturing facility location and, where
+    required, obtain organization approval
+** flow down to the supply chain the applicable requirements including
+    customer requirements
+* records retention requirements
+* right of access by the organization, their customer and regulatory
+    authorities to the applicable areas of all facilities, at any level of
+    the supply chain, involved in the order and to all applicable records
+[arabic]
+.. The PO shall be reviewed and approved before release to the supplier;
+    this is indicated by the inclusion of the [who?]’s name entered onto the
+    PO.
+
+.. A copy of the PO shall then be sent to Receiving to await receipt of
+    the items.
+[arabic, start=5]
+. *[.underline]#PROCEDURE: SUPPLIER CORRECTIVE ACTION REQUESTS#*
+[arabic]
+.. The [who?] maintains a system of *_Supplier Corrective Action
+    Requests_*, or SCARs. This allows for the flow down of corrective action
+    requirements to a supplier when a supplier is found to be responsible
+    for a particular nonconformity.
+
+.. Any purchasing agent or manager may submit a *_SCAR Form_* to a supplier
+    that has shown quality problems or the potential for nonconformity.
+
+.. *_SCARs_* are routed to the supplier’s representative for root cause
+    analysis and action planning.
+
+.. Failure of a supplier to respond to a *_SCAR_*, or to respond with an
+    insufficient action plan, may mean adjustment in that supplier’s
+    evaluation standing.

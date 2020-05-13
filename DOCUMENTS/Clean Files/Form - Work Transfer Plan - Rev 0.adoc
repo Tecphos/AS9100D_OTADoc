@@ -1,0 +1,61 @@
+=== Work Transfer Plan +
+
+*Rev. [Rev Number]* +
+
+*[Short Client Name]*
+
+---
+
+[cols=",",options="header",]
+|===
+|*Date(s):*       |*Completed by:*      
+a|
+[.text-center]
+*TRANSFER WORK FROM:*
+[.text-center]
+“Transferring Party”
+
+*Company* *Dept:*
+
+*Supplier:*
+
+*Other Third Party:*
+
+a|
+[.text-center]
+*TRANSFER WORK TO:*
+[.text-center]
+“New Responsible Authority”
+
+*Company Dept:*
+
+*Supplier:*
+
+*Other Third Party:*
+
+2+|*Rationale for transfer:*      
+
+2+|*Work / products affected:*      
+
+2+|*Risk Assessment performed?* [ ] NO (deemed not required) [ ] YES (attach or reference herein)
+
+2+|*Define how Quality System controls will be communicated to the new responsible authority:*
+
+2+|*Define any limitations to be imposed on the new responsible authority:*
+
+2+|*Define how the Transferring Party will ensure quality of the work:*
+
+2+^|*AUTHORIZATIONS:*
+
+|_Signature:_ |_Signature:_
+
+|_Name:_    |_Name:_
+
+|_Title:_   |_Title:_
+
+|_Date:_    |_Date:_
+|===
+
+[.text-center]
+*_Attach or reference any contracts developed pertinent to the control
+of work transfers, if applicable._*

@@ -1,0 +1,139 @@
+
+=== Procedure: [Receiving Proc. Title] +
+
+*Rev. [Rev Number]* +
+
+*[Full Client Name]*
+
+---
+
+[arabic]
+. *[.underline]#SUMMARY#*
+[arabic]
+.. This procedure defines the process and methods receiving incoming
+    purchased product, and for verifying incoming purchased product to
+    ensure it meets requirements.
+
+.. The [who?] is responsible for implementation and management of
+    receiving activities.
+
+. *[.underline]#REVISION AND APPROVAL#*
++
+[cols=",,,",options="header",]
+|===
+|*Rev.* |*Date* |*Nature of Changes* |*Approved By*
+|[Rev Number] |[Date of Issue] |Original issue. |[Procedure Approver
+Name]
+
+| | | |
+
+| | | |
+|===
+
+[arabic, start=3]
+. *[.underline]#PROCEDURE: RECEIVING#*
+[arabic]
+.. Incoming items are received from various shipping carriers and staged
+    for receiving.
+
+.. The Receiving Clerk will conduct an immediate visual examination of
+    the packaging of each received item, looking for obvious damage. If such
+    damage is found, the Receiving Clerk will hold the driver, and notify
+    Purchasing if an immediate refusal should be conducted.
+
+.. Once items are accepted without any visual damage, the driver may
+    leave.
+
+.. The Receiving Clerk will then conduct an incoming receiving
+    inspection for each package, checking the following against the
+    *_Purchase Order_* [ or ERP entry]:
+
+* Correct quantity received
+* Correct items received
+* Items received on time or late
+* Obvious damage to items inside the packaging.
+* Items on backorder
+[arabic]
+.. Any problems will be noted on the [what form?] and Purchasing alerted.
+    Purchasing will advise the Receiving Clerk as to what actions to take.
+    In the interim, the questionable received items must be segregated away
+    from accepted items, and marked or tagged as “AWAITING DISPOSITION” or
+    similar language.
+
+.. Depending on the severity of the problem, Purchase may alert the
+    supplier and attempt to resolve the issue over the phone, or may submit
+    a full *_Supplier Corrective Action Request_* (SCAR) per the procedure
+    *_[Corrective Preventive Action Proc. Title]._*
+
+.. The [what form?] shall be used to track the quality of products
+    received by suppliers; this form is then summarized or sent to
+    Purchasing for evaluation and consideration of any changes to the
+    supplier’s current approval status in the *_Approved Vendor List_* (or
+    ERP).
+
+.. Once items are deemed acceptable, Receiving will determine if the
+    items require additional precision inspection by QC. If so, these items
+    shall be sent to QC for dimensional or precision inspection. QC will
+    notify the Receiving Clerk of the results of the inspection, and allow
+    release if they are acceptable. If the items are unacceptable, the
+    controls set forth in the procedure *_[Control of NCP Proc. Title]_* are
+    to be followed.
+
+.. QC will maintain records of inspections of incoming items.
+
+.. For accepted items, the PO will be stamped RECEIVED with the date
+    received; any backorder or other notes may be indicated on this PO. This
+    PO is then returned to Purchasing for review and filing.
+
+.. Accepted items may then be staged for routing to the appropriate
+    location, either to inventory or to the buyer.
+
+.. Items entered into inventory shall be marked with the company PO # and
+    material or item number or description, if the packaging does not
+    already include this information.
+
+.. [If the ERP system provides for location tracking] The ERP system will
+    be updated with the location where the items have been placed in
+    inventory, along with the quantity added.
+
+.. Any received certificates of conformity, test reports, certificates of
+    analysis, etc. will be forwarded to QC for review. QC will review these
+    reports for adequacy and to ensure they reflect the actual lot received.
+    If there are any problems, QC or Purchasing will notify the supplier to
+    submit a corrected certificate. If the certificate is acceptable, QC or
+    Purchasing will stamp or initial the report, and file it accordingly.
+
+.. All items are to be handled carefully, in a manner that will not
+    introduce damage, foreign objects, or deterioration.
+
+.. Only certified fork truck or lift operators may operate receiving or
+    warehouse vehicles.
+
+.. As required, broken down packages shall be relabeled so that split
+    items are readily identifiable if aster packaging labels are destroyed.
+
+.. Only authorized persons may enter or remove items from inventory; this
+    authorization is recorded within employee training records.
+
+.. Materials handlers must abide by all company safety rules and training
+    while working in the areas.
+
+.. No product may be released to production prior to receiving
+    inspection.
+
+.. Items with a shelf life (expiration date) are to be labeled with an
+    expiration sticker, based on the manufacturer’s product guidelines,
+    unless such a label has been affixed by the manufacturer. [Short Client
+    Name] management may override manufacturer guidelines for expiration if
+    they document the basis for doing so and maintain this on file in
+    Purchasing.
+
+.. Tools received with calibration certificates, or those tools which are
+    known to need calibration, must be submitted to QC for inclusion in the
+    calibration records prior to delivery to the buyer. See the section on
+    calibration in the *_[Quality Manual Doc Title]_* for more details on
+    calibration activities.
+
+.. Management will use information provided by Receiving and Purchasing
+    on supplier incoming inspection results to re-evaluate suppliers and
+    adjust supplier ratings accordingly.

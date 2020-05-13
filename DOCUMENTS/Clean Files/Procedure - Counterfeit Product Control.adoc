@@ -1,0 +1,281 @@
+=== Procedure: [Counterfeit Part Control Proc Title] +
+
+*Rev. [Rev.]* +
+
+*[Full Client Name Reg Caps]*
+
+---
+
+[arabic]
+. *[.underline]#SUMMARY#*
+[arabic]
+.. The purpose of this procedure is to define the methods for ensuring that
+    only authentic and conforming product and materiel are procured from
+    legally authorized sources, and to define the planning activities used
+    for risk mitigation, disposition, and reporting in the event any
+    counterfeit product or materiel is encountered in its supply chains.
+
+.. This document acts as the overall company “product and materiel
+    authenticity assurance plan.”
+
+.. This procedure addresses both the controls for potentially counterfeit
+    electronic components as well as counterfeit materiel. ( EDIT AS
+    NECESSARY)
+
+. *[.underline]#REVISION AND APPROVAL#*
++
+[cols="1,1,3,1",options="header",]
+|===
+|*Rev.* |*Date* |*Nature of Changes* |*Approved By*
+| | | |
+| | | |
+| | | |
+|===
+
+[arabic, start=3]
+. *[.underline]#REFERENCES#*
+[arabic]
+.. Controls for electronic components have been developed with
+    consideration of *_SAE AS5553 Counterfeit Electronic Parts; Avoidance,
+    Detection, Mitigation and Disposition,_* rev 2009-04.
+
+.. Controls for materiel have been developed with consideration of *_SAE
+    AS6174 Counterfeit Materiel; Assuring Acquisition of Authentic and
+    Conforming Materiel._*
+
+. *[.underline]#DEFINITIONS#*
+[arabic]
+.. *Aftermarket* *Manufacturer*: a manufacturer of a component legally
+    authorized and recognized by an OEM to produce its parts.
+
+.. *Broker* – an independent distributor that purchase new parts with the
+    intention to sell and redistribute them back into the market.
+    Independent distributors do not have contractual agreements or
+    obligations with OEMs.
+
+.. *Counterfeit Materiel* - Fraudulent materiel that has been confirmed to
+    be a copy, imitation or substitute that has been represented,
+    identified, or marked as genuine, and/or altered by a source without
+    legal right with intent to mislead, deceive or defraud.
+
+.. *Counterfeit part* – a suspect part that is a copy or substitute without
+    legal right or authority, or one whose material, performance or
+    characteristics are knowingly misrepresented by a supplier in the supply
+    chain. (Definition derived from *_AS5553_*.) See examples of counterfeit
+    parts below.
+
+.. *Franchised* *Distributors* – distributors legally authorized and
+    recognized by the OEM to distribute its parts.
+
+.. *Fraudulent Materiel* - Suspect materiel misrepresented to the customer
+    as meeting the customer’s requirements.
+
+.. *Manufacturer* - Manufacturer in this standard refers to the point of
+    origin of any materiel covered by the standard, including factories,
+    mills, foundries, mines, chemical plants, laboratories, etc.
+
+.. *Materiel* - Materiel in this standard refers to material, parts,
+    assemblies, and other procured items (except for electronic parts, which
+    are covered by AS5553).
+
+.. *OCM* – Original Component Manufacturer.
+
+.. *OEM* – Original equipment manufacturer; for the purposes of this
+    document, used interchangeably with the term OCM below.
+
+.. *Suspect Materiel* - Materiel, items, or products in which there is an
+    indication by visual inspection, testing, or other information that it
+    may meet the definition of fraudulent materiel or counterfeit materiel
+    provided below.
+
+.. *Suspect part* – a part in which there is an indication by visual
+    inspection, testing or other information that it may have been
+    misrepresented by the supplier or manufacturer and may meet the
+    definition of “counterfeit part” below. (Definition derived from
+    *_AS5553_*.)
+
+. *[.underline]#RESPONSIBILITY#*
+[arabic]
+.. The [who?] is responsible for implementation and management of this
+    procedure.
+
+.. This procedure may be subject to customer or regulatory approval; if so,
+    it will be submitted for said approval and updated accordingly to comply
+    with any external recommendations or requirements.
+
+. *[.underline]#CONTROL OF COUNTERFEIT ELECTRONIC COMPONENTS#*
+[arabic]
+.. *PURCHASING CONTROLS*
+[arabic]
+... Evaluation of electronic component suppliers shall determine if the
+    supplier is an OEM, Authorized Manufacturer or Franchised Distributor.
+    This information must be readily verifiable.
+
+... Purchasing preference will be given to purchasing electronic parts from
+    OEMs, Authorized Manufacturers or Franchised Distributors. Purchasing
+    from unverified sources or brokers is discouraged.
+
+... In all cases, purchases of electronic components shall include
+    requirements for providing documentation of traceability that satisfies
+    contract requirements and provides sufficient confidence that the parts
+    are not counterfeit.
+
+... Purchasing from brokers or other non-verified sources is only allowed
+    when the inspection and certification requirements controls in section 8
+    below are met. All such requirements must be met before any such parts
+    may be used in manufacturing.
+
+... When purchasing aerospace electronic components from Brokers, accredited
+    certification of the Broker organization to AS9120 is highly preferred,
+    as this provides an additional level of confidence in the Broker’s
+    quality management system.
+
+... image:media/image1.png[image,width=325,height=550]The illustration at
+    right may be used as a means of determining the level of risk when
+    selecting electronic part suppliers.
+
+... Additional contractual requirements may be added to the company purchase
+    orders, in order to contractually obligate the supplier to provide
+    non-counterfeit parts. Examples of such contractual requirements are
+    defined in *_SAE AS5553_* Appendix D.
+
+.. *INSPECTION & CERTIFICATION REQUIREMENTS*
+[arabic]
+... All electronic parts shall be received with a Certificate of Conformance
+    certifying that the component provided is the part number procured by
+    the company.
+
+... If the parts are ordered from a Franchised Distributor, the Certificate
+    of Conformance must provide traceability to the OEM. The preferable
+    method is for the Franchise Distributor to provide a copy of the OEM’s
+    certificate for the lot number being supplied, along with the Franchised
+    Distributor’s certificate.
+
+... For parts purchased from a broker or other non-verified source, the
+    parts must have sufficient documentation to provide traceability to the
+    OEM. The preferable method is for the Broker to provide a copy of the
+    OEM’s certificate for the lot number being supplied, along with the
+    Broker’s certificate. The Broker’s certificate must warrant the parts as
+    being “original” (that is, not refurbished or reworked.) *_If the Broker
+    cannot meet these conditions, the items may not be procured from the
+    Broker, unless the exception conditions defined in section 9 are met._*
+
+.. *EXCEPTION CONDITIONS*
+[arabic]
+... If any supplier – whether OEM, Authorized Manufacturer, Franchised
+    Distributor or Broker – cannot provide the necessary certification,
+    parts may be subjected to third party testing to confirm their adequacy.
+
+... Selected third party test labs must be approved by both the company and
+    the customer receiving the parts in question.
+
+... Test lab accreditation to ISO 17025 is highly recommended.
+
+... The company and the customer will agree on the standards to which the
+    components shall be tested, and provide that to the test lab. The test
+    lab must have the capability to test to the agreed upon standards.
+
+... The test lab will provide documented test results which include evidence
+    of conformity or nonconformity, uncertainty, devices used, calibration
+    status of devices, and atmospheric conditions under which the testing
+    was conducted.
+
+.. *EXAMPLES*
+[arabic]
+... The following are examples of counterfeit parts:
+[arabic]
+.... Parts which do not contain the proper internal construction (die,
+    manufacturer, wire bonding, etc.) consistent with the ordered part.
+
+.... Parts which have been used, refurbished or reclaimed, but which are
+    represented as new product.
+
+.... Parts which have different package style or surface plating/finish than
+    the ordered parts.
+
+.... Parts which have not successfully completed the OEM’s full production
+    and test flow, but which are represented as completed product.
+
+.... Parts sold as upscreened parts, which have not successfully completed
+    upscreening.
+
+.... Parts sold with modified labeling or markings intended to misrepresent
+    the part’s form, fit, function or grade.
+
+. *[.underline]#CONTROL OF COUNTERFEIT MATERIAL#*
+[arabic]
+.. *PURCHASING CONTROLS*
+[arabic]
+... When purchasing raw materials, the [who?] will assess potential sources
+    of supply to determine their likelihood of delivering authentic and
+    conforming materiel. This is done as part of supplier evaluation defined
+    in the procedure [Purchasing Proc. Title].
+
+... Relative to counterfeit product control, assessment actions may include
+    surveys, audits, review of product alerts, and review of supplier
+    quality data to determine past performance.
+
+... In assessment of suppliers relative to their ability to produce
+    non-counterfeit materiel is based on their known reputation, role in the
+    supply chain, past performance (if known) and whether or not the
+    supplier has been involved in known counterfeit incidents. As a result,
+    prioritizes purchasing raw materials from original manufacturers,
+    authorized suppliers, or other legally authorized sources.
+
+... When the procurement is not possible from the authorized chain, then
+    risk a risk assessment will be conducted on potential suppliers in
+    accordance with the procedure [Risk Management Proc. Title].
+
+... Purchase orders submitted to approved suppliers shall specify flow-down
+    of applicable requirements of this document to appropriate contractors,
+    their sub-contractors, and distributors.
+
+.. *VERIFICATION OF PURCHASED PRODUCT*
+[arabic]
+... Overall receiving inspection is defined in the procedure [Purchasing
+Proc. Title].
+... Receiving inspection shall aim to detect of any counterfeit materiel
+    prior to acceptance. These activities are based on the risk of the
+    materiel on final product, and include:
+[arabic]
+.... review of data deliverables (certificates, test reports, etc.)
+
+.... validation (third party laboratory testing)
+
+.... visual inspection (including research on marking requirements, Item
+    Unique Identification (IUID) scan
+
+.... non-destructive evaluation
+
+.... destructive testing
+
+... The procedure [Purchasing Proc. Title] defines the steps necessary to
+    review incoming certificates of conformity to identify potentially
+    counterfeit materiel, as well as certificate validation through third
+    party testing.
+
+... The procedure [Purchasing Proc. Title] also defines the steps necessary
+    to visually inspect incoming product in order to identify potentially
+    counterfeit materiel.
+
+.. *MATERIAL CONTROL*
+[arabic]
+... During production, excess and nonconforming product is controlled to
+    prevent it from entering the supply chain under fraudulent
+    circumstances.
+
+... This is accomplished by controlling or destroying any suspect or
+    confirmed counterfeit materiel to preclude its use or reentry into the
+    supply chain.
+
+... Operators will also visually verify raw materials for any unusual
+    circumstances or marking that may indicate counterfeit product, and
+    report it to management if suspicions arise.
+
+. *[.underline]#REPORTING#*
+[arabic]
+.. Any occurrences of counterfeit parts or materiel will be reported, as
+    appropriate, to customers, government reporting organizations, industry
+    supported reporting programs, and criminal investigative authorities.
+
+.. The [who?] will oversee these activities.

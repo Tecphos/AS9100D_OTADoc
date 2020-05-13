@@ -1,0 +1,189 @@
+=== Supplier Quality Survey Form +
+
+*Rev. [Rev. Number]* +
+
+*[Client Short Name]*
+
+---
+
+To Potential Supplier:
+
+As part of our commitment to quality and continual improvement, we ask
+select providers of critical products or services to complete this
+supplier quality survey, in order to qualify your company for future
+purchases.
+
+If your company is currently ISO 9001, ISO/TS 16949, ISO 13485 or AS9100
+certified, you may submit a copy of your certificate in lieu of this
+report. All such certificates must be provided by a third-party
+registrar accredited by ANAB, UKAS or another IAF signatory
+accreditation body. Unaccredited certificates are not recognized by
+[Short Client Name].
+
+Return the completed survey to our Purchasing Dept. via email to [Email
+for SCAR Processing Person], or via fax to [Fax]; please mark to the
+attention of Purchasing.
+
+[cols="3*",options="header",]
+|===
+3+|*general information*
+|*Company Name:*                                2+|
+|*Address:*                                     2+|
+|*Telephone:*                                   2+|
+|*Supplier’s Primary Business/Product:*         2+|
+|*Product Being Considered From This Source:*   2+|
+3+^|*Total Number of Personnel:*
+|*Quality:* |*Engineering:* |*Manufacturing:*
+|*Points of Contact:* 2+          2+|*Name:*
+|Quality Assurance Representative 2+|
+|Purchasing Representative        2+|
+|Management Representative        2+|
+|*Survey Completed By:* |*Department:* |*Date:* |
+| | |
+| | |
+| | |
+| | |
+|===
+
+[cols="1,12,2,2,2,2"]
+|===
+| | |*Yes* |*No* |*Under way* |*N/A*
+6+^|*QUALITY ASSURANCE INFORMATION*
+
+|1 |The quality assurance organization's authorities and
+responsibilities are clearly defined in writing. | | | |
+
+|2 |The QA/QC Dept. has the authority to withhold items that have not
+met acceptable quality standards. | | | |
+
+|3 |There is a Quality System Manual defining the company’s QMS in
+detail. | | | |
+
+|4 |The company prepares and issues periodic reports and maintains
+records relative to item acceptance/rejection, and disposition of
+rejected items. | | | |
+
+|5 |The quality assurance organization maintains a system for the use
+and control of inspection stamps. | | | |
+
+|6 |The quality assurance organization has a system for quality
+evaluations of potential suppliers. | | | |
+
+|7 |The quality assurance organization reviews all purchase orders. | | | |
+
+6+^|*RECEIVING INSPECTION*
+
+|8 |Is each lot of material received subjected to receiving inspection? | | | |
+
+|9 |Inspectors are provided with adequate inspection instructions. | | | |
+
+|10 |Does a documentation system exist to trace lot of material received
+until lot is expended? | | | |
+
+|11 |Can evidence of receiving inspection acceptance be found in each
+lot of material as it moves through the manufacturing process? | | | |
+
+|12 |Drawings used by receiving inspection are legible and reflect the
+latest changes. | | | |
+
+|13 |Sampling inspection, when applicable is performed in compliance
+with established recognized standards. | | | |
+
+6+^|*IN-PROCESS INSPECTION*
+
+|1 |Is there an in-process traveler or inspection record on each unit or
+lot? | | | |
+
+|2 |Do manufacturing and quality personnel annotate the traveler for
+each operation performed? | | | |
+
+|3 |Adequate inspection instructions are made available to all
+in-process inspection personnel? | | | |
+
+|4 |Drawings used by inspection are legible and reflect the latest
+changes. | | | |
+
+|5 |The measuring devices, gauges and test equipment required for
+in-process inspection are available and are adequate. | | | |
+
+|6 |Sampling inspection, when applicable, is performed in compliance
+with established, recognized standards. | | | |
+
+|7 |The supplier maintains a system for the proper identification of the
+inspection status of in-process materials. | | | |
+
+6+^|*MEASURING DEVICES AND TEST EQUIPMENT*
+
+|1 |Whenever measuring devices, gauges or test equipment items are
+reworked, they are inspected and calibrated prior to use. | | | |
+
+|2 |When new measuring devices, gauges and test equipment are acquired,
+they are inspected and calibrated prior to use. | | | |
+
+|3 |The processes for calibrating measuring devices, gauges and test
+equipment are covered by written procedures. | | | |
+
+|4 |All measuring devices, gauges and test equipment carry stamps which
+indicate the most recent calibration date and the date when the next
+calibration is to be performed. | | | |
+
+|5 |The supplier's quality assurance organization maintains a system for
+the automatic recall and periodic recalibration of all measuring
+devices, gauges and test equipment. | | | |
+
+|6 |Are calibration certificates with NIST traceability on file for all
+tools or calibration standards? | | | |
+
+6+^|*CONTROL OF NONCONFORMING PRODUCT*
+
+|1 |The supplier maintains a documented system for handling of
+nonconforming materials | | | |
+
+|2 |The supplier maintains a system for removing nonconforming supplies
+from the product flow. | | | |
+
+|3 |The supplier maintains a system for taking corrective action in
+order to prevent repetitive discrepancies. | | | |
+
+|4 |The supplier maintains a system for following up on all corrective
+action requests. | | | |
+
+|5 |Reports on nonconforming materials are regularly prepared and are
+reviewed by management for action. | | | |
+
+6+^|*FINAL INSPECTION*
+
+|1 |Adequate inspection instructions are available to final inspection
+personnel. | | | |
+
+|2 |Written instructions and procedures are readily available to all
+final inspection personnel. | | | |
+
+|3 |Drawings used by final inspection are legible and reflect the latest
+changes. | | | |
+
+|4 |The measuring devices, gauges and test equipment required for final
+inspection are available and adequate. | | | |
+
+|5 |Sampling inspection, when applicable, is performed in compliance
+with established, recognized standards. | | | |
+
+6+^|*SHIPPING AND PACKAGING*
+
+|1 |The supplier's quality assurance organization operates a shipping
+inspection function. | | | |
+
+|2 |All shipping inspection operations are performed in accordance with
+written instructions. | | | |
+
+|3 |Shipping inspectors have ready access to customer specified
+packaging instructions. | | | |
+
+|4 |When required, certified packaging materials are used. | | | |
+|===
+
+*RETURN TO [FULL CLIENT NAME ALL CAPS] AT:*
+
+*FAX: [Fax]*
+
+*[ISO MR Email Address]*

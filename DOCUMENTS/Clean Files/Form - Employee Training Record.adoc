@@ -1,0 +1,43 @@
+=== Employee Training Record +
+
+*Rev. [Rev Number]* +
+
+*[Short Client Name]*
+
+---
+
+[cols=",,,,,",options="header",]
+|===
+6+|Employee Name:
+6+|Employee Position / Title:
+3+|Start Date of Training: 3+|Trainer / Training Organization:    
+6+|Subject of Training:
+6+|Detailed description of Training (optional):
+
+|Type: | [ ] Individual | [ ] Group | [ ] Institution or Training Organization |[ ] On The Job |[ ] Other:
+
+6+|Completion Date of Training:
+
+2.3+.^|Result of Employee’s Training:
+4+|[ ] Satisfactory Attendance / Completion
+
+4+|[ ] Certification Obtained (indicate below)
+
+4+|[ ] Non-Satisfactory Result or Incomplete Attendance
+
+6+|Certificates / Credentials Obtained (if applicable):
+
+|If non-satisfactory result or incomplete attendance was checked,
+indicate correction plan:
+
+5+a|
+[ ] Employee must re-take training
+
+[ ] Employee must take alternate training
+
+[ ] *_[CAR Form Abbreviation]_* initiated, [CAR Form Abbreviation]# filed:_ _ _ _ _ _ _
+     
+[ ] Other action:      
+
+6+|Notes:
+|===

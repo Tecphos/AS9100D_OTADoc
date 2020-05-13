@@ -1,0 +1,49 @@
+=== Procedure: [Special Process Doc Title] +
+
+*Rev. [Rev Number]* +
+
+*[Full Client Name Reg Caps]*
+
+---
+
+[arabic]
+. *[.underline]#SUMMARY#*
+[arabic]
+.. The purpose of this procedure is to define the controls for special
+processes.
+.. “Special processes” are those processes where the output cannot be
+verified through traditional inspection, testing or other means. Special
+process outputs typically can only be verified by destroying the product
+(destructive testing) or through a method outside of the capability of
+the company. In some cases, the special process output cannot be
+verified at all.
+.. The [who?] is responsible for implementation and management of this
+procedure.
+. *[.underline]#REVISION AND APPROVAL#*
++
+[cols="1,1,3,1",options="header",]
+|===
+|*Rev.* |*Date* |*Nature of Changes* |*Approved By*
+|[Rev Number] |[Date of Issue] |Original issue. |[Procedure Approver Name]
+| | | |
+| | | |
+|===
+
+[arabic, start=3]
+. *[.underline]#SPECIAL PROCESSES#*
+[arabic]
+.. The following special processes have been identified as being used by
+[Short Client Name]. The table below provides the controls over these
+special processes. (edit table as required)
+
+[cols=",,,,,",options="header",]
+|===
+^|Special Process ^|Specifications ^|Personnel Requirements ^|Equipment
+Requirements ^|Parameter Controls ^|Additional Verification Methods
+| | | | | |
+| | | | | |
+| | | | | |
+| | | | | |
+| | | | | |
+| | | | | |
+|===
